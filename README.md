@@ -1,2 +1,9 @@
-# AllenRattler-Analytics-Portfolio
-A collection of data analytics projects demonstrating expertise in Excel, SQL, and Power BI. Includes end-to-end analyses covering data cleaning, exploratory data analysis (EDA), and actionable business insights.
+Project: Console Market Intelligence Dashboard
+
+Scope & filters: Lifetime, ended consoles, gens 3–8, proxy revenue
+
+Key insights (5): each with screenshot
+
+Methods/assumptions: revenue proxy definition, attach-rate definition, filter sensitivity note
+
+Tools: Excel, pivot/charts, dashboard design
