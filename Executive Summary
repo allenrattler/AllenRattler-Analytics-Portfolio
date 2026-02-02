@@ -1,0 +1,21 @@
+Insight #1
+
+Under the current dashboard filters (Lifetime, ended consoles, major manufacturers, 3rd–8th gen), the console hardware market totals ~1.1B units and ~$265.1B in estimated hardware revenue (proxy), implying an average hardware price of ~$242 per console.
+
+B) What this means (2–3 bullets, plain English):
+
+This quantifies the historical scale of the console hardware market in this filtered view: very large install base and substantial hardware revenue.
+
+The implied $242 average price suggests the dataset mix includes a blend of premium and lower-priced consoles across generations, not just high-end systems.
+
+Revenue is labeled proxy/estimated, so treat this as a directional market-sizing baseline, not audited financials.
+
+C) Evidence (what you’ll screenshot):
+
+KPI cards: Total Hardware Units Sold, Estimated Hardware Revenue (Global, proxy), Average Hardware Price
+
+Visible filters in the screenshot: SalesBasisType = Lifetime, ActiveFlag = Ended, Generation = 3rd–8th, Manufacturer = Microsoft/Nintendo/Sega/Sony, IsHardwareEstimate = 0
+
+D) Stakeholder “So what?” (1 bullet):
+
+This view establishes a baseline market size that leaders can use to compare platform segments and prioritize where to focus, but it does not prove future growth without adding external forecast sources.
