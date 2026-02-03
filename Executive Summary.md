@@ -44,7 +44,7 @@ Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%)
 
 **Stakeholder Action:** Allocate resources based on goals: use Sony for revenue-heavy targets and Nintendo for mass-market audience reach.
 
-(Insert Screenshot: Unit vs. Revenue Share Donut Charts)
+![Screenshot of Unit and Revenue Shares by Manufacturers](Console%20Market%20Intelligence%20Dashboard%20screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
 
 **5. Software Pull-Through**
    
