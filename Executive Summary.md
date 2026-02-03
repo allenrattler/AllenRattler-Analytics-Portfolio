@@ -2,11 +2,11 @@
 
 Under the current dashboard filters, the console hardware market totals ~1.1B units and ~$265.1B in estimated hardware revenue (proxy), implying an average hardware price of ~$242. The installed base is concentrated, with the top three consoles accounting for ~435M units (~40%), led by PS2, Nintendo DS, and Game Boy.   
 
-Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%), all of which are PlayStation platforms, signaling Sony’s historical strength in capturing hardware dollars. Manufacturer share splits reinforce different market strategies: Nintendo leads unit share (56%) while Sony leads revenue share (54%), suggesting Sony monetizes more per unit while Nintendo dominates reach. Finally, best-seller attach rates are highest on Nintendo platforms, indicating strong hit-title penetration that can amplify ecosystem engagement and downstream monetization.   
+Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%), all of which are PlayStation platforms, signaling Sony’s historical strength in capturing hardware dollars. Manufacturer share splits reinforce different market strategies: Nintendo leads unit share (56%) while Sony leads revenue share (54%), suggesting Sony monetizes more per unit while Nintendo dominates reach. Finally, best-seller attach rates are highest on Nintendo platforms, indicating strong hit-title penetration that can amplify ecosystem engagement and downstream monetization.
 
 🔍 **Key Insights & Findings**
 
-1. **Market Baseline**
+**1. **Market Baseline****
 
 **Headline**: The total market size stands at 1.1B units and $265.1B in estimated revenue.
 
@@ -16,7 +16,7 @@ Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%)
 
 ![Screenshot of Filters and KPIs](Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png)
 
-2. **Reach & Dominance (Units Sold)**
+**2. **Reach & Dominance (Units Sold)****
    
 **Headline:** The top 3 consoles (PS2, DS, Game Boy) account for ~40% of all units sold.
 
@@ -54,7 +54,7 @@ Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%)
 
 **Stakeholder Action:** Target marketing spend and bundling strategies on platforms where blockbusters historically drive massive conversion.
 
-(Insert Screenshot: "Top Consoles by Best Seller Attach Rate" Chart)
+![Screenshot of Top Consoles by Best Seller Attach Rate](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
 
 🛠️ Tools & Methodology
 Tools: Microsoft Excel (Power Query, Pivot Tables), SQL (Data Cleaning), Power BI (Data Visualization).
