@@ -1,35 +1,38 @@
-📊 Executive Summary
+📊 **Executive Summary**
+
 Under the current dashboard filters, the console hardware market totals ~1.1B units and ~$265.1B in estimated hardware revenue (proxy), implying an average hardware price of ~$242. The installed base is concentrated, with the top three consoles accounting for ~435M units (~40%), led by PS2, Nintendo DS, and Game Boy.   
 
 Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%), all of which are PlayStation platforms, signaling Sony’s historical strength in capturing hardware dollars. Manufacturer share splits reinforce different market strategies: Nintendo leads unit share (56%) while Sony leads revenue share (54%), suggesting Sony monetizes more per unit while Nintendo dominates reach. Finally, best-seller attach rates are highest on Nintendo platforms, indicating strong hit-title penetration that can amplify ecosystem engagement and downstream monetization.   
 
-🔍 Key Insights & Findings
-1. Market Baseline
-Headline: The total market size stands at 1.1B units and $265.1B in estimated revenue.
+🔍 **Key Insights & Findings**
 
-Insight: This establishes the historical scale of the industry within the filtered 3rd–8th generation scope.
+1. **Market Baseline**
 
-Stakeholder Action: Use this baseline to compare platform segments across major manufacturers.
+**Headline**: The total market size stands at 1.1B units and $265.1B in estimated revenue.
 
-(Insert Screenshot: KPI cards for Total Units, Revenue, and Avg Price)
+**Insight:** This establishes the historical scale of the industry within the filtered 3rd–8th generation scope.
+
+**Stakeholder Action**: Use this baseline to compare platform segments across major manufacturers.
 
 ![Screenshot of Filters and KPIs](Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png)
 
-2. Reach & Dominance (Units Sold)
-Headline: The top 3 consoles (PS2, DS, Game Boy) account for ~40% of all units sold.
+2. **Reach & Dominance (Units Sold)**
+   
+**Headline:** The top 3 consoles (PS2, DS, Game Boy) account for ~40% of all units sold.
 
-Insight: Reach is highly top-heavy; the PS2 remains the gold standard for audience scale at 160M units.
+**Insight:** Reach is highly top-heavy; the PS2 remains the gold standard for audience scale at 160M units.
 
-Stakeholder Action: Prioritize platform strategy around ecosystems with historically proven scale (Sony and Nintendo).
+**Stakeholder Action:** Prioritize platform strategy around ecosystems with historically proven scale (Sony and Nintendo).
 
-(Insert Screenshot: "Top Consoles by Units Sold" Bar Chart)
+![Screenshot of Top Consoles by Units Sold](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Units%20Sold.png)
 
-3. Revenue Concentration
-Headline: Sony dominates the top revenue spots, with the PS1, PS2, and PS3 capturing ~46% of total revenue.
+**3. Revenue Concentration**
+   
+**Headline:** Sony dominates the top revenue spots, with the PS1, PS2, and PS3 capturing ~46% of total revenue.
 
-Insight: Sony's ability to maintain high revenue even as generations shift proves long-term monetization strength.
+**Insight:** Sony's ability to maintain high revenue even as generations shift proves long-term monetization strength.
 
-Stakeholder Action: Guide portfolio focus toward ecosystems with historically proven revenue scale.
+**Stakeholder Action:** Guide portfolio focus toward ecosystems with historically proven revenue scale.
 
 (Insert Screenshot: "Top Consoles by Revenue" Bar Chart)
 
