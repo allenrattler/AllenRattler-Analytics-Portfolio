@@ -12,8 +12,9 @@ Insight: This establishes the historical scale of the industry within the filter
 Stakeholder Action: Use this baseline to compare platform segments across major manufacturers.
 
 (Insert Screenshot: KPI cards for Total Units, Revenue, and Avg Price)
-![Screenshot of Filters and KPIs]Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png
-Console Market Intelligence Dashboard screenshots/KPI and Filter.png
+
+![Screenshot of Filters and KPIs](Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png)
+
 2. Reach & Dominance (Units Sold)
 Headline: The top 3 consoles (PS2, DS, Game Boy) account for ~40% of all units sold.
 
