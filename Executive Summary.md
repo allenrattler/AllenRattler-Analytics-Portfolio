@@ -56,9 +56,12 @@ Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%)
 
 ![Screenshot of Top Consoles by Best Seller Attach Rate](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
 
-🛠️ Tools & Methodology
-Tools: Microsoft Excel (Power Query, Pivot Tables), SQL (Data Cleaning), Power BI (Data Visualization).
+🛠️ **Tools & Methodology**
 
-Scope: Lifetime sales for ended consoles across Generations 3 through 8.
+**Data Source:** Synthetic dataset generated using Generative AI to simulate historical console market trends for Generations 3–8.
 
-Assumptions: Revenue figures are based on proxy estimates (Average Selling Price x Units) rather than audited manufacturer financials.
+**Tools:** Microsoft Excel (Pivot Tables, Advanced Formulas) and Generative AI used for manual data cleaning, transformation, and logical structuring.
+
+**Scope:** Lifetime sales for ended consoles across Generations 3 through 8.
+
+**Assumptions:** Revenue figures are based on proxy estimates (Average Selling Price x Units) rather than audited manufacturer financials.
