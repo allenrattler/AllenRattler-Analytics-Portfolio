@@ -34,23 +34,25 @@ Revenue is similarly concentrated: the top three consoles generate ~$122B (~46%)
 
 **Stakeholder Action:** Guide portfolio focus toward ecosystems with historically proven revenue scale.
 
-(Insert Screenshot: "Top Consoles by Revenue" Bar Chart)
+![Screenshot of Top Consoles by Revenue](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Estimated%20Revenue.png)
 
-4. Volume vs. Value Strategy
-Headline: Nintendo leads in Unit Share (56%), while Sony leads in Revenue Share (54%).
+**4. Volume vs. Value Strategy**
+   
+**Headline:** Nintendo leads in Unit Share (56%), while Sony leads in Revenue Share (54%).
 
-Insight: There is a clear strategic split: Sony targets "Value/Premium" (more dollars per unit), while Nintendo targets "Volume/Reach."
+**Insight:** There is a clear strategic split: Sony targets "Value/Premium" (more dollars per unit), while Nintendo targets "Volume/Reach."
 
-Stakeholder Action: Allocate resources based on goals: use Sony for revenue-heavy targets and Nintendo for mass-market audience reach.
+**Stakeholder Action:** Allocate resources based on goals: use Sony for revenue-heavy targets and Nintendo for mass-market audience reach.
 
 (Insert Screenshot: Unit vs. Revenue Share Donut Charts)
 
-5. Software Pull-Through
-Headline: Nintendo platforms (Wii, NES, Wii U) show the highest best-seller attach rates, led by the Wii at 81.6%.
+**5. Software Pull-Through**
+   
+**Headline:** Nintendo platforms (Wii, NES, Wii U) show the highest best-seller attach rates, led by the Wii at 81.6%.
 
-Insight: This indicates that a single "system-seller" title can penetrate nearly the entire installed base on these platforms.
+**Insight:** This indicates that a single "system-seller" title can penetrate nearly the entire installed base on these platforms.
 
-Stakeholder Action: Target marketing spend and bundling strategies on platforms where blockbusters historically drive massive conversion.
+**Stakeholder Action:** Target marketing spend and bundling strategies on platforms where blockbusters historically drive massive conversion.
 
 (Insert Screenshot: "Top Consoles by Best Seller Attach Rate" Chart)
 
