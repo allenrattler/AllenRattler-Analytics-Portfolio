@@ -1,4 +1,4 @@
-📊 **Executive Summary**
+📊 **Console Market Intelligence Executive Summary**
 
 Under the current dashboard filters, the console hardware market totals **~1.1B units** and **~$265.1B** in estimated hardware revenue (proxy), implying an average hardware price of **~$242**. The installed base is concentrated, with the top three consoles accounting for **~435M units (~40%)**, led by PS2, Nintendo DS, and Game Boy.   
 
