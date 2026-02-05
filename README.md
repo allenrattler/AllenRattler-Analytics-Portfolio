@@ -34,7 +34,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** Use these rankings to prioritize market-sizing and platform focus around ecosystems with historically proven reach, while validating platform choices using the relevant filter view (Lifetime vs As-Of, generations included).
 
 **Evidence:**  
-
+![Screenshot of Top Consoles by Units Sold](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Units%20Sold.png)
 
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
