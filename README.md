@@ -23,7 +23,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** Use this baseline as the reference point for **market sizing and investment comparisons** across segments (for example: installed base vs revenue capture vs software pull-through).
 
 **Evidence:**  
-
+![Screenshot of Filters and KPIs](Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png)
 
 
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
