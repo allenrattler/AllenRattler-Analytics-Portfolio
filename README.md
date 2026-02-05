@@ -14,6 +14,18 @@ This project analyzes the video game console hardware market from the perspectiv
 
 5. Which consoles show the strongest best-seller software pull-through (best-seller attach rate)?
 
+### Insight 1: Market baseline (filtered view)
+
+**Headline:** Under the current dashboard filters, the console hardware market totals **~1.1B units** and **~$265.1B** in **estimated hardware revenue (proxy)**.
+
+**What it means:** This establishes the **historical market scale** within the selected scope (3rd–8th generation consoles in the current filtered view), creating a consistent baseline for comparing consoles, manufacturers, and generations.
+
+**Stakeholder takeaway:** Use this baseline as the reference point for **market sizing and investment comparisons** across segments (for example: installed base vs revenue capture vs software pull-through).
+
+**Evidence:**  
+
+
+
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
 **Key insights (5):** each with screenshot
