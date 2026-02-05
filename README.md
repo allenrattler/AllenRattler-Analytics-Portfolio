@@ -1,8 +1,8 @@
-**Project Overview**
+### Project Overview
 
 This project analyzes the video game console hardware market from the perspective of a market intelligence firm. The goal is to support **investment and market-sizing decisions** by quantifying hardware scale (units sold), estimated hardware revenue (proxy), and best-seller software pull-through (attach rate). Deliverables include an interactive Excel dashboard, a 1-page executive summary, a longer 4-page executive brief, and supporting visuals (screenshots + a dashboard demo GIF).
 
-**Business Questions**
+### Business Questions
 
 1. What is the total size of the console hardware market in this dataset under the current dashboard filters (units sold and estimated hardware revenue)?
 
