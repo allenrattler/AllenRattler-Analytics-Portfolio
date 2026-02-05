@@ -25,6 +25,16 @@ This project analyzes the video game console hardware market from the perspectiv
 **Evidence:**  
 ![Screenshot of Filters and KPIs](Console%20Market%20Intelligence%20Dashboard%20screenshots/KPI%20and%20Filter.png)
 
+### Insight 2: Reach and dominance (units sold)
+
+**Headline:** The top three consoles by lifetime units sold (**PlayStation 2, Nintendo DS, and Game Boy**) account for **~40% of all units** in the current filtered view (combined **~435M units**).
+
+**What it means:** Installed base is **highly concentrated**, with a small number of platforms capturing a disproportionate share of total hardware adoption. The **PlayStation 2 leads at 160M units**, with the Nintendo DS close behind at 156M.
+
+**Stakeholder takeaway:** Use these rankings to prioritize market-sizing and platform focus around ecosystems with historically proven reach, while validating platform choices using the relevant filter view (Lifetime vs As-Of, generations included).
+
+**Evidence:**  
+
 
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
