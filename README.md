@@ -36,6 +36,17 @@ This project analyzes the video game console hardware market from the perspectiv
 **Evidence:**  
 ![Screenshot of Top Consoles by Units Sold](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Units%20Sold.png)
 
+### Insight 3: Revenue concentration (estimated hardware revenue, proxy)
+
+**Headline:** In the current filtered view, **Sony’s PlayStation 1, PlayStation 2, and PlayStation 3** account for **~$122B (~46%)** of total **estimated hardware revenue (proxy)**.
+
+**What it means:** Estimated hardware revenue is **highly concentrated** in a small set of platforms. Sony’s presence across multiple generations indicates sustained ability to capture a large share of hardware dollars over time (within this dataset’s scope and assumptions).
+
+**Stakeholder takeaway:** This supports prioritizing investment analysis and market-sizing focus on ecosystems with historically strong revenue capture, while validating conclusions against the relevant filter view (Lifetime vs As-Of, generations included).
+
+**Evidence:**  
+![Top consoles by estimated hardware revenue](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Estimated%20Revenue.png)
+
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
 **Key insights (5):** each with screenshot
