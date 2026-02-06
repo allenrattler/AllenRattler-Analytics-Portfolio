@@ -89,16 +89,46 @@ Use the unit-share vs revenue-share split to frame manufacturer positioning: vol
 5) **Use best-seller attach-rate signals to inform bundling and launch strategy.**  
 On platforms with high best-seller attach rates, treat flagship titles as system-sellers and prioritize bundle and launch planning around expected software pull-through.
 
-
-
-**Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
-
-**Key insights (5):** each with screenshot
-
-**Methods/assumptions:** revenue proxy definition, attach-rate definition, filter sensitivity note
-
-**Tools:** Excel, pivot/charts, dashboard design
-
 **Dashboard Demo**
 
 https://github.com/user-attachments/assets/d6397795-ec64-4275-a2ca-1c2aabe65dfe
+
+## How to use the dashboard
+
+1) **Open the workbook and go to the `Dashboard` tab.**  
+This tab contains the KPIs, charts, and slicers used for the findings in this project.
+
+2) **Default view (recommended starting point)**  
+The dashboard is designed to load with a consistent baseline view:
+- `SalesBasisType` = **Lifetime**
+- `ActiveFlag` = **Ended**
+- `IsHardwareEstimate` = **0**
+
+3) **Use slicers to change the scope of analysis**
+- `SalesBasisType`:  
+  - **Lifetime** shows total lifecycle performance.  
+  - **AsOf** uses the selected `AsOfDate` snapshot.
+- `AsOfDate`: Select a point-in-time date when using **AsOf**.
+- `Manufacturer`: Filter results to specific manufacturers.
+- `Generation`: Filter to one or multiple console generations.
+- `ActiveFlag`: Toggle between **Active** and **Ended** consoles.
+- `IsHardwareEstimate`:  
+  - **0** uses non-estimated (reported) hardware unit values when available.  
+  - **1** includes estimated values where applicable (useful for broader coverage, but less certain).
+
+4) **Read the KPIs first (top row)**  
+These update based on slicers and summarize the current view:
+- **Total Hardware Units Sold**
+- **Estimated Hardware Revenue (Global, proxy)**
+- **Average Hardware Price**
+
+5) **Then use the charts to answer the business questions**
+- Top consoles by units sold (reach / installed base)
+- Top consoles by estimated revenue (value concentration)
+- Unit share vs revenue share by manufacturer (volume vs value strategy)
+- Best-seller attach rate (best-selling game units ÷ hardware units)
+
+6) **Interpretation notes**
+- Estimated hardware revenue is a **proxy** intended for comparison, not audited manufacturer financial reporting.
+- Rankings and shares are **filter-sensitive**, so conclusions should be read within the active slicer context.
+
