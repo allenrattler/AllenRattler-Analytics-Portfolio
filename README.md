@@ -134,3 +134,17 @@ These update based on slicers and summarize the current view:
 - Estimated hardware revenue is a **proxy** intended for comparison, not audited manufacturer financial reporting.
 - Rankings and shares are **filter-sensitive**, so conclusions should be read within the active slicer context.
 
+## Scope and default filters
+
+**Scope:** This dataset covers global console hardware performance across manufacturers and generations. In this project, **Lifetime** refers to the total units sold and estimated revenue captured over a console’s full commercial lifecycle (for consoles that have **ended production**).
+
+**Default slicer view (used for all insights unless stated otherwise):**
+- `SalesBasisType` = **Lifetime**
+- `ActiveFlag` = **Ended**
+- `IsHardwareEstimate` = **0**
+- `Manufacturer` = **All selected**
+- `Generation` = **3rd Gen through 8th Gen**
+
+**Interpretation:** `IsHardwareEstimate = 0` limits the view to **non-estimated hardware unit values where available** (higher confidence than estimated values).
+
+**Data transparency:** This project uses a **synthetic dataset generated with ChatGPT**, and hardware revenue is represented using **proxy estimates** for comparative analysis.
