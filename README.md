@@ -47,9 +47,17 @@ This project analyzes the video game console hardware market from the perspectiv
 **Evidence:**  
 ![Top consoles by estimated hardware revenue](Screenshots/Top%20Consoles%20by%20Estimated%20Revenue.png)
 
+### Insight 4: Volume vs value (manufacturer unit share vs revenue share)
 
+**Headline:** In the current filtered view, **Nintendo leads unit share (56%)**, while **Sony leads estimated hardware revenue share (54%)**.
 
-![Unit and Revenu Shares by Manufacturer](Screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
+**What it means:** The shares suggest a strategic split between **reach vs monetization**.  
+**Sony over-indexes on revenue** (38% of units vs 54% of revenue), while **Nintendo over-indexes on volume** (56% of units vs 39% of revenue), implying a higher average price per unit for Sony’s hardware mix in this view.
+
+**Stakeholder takeaway:** Use this split to guide investment and market-sizing analysis depending on the goal: prioritize **Nintendo for reach/scale** and **Sony for revenue concentration**, then validate conclusions under alternate filter views (Lifetime vs As-Of, different generations).
+
+**Evidence:**  
+![Unit and Revenue Shares by Manufacturer](Screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
 
 
 ![Top Consoles by Best Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
