@@ -59,8 +59,16 @@ This project analyzes the video game console hardware market from the perspectiv
 **Evidence:**  
 ![Unit and Revenue Shares by Manufacturer](Screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
 
+### Insight 5: Software pull-through (best-seller attach rate)
 
-![Top Consoles by Best Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
+**Headline:** Nintendo platforms show the strongest best-seller software pull-through, led by the **Wii (81.6%)**, followed by **NES (65.0%)** and **Wii U (62.4%)**.
+
+**What it means:** These attach rates (best-selling game units ÷ hardware units) indicate that a single “system-seller” title can reach a very large share of the installed base on certain platforms, signaling strong software pull-through and high blockbuster penetration among console owners.
+
+**Stakeholder takeaway:** Use high attach-rate platforms to inform **bundle strategy and marketing allocation**, especially when evaluating how much a flagship title can expand adoption and drive engagement within an ecosystem.
+
+**Evidence:**  
+![Top Consoles by Best-Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
 
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
