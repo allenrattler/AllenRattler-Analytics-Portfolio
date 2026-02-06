@@ -1,10 +1,10 @@
-### Project Overview
+## Project Overview
 
 **Important:** All insights shown are based on the default slicers (`SalesBasisType = Lifetime`, `ActiveFlag = Ended`, `IsHardwareEstimate = 0`) unless stated otherwise.
 
 This project analyzes the video game console hardware market from the perspective of a market intelligence firm. The goal is to support **investment and market-sizing decisions** by quantifying hardware scale (units sold), estimated hardware revenue (proxy), and best-seller software pull-through (attach rate). Deliverables include an interactive Excel dashboard, a 1-page executive summary, a longer 4-page executive brief, and supporting visuals (screenshots + a dashboard demo GIF).
 
-### Business Questions
+## Business Questions
 
 1. What is the total size of the console hardware market in this dataset under the current dashboard filters (units sold and estimated hardware revenue)?
 
@@ -91,7 +91,7 @@ Use the unit-share vs revenue-share split to frame manufacturer positioning: vol
 5) **Use best-seller attach-rate signals to inform bundling and launch strategy.**  
 On platforms with high best-seller attach rates, treat flagship titles as system-sellers and prioritize bundle and launch planning around expected software pull-through.
 
-**Dashboard Demo**
+## Dashboard Demo
 
 https://github.com/user-attachments/assets/d6397795-ec64-4275-a2ca-1c2aabe65dfe
 
@@ -182,3 +182,50 @@ These update based on slicers and summarize the current view:
 | `ActiveFlag` | Categorical | Lifecycle status indicator used for filtering (e.g., `Active` vs `Ended`). |
 | `IsHardwareEstimate` | Binary | Flag indicating whether hardware units are estimated (`1`) or non-estimated (`0`) where available. |
 | `AsOfDate` | Date | Snapshot date used when `SalesBasisType = AsOf`. |
+
+## Methodology and QA checks
+
+**Method overview**
+- Built a market-sizing and segmentation view using console-level fields (manufacturer, generation, lifecycle status) and dashboard slicers to support comparative analysis.
+- Estimated hardware revenue using a proxy method: `HardwareUnitsSold (Global) × HardwareASP_USD`.
+
+**QA checks performed**
+- **Duplicate check:** Reviewed potential duplicates by `ConsoleName` (and validated console naming consistency where applicable).
+- **Revenue validation:** Verified `Estimated Hardware Revenue (Proxy)` equals `HardwareUnitsSold (Global) × HardwareASP_USD`.
+- **Dashboard consistency:** Confirmed dashboard slicer defaults match the views used in the executive summary outputs.
+- **Format and types:** Checked that critical numeric/date fields are consistently formatted (units, USD, years, dates).
+- **Completeness:** Ensured key analysis fields are populated (console name, manufacturer, generation, units, ASP/proxy inputs).
+- **Attach-rate sanity:** Quick-checked that best-seller attach rates stay within a realistic range (0%–100%) with no outliers above 100%.
+- **Range checks:** Confirmed there are no negative values in units sold, ASP, or estimated revenue proxy fields.
+
+## Limitations and next steps
+
+**Limitations**
+- **Revenue is proxy-based:** Estimated hardware revenue is calculated using assumed ASP values and should be treated as directional for comparisons, not audited financial reporting.
+- **Synthetic dataset:** This dataset was generated with ChatGPT for portfolio purposes and does not represent an official source of record.
+- **Attach rate scope:** The attach-rate metric reflects **best-seller penetration** (best-selling game units ÷ hardware units), not total software attach across the full catalog.
+- **Filter sensitivity:** Rankings and shares can change materially when slicers change (Lifetime vs As-Of, generation selection, lifecycle status, estimate flags).
+
+**Next steps (if expanding this analysis)**
+- Validate proxy ASP assumptions using public pricing history or audited sources and add confidence ranges where possible.
+- Add catalog-level software sales to compute full attach rate (not best-seller only) and segment by time period and region.
+- Extend the dataset to include current-generation consoles and recent As-Of snapshots to support forward-looking market sizing.
+
+## Repo contents
+
+- `README.md`  
+  Project overview, business questions, key insights with evidence, and methodology notes.
+
+- `Console_Market_Intelligence_Executive_Summary_1page.pdf`  
+  One-page executive summary (high-level findings + visuals).
+
+- `Console Market Intelligence Dashboard Executive Summary.pdf`  
+  Longer executive brief (expanded narrative and supporting detail).
+
+- `Screenshots/`  
+  Dashboard evidence used in the README and executive summaries:
+  - `KPI and Filter.png` (Insight 1)
+  - `Top Consoles by Units Sold.png` (Insight 2)
+  - `Top Consoles by Estimated Revenue.png` (Insight 3)
+  - `Unit and Revenue Shares by Manufacturer.png` (Insight 4)
+  - `Top Consoles by Best Seller Attach Rate.png` (Insight 5)
