@@ -45,7 +45,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** This supports prioritizing investment analysis and market-sizing focus on ecosystems with historically strong revenue capture, while validating conclusions against the relevant filter view (Lifetime vs As-Of, generations included).
 
 **Evidence:**  
-![Top consoles by estimated hardware revenue](Console%20Market%20Intelligence%20Dashboard%20screenshots/Top%20Consoles%20by%20Estimated%20Revenue.png)
+![Top consoles by estimated hardware revenue](Screenshots/Top%20Consoles%20by%20Estimated%20Revenue.png)
 
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
