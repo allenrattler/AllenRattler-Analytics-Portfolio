@@ -148,3 +148,37 @@ These update based on slicers and summarize the current view:
 **Interpretation:** `IsHardwareEstimate = 0` limits the view to **non-estimated hardware unit values where available** (higher confidence than estimated values).
 
 **Data transparency:** This project uses a **synthetic dataset generated with ChatGPT**, and hardware revenue is represented using **proxy estimates** for comparative analysis.
+
+
+## Metric definitions (mini glossary)
+
+- **Total Hardware Units Sold:** Sum of **HardwareUnitsSold (Global)** across all consoles included in the current slicer view.
+
+- **Estimated Hardware Revenue (Global, proxy):** Calculated as **HardwareUnitsSold (Global) × HardwareASP_USD**, then summed across consoles in the current slicer view.  
+  *Note: This is a proxy estimate generated from assumed ASP values (synthetic), used for comparison rather than audited financial reporting.*
+
+- **Average Hardware Price:** Weighted average price calculated as  
+  **Estimated Hardware Revenue (proxy) ÷ Total Hardware Units Sold**.
+
+- **Best-seller attach rate:** Best-selling game penetration per console, calculated as  
+  **BestSellingUnitsSold ÷ HardwareUnitsSold (Global)** (reported as a percentage).  
+  *This reflects best-seller penetration, not total software attach across the full game catalog.*
+
+## Data dictionary (key fields)
+
+| Field | Type | Description |
+|------|------|-------------|
+| `ConsoleName` | Categorical | Name of the console platform (e.g., PlayStation 2, Wii). |
+| `Manufacturer` | Categorical | Console manufacturer (e.g., Sony, Nintendo, Microsoft). |
+| `Generation` | Categorical | Console generation grouping used for segmentation (e.g., 3rd–8th gen). |
+| `GameReleaseDate` | Date | Release date of the best-selling game associated with the console (where available). |
+| `BestSellingGameTitle` | Text | Best-selling game title for the console (used in attach-rate context). |
+| `HardwareUnitsSold (Global)` | Numeric | Global lifetime hardware units sold for the console under the selected `SalesBasisType`. |
+| `HardwareASP_USD` | Numeric (Proxy) | Average selling price (USD) used to estimate revenue (synthetic / assumed). |
+| `Estimated Hardware Revenue (Proxy) (Global USD)` | Numeric (Derived) | Proxy estimate calculated as `HardwareUnitsSold (Global) × HardwareASP_USD`. |
+| `Launch Year` | Numeric | Console launch year (used for lifecycle context). |
+| `EndOfLifeYear` | Numeric | Console end-of-life year (used to classify ended/active lifecycle). |
+| `SalesBasisType` | Categorical | Defines whether values represent `Lifetime` totals or an `As-Of` snapshot view. |
+| `ActiveFlag` | Categorical | Lifecycle status indicator used for filtering (e.g., `Active` vs `Ended`). |
+| `IsHardwareEstimate` | Binary | Flag indicating whether hardware units are estimated (`1`) or non-estimated (`0`) where available. |
+| `AsOfDate` | Date | Snapshot date used when `SalesBasisType = AsOf`. |
