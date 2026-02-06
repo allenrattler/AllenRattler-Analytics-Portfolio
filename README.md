@@ -51,6 +51,9 @@ This project analyzes the video game console hardware market from the perspectiv
 
 ![Unit and Revenu Shares by Manufacturer](Screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
 
+
+![Top Consoles by Best Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
+
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
 **Key insights (5):** each with screenshot
