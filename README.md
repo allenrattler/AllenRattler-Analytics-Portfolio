@@ -70,6 +70,27 @@ This project analyzes the video game console hardware market from the perspectiv
 **Evidence:**  
 ![Top Consoles by Best-Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
 
+## Recommendations (directional)
+
+> Note: This project uses a filtered, lifetime view and includes estimated revenue proxies. Use these recommendations as directional guidance and validate with current-generation / As-Of data before making forward-looking decisions.
+
+1) **Use the market baseline for consistent sizing comparisons.**  
+Treat the filtered market totals as a reference point when comparing consoles, manufacturers, and generations across the dashboard.
+
+2) **Prioritize ecosystems differently based on the goal (reach vs dollars).**  
+Use unit share to guide reach-oriented sizing (audience scale) and revenue share to guide value-oriented sizing (hardware dollar concentration), rather than treating all platforms as equivalent.
+
+3) **Focus deeper analysis where revenue is concentrated.**  
+Where a small number of platforms capture a large share of estimated hardware revenue, prioritize deeper sizing and investment evaluation on those ecosystems first.
+
+4) **Apply volume vs value signals to manufacturer-level strategy.**  
+Use the unit-share vs revenue-share split to frame manufacturer positioning: volume ecosystems emphasize scale, while value ecosystems emphasize monetization per unit.
+
+5) **Use best-seller attach-rate signals to inform bundling and launch strategy.**  
+On platforms with high best-seller attach rates, treat flagship titles as system-sellers and prioritize bundle and launch planning around expected software pull-through.
+
+
+
 **Scope & filters:** Lifetime, ended consoles, gens 3–8, proxy revenue
 
 **Key insights (5):** each with screenshot
