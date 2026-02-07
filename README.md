@@ -232,8 +232,8 @@ These update based on slicers and summarize the current view:
 
 - `Screenshots/`  
   Dashboard evidence used in the README and executive summaries:
-  - `KPI and Filter.png` (Insight 1)
-  - `Top Consoles by Units Sold.png` (Insight 2)
-  - `Top Consoles by Estimated Revenue.png` (Insight 3)
-  - `Unit and Revenue Shares by Manufacturer.png` (Insight 4)
-  - `Top Consoles by Best Seller Attach Rate.png` (Insight 5)
+  - `Insight1_KPI_Filter.png` (Insight 1)
+  - `Insight2_Top_Units_Sold.png` (Insight 2)
+  - `Insight3_Top_Revenue.png` (Insight 3)
+  - `Insight4_Unit_and_Revenue_Shares.png` (Insight 4)
+  - `Insight5_Top_Best_Seller_Attach_Rate.png` (Insight 5)
