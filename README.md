@@ -4,6 +4,8 @@
 
 This project analyzes the video game console hardware market from the perspective of a market intelligence firm. The goal is to support **investment and market-sizing decisions** by quantifying hardware scale (units sold), estimated hardware revenue (proxy), and best-seller software pull-through (attach rate). Deliverables include an interactive Excel dashboard, a 1-page executive summary, a longer 4-page executive brief, and supporting visuals (screenshots + a dashboard demo GIF).
 
+📄 Executive Summary (1-page PDF): [Console Market Intelligence Executive Summary](Console_Market_Intelligence_Executive_Summary_1page.pdf)
+
 ## Skills demonstrated
 
 - **Dashboard design (Excel):** Built an interactive dashboard with slicers, KPI cards, and segmented views to support stakeholder decision-making.
