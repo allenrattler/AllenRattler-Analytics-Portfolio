@@ -25,7 +25,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** Use this baseline as the reference point for **market sizing and investment comparisons** across segments (for example: installed base vs revenue capture vs software pull-through).
 
 **Evidence:**  
-![Screenshot of Filters and KPIs](Screenshots/KPI%20and%20Filter.png)
+![Screenshot of Filters and KPIs](Screenshots/Insight1_KPI_Filter.png)
 
 ### Insight 2: Reach and dominance (units sold)
 
