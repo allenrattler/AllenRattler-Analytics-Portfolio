@@ -70,7 +70,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** Use high attach-rate platforms to inform **bundle strategy and marketing allocation**, especially when evaluating how much a flagship title can expand adoption and drive engagement within an ecosystem.
 
 **Evidence:**  
-![Top Consoles by Best-Seller Attach](Screenshots/Top%20Consoles%20by%20Best%20Seller%20Attach%20Rate.png)
+![Top Consoles by Best-Seller Attach](Screenshots/Insight5_Top_Best_Seller_Attach_Rate.png)
 
 ## Recommendations (directional)
 
