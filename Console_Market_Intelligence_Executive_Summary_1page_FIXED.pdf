@@ -1,0 +1,310 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6355
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 713.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 38.928 0 Td (Console Market Intelligence Executive Summary) Tj T* -38.928 0 Td ET
+Q
+Q
+q
+1 0 0 1 60 690.6 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (Scope: Lifetime ended consoles \(Gen 3-8\) | Revenue: proxy \(ASP x units\) | Data: synthetic for portfolio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 656.6 cm
+q
+.956863 .964706 .972549 rg
+n 0 22 504 -22 re f*
+.133333 .133333 .133333 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 8 Tm (Default filters) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 103.2 8 Tm (SalesBasisType = Lifetime | ActiveFlag = Ended | IsHardwareEstimate = 0 | Manufacturer = All | Generation = 3rd-8th) Tj T* ET
+q
+1 J
+1 j
+.815686 .843137 .870588 RG
+.75 w
+n 0 22 m 504 22 l S
+n 0 0 m 504 0 l S
+n 0 0 m 0 22 l S
+n 504 0 m 504 22 l S
+.25 w
+n 97.2 0 m 97.2 22 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 645.8 cm
+Q
+q
+1 0 0 1 60 589.8 cm
+q
+BT 1 0 0 1 0 45.5 Tm 14 TL /F1 10.5 Tf 0 0 0 rg (Under the current dashboard filters, the console hardware market totals ) Tj /F2 10.5 Tf (~1.1B units) Tj /F1 10.5 Tf ( and ) Tj /F2 10.5 Tf (~$265.1B) Tj /F1 10.5 Tf ( in) Tj T* /F2 10.5 Tf (estimated hardware revenue \(proxy\)) Tj /F1 10.5 Tf (, implying an average hardware price of ) Tj /F2 10.5 Tf (~$242) Tj /F1 10.5 Tf (. The installed base) Tj T* (and revenue are highly concentrated at the top, with a clear split between volume-led and value-led) Tj T* (manufacturer strategies, and strong best-seller pull on select platforms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 576.6 cm
+Q
+q
+1 0 0 1 60 550.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Key Insights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 531.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (1\) Market baseline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 501.6 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Headline:) Tj /F1 10.5 Tf ( Under the current filters, total market size is ) Tj /F2 10.5 Tf (~1.1B units) Tj /F1 10.5 Tf ( and ) Tj /F2 10.5 Tf (~$265.1B) Tj /F1 10.5 Tf ( estimated hardware) Tj T* (revenue \(proxy\), with an implied ) Tj /F2 10.5 Tf (~$242) Tj /F1 10.5 Tf ( average price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 467.6 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Stakeholder takeaway:) Tj /F1 10.5 Tf ( Use as a baseline for market sizing and investment comparisons across) Tj T* (consoles, manufacturers, and generations in this filtered scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 457.28 cm
+Q
+q
+1 0 0 1 60 444.28 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (2\) Reach and dominance \(units sold\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 414.28 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Headline:) Tj /F1 10.5 Tf ( Top 3 consoles \(PS2, Nintendo DS, Game Boy\) total ) Tj /F2 10.5 Tf (~435M units) Tj /F1 10.5 Tf ( \() Tj /F2 10.5 Tf (~40%) Tj /F1 10.5 Tf ( of all units\), showing) Tj T* (a top-heavy installed base.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 380.28 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Stakeholder takeaway:) Tj /F1 10.5 Tf ( Prioritize reach-oriented sizing on ecosystems with proven scale; validate with) Tj T* (As-Of / current-gen views for today's market.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 369.96 cm
+Q
+q
+1 0 0 1 60 356.96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (3\) Revenue concentration \(proxy\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 326.96 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Headline:) Tj /F1 10.5 Tf ( Top 3 consoles by estimated hardware revenue \(PS2, PS3, PS1\) generate ) Tj /F2 10.5 Tf (~$122B) Tj /F1 10.5 Tf ( \() Tj /F2 10.5 Tf (~46%) Tj /F1 10.5 Tf ( of) Tj T* (total\), highlighting revenue concentration among PlayStation platforms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 292.96 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Stakeholder takeaway:) Tj /F1 10.5 Tf ( Focus deeper investment sizing on ecosystems with historically strong revenue) Tj T* (capture; confirm under alternate filter views.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 282.64 cm
+Q
+q
+1 0 0 1 60 269.64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (4\) Volume vs value by manufacturer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 225.64 cm
+q
+BT 1 0 0 1 0 31.5 Tm -0.080143 Tw 14 TL /F2 10.5 Tf 0 0 0 rg (Headline:) Tj /F1 10.5 Tf ( Nintendo leads unit share \() Tj /F2 10.5 Tf (56%) Tj /F1 10.5 Tf (\), while Sony leads revenue share \() Tj /F2 10.5 Tf (54%) Tj /F1 10.5 Tf (\). Sony over-indexes on) Tj T* 0 Tw (revenue \() Tj /F2 10.5 Tf (38% units vs 54% revenue) Tj /F1 10.5 Tf (\), while Nintendo over-indexes on volume \() Tj /F2 10.5 Tf (56% units vs 39%) Tj T* (revenue) Tj /F1 10.5 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 191.64 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Stakeholder takeaway:) Tj /F1 10.5 Tf ( Align analysis to objective: reach-led sizing on volume ecosystems and value-led) Tj T* (sizing on revenue-dominant ecosystems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 181.32 cm
+Q
+q
+1 0 0 1 60 168.32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (5\) Software pull-through \(best-seller attach\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 138.32 cm
+q
+BT 1 0 0 1 0 17.5 Tm 14 TL /F2 10.5 Tf 0 0 0 rg (Headline:) Tj /F1 10.5 Tf ( Highest best-seller attach rates are Wii \() Tj /F2 10.5 Tf (81.6%) Tj /F1 10.5 Tf (\), NES \() Tj /F2 10.5 Tf (65.0%) Tj /F1 10.5 Tf (\), and Wii U \() Tj /F2 10.5 Tf (62.4%) Tj /F1 10.5 Tf (\), showing) Tj T* (strong system-seller penetration on these platforms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 104.32 cm
+q
+BT 1 0 0 1 0 17.5 Tm -0.045375 Tw 14 TL /F2 10.5 Tf 0 0 0 rg (Stakeholder takeaway:) Tj /F1 10.5 Tf ( Use attach-rate signals to inform bundle strategy and launch marketing allocation) Tj T* 0 Tw (on hit-driven platforms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 94 cm
+Q
+q
+1 0 0 1 60 90.4 cm
+Q
+q
+1 0 0 1 60 66.4 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf .333333 .333333 .333333 rg (Method notes:) Tj /F1 9 Tf ( Synthetic dataset for portfolio. Revenue is a proxy estimate \(Average Selling Price x Units\). Use for relative) Tj T* (comparisons, not audited financial reporting.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+152.2 657.6 404.8 20 re
+f*
+n
+558 657.6 54 20 re
+f*
+0.15 0.15 0.15 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 157.2 668.2 Tm
+(SalesBasisType \075 Lifetime \174 ActiveFlag \075 Ended \174 IsHardwareEstimate \075 0) Tj
+T*
+ET
+BT
+1 0 0 1 157.2 658.8 Tm
+(Manufacturer \075 All \174 Generation \075 3rd\0558th) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000395 00000 n 
+0000006802 00000 n 
+0000006909 00000 n 
+0000007016 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7128
+%%EOF
