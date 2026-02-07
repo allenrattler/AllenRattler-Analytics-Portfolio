@@ -59,7 +59,7 @@ This project analyzes the video game console hardware market from the perspectiv
 **Stakeholder takeaway:** Use this split to guide investment and market-sizing analysis depending on the goal: prioritize **Nintendo for reach/scale** and **Sony for revenue concentration**, then validate conclusions under alternate filter views (Lifetime vs As-Of, different generations).
 
 **Evidence:**  
-![Unit and Revenue Shares by Manufacturer](Screenshots/Unit%20and%20Revenue%20Shares%20by%20Manufacturer.png)
+![Unit and Revenue Shares by Manufacturer](Screenshots/Insight4_Unit_and_Revenue_Shares.png)
 
 ### Insight 5: Software pull-through (best-seller attach rate)
 
