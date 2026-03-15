@@ -387,7 +387,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 
 **Connect:**
 - LinkedIn: www.linkedin.com/in/allenrattler
-- GitHub: [Your GitHub URL]
+- GitHub: https://github.com/allenrattler
 - Portfolio: [Your Portfolio URL]
 
 **Why This Project?**
