@@ -386,7 +386,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 - Domain Expertise - K-12 education, student assessment, instructional strategies
 
 **Connect:**
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/allenrattler
 - GitHub: [Your GitHub URL]
 - Portfolio: [Your Portfolio URL]
 
