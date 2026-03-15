@@ -388,7 +388,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 **Connect:**
 - LinkedIn: www.linkedin.com/in/allenrattler
 - GitHub: https://github.com/allenrattler
-- Portfolio: [Your Portfolio URL]
+- Portfolio: https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/blob/Education-Analytics-Dashboard/README.md
 
 **Why This Project?**
 This project emerged from a real classroom challenge I've witnessed firsthand: students who understand mathematical concepts but struggle with procedural execution. By combining my teaching expertise with data analytics skills, I'm able to identify specific intervention strategies that save instructional time and target student needs more effectively. This represents the type of data-driven problem-solving I want to bring to my future role as a data analyst.
