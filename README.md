@@ -394,3 +394,30 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 This project emerged from a real classroom challenge I've witnessed firsthand: students who understand mathematical concepts but struggle with procedural execution. By combining my teaching expertise with data analytics skills, I'm able to identify specific intervention strategies that save instructional time and target student needs more effectively. This represents the type of data-driven problem-solving I want to bring to my future role as a data analyst.
 
 ## Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/page1_executive_overview.png)
+*High-level KPIs showing 57.8% of students in target group*
+
+### Student Analysis - Scatter Plot
+![Scatter Plot](screenshots/scatter_plot_pv_vs_regrouping.png)
+*Visual representation of 104 students (purple) with high place value but low regrouping mastery*
+
+### Student Analysis - Full Page
+![Student Analysis](screenshots/page2_student_analysis.png)
+*Detailed student performance with conditional formatting and teacher breakdown*
+
+### Skill Deep Dive
+![Skill Deep Dive](screenshots/page3_skill_deep_dive.png)
+*Performance by specific skill and difficulty level - "Regroup ones to tens" at 45% on hard questions*
+
+### Intervention Planning
+![Intervention Planning](screenshots/page4_intervention_planning.png)
+*Actionable priority list with 50 high-priority, 17 medium-priority, and 37 monitor students*
+
+---
+
+## License
+This project is for portfolio demonstration purposes. The data is synthetic and created specifically for this analysis.
+
+---
