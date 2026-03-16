@@ -1,0 +1,45 @@
+# .gitignore for Education Analytics Portfolio
+
+# Power BI temporary files
+*.pbix.tmp
+~$*.pbix
+
+# Python files (if you add scripts later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Personal notes (if you create any)
+notes/
+scratch/
+personal/
+
+# Database credentials (if you ever add config files)
+*.env
+config.ini
+credentials.json
+
+# Large data files (keep CSVs, but ignore if you ever create huge exports)
+*.xlsx
+*.zip
+*.gz
