@@ -1,0 +1,4 @@
+standard_id,skill_name,mastery_threshold,description
+STD001,Place Value,0.8,Understanding place value in 3-digit numbers
+STD002,3-Digit Addition,0.75,Adding 3-digit numbers without regrouping
+STD003,3-Digit Addition - Regrouping,0.75,Adding 3-digit numbers with regrouping (carrying)

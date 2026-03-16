@@ -1,0 +1,56 @@
+question_id,assessment_id,question_number,skill_tag,difficulty
+Q001-01,ASS001,1,Identify hundreds place,hard
+Q001-02,ASS001,2,Identify tens place,easy
+Q001-03,ASS001,3,Identify ones place,easy
+Q001-04,ASS001,4,Compare 3-digit numbers,hard
+Q001-05,ASS001,5,Order 3-digit numbers,hard
+Q001-06,ASS001,6,Expanded form,easy
+Q001-07,ASS001,7,Write number in standard form,easy
+Q001-08,ASS001,8,Value of digit,easy
+Q001-09,ASS001,9,Identify hundreds place,hard
+Q001-10,ASS001,10,,easy
+Q001-11,ASS001,11,Identify ones place,hard
+Q001-12,ASS001,12,Compare 3-digit numbers,easy
+Q001-13,ASS001,13,Order 3-digit numbers,easy
+Q001-14,ASS001,14,Expanded form,medium
+Q001-15,ASS001,15,Write number in standard form,easy
+Q002-01,ASS002,1,Add hundreds,medium
+Q002-02,ASS002,2,Add tens,easy
+Q002-03,ASS002,3,Add ones,easy
+Q002-04,ASS002,4,Align digits,medium
+Q002-05,ASS002,5,Add hundreds,easy
+Q002-06,ASS002,6,Add tens,easy
+Q002-07,ASS002,7,Add ones,medium
+Q002-08,ASS002,8,Align digits,easy
+Q002-09,ASS002,9,Add hundreds,easy
+Q002-10,ASS002,10,Add tens,medium
+Q002-11,ASS002,11,Add ones,medium
+Q002-12,ASS002,12,Align digits,medium
+Q003-01,ASS003,1,Regroup ones to tens,medium
+Q003-02,ASS003,2,Regroup tens to hundreds,medium
+Q003-03,ASS003,3,Double regrouping,medium
+Q003-04,ASS003,4,Regroup with zeros,hard
+Q003-05,ASS003,5,Multi-step regrouping,hard
+Q003-06,ASS003,6,Regroup ones to tens,medium
+Q003-07,ASS003,7,,hard
+Q003-08,ASS003,8,Double regrouping,hard
+Q003-09,ASS003,9,Regroup with zeros,hard
+Q003-10,ASS003,10,Multi-step regrouping,hard
+Q003-11,ASS003,11,,medium
+Q003-12,ASS003,12,Regroup tens to hundreds,medium
+Q003-13,ASS003,13,,hard
+Q003-14,ASS003,14,Regroup with zeros,hard
+Q003-15,ASS003,15,Multi-step regrouping,hard
+Q003-16,ASS003,16,Regroup ones to tens,hard
+Q003-17,ASS003,17,Regroup tens to hundreds,hard
+Q003-18,ASS003,18,Double regrouping,hard
+Q004-01,ASS004,1,Identify hundreds place,easy
+Q004-02,ASS004,2,Identify tens place,medium
+Q004-03,ASS004,3,Identify ones place,easy
+Q004-04,ASS004,4,Compare 3-digit numbers,medium
+Q004-05,ASS004,5,Order 3-digit numbers,medium
+Q004-06,ASS004,6,Expanded form,medium
+Q004-07,ASS004,7,Write number in standard form,medium
+Q004-08,ASS004,8,Value of digit,easy
+Q004-09,ASS004,9,Identify hundreds place,medium
+Q004-10,ASS004,10,Identify tens place,medium

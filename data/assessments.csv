@@ -1,0 +1,5 @@
+assessment_id,assessment_name,skill_category,date_administered,total_questions
+ASS001,Place Value Diagnostic,Place Value,2024-09-15,15
+ASS002,3-Digit Addition - No Regrouping,3-Digit Addition,2024-10-05,12
+ASS003,3-Digit Addition - With Regrouping,3-Digit Addition - Regrouping,2024-11-10,18
+ASS004,Place Value Mastery Check,Place Value,2024-12-01,10
