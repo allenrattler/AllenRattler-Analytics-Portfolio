@@ -236,7 +236,7 @@ Recovery rate by payer with average benchmark line, appeal outcome breakdown (do
 **Page 5 — Payer Detail (Drill-Through)** ← New in Project 2
 Right-clicking any payer on Pages 3 or 4 navigates to this page, which automatically filters to show that payer's top denial reasons, department breakdown, appeal outcomes, and monthly denial trend — alongside three payer-specific KPI cards. A Back button returns to the originating page.
 
-
+![Payer Detail](docs/screenshots/Page_5_Payer_Detail.png)
 
 ---
 
