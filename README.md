@@ -226,7 +226,7 @@ Six KPI cards ($5.3M denied, $988.2K recovered, $2.2M net leakage, 19.5% denial 
 **Page 3 — Denial Analysis**
 Denied revenue by payer (bar chart), denial rate by payer with average benchmark line (column chart), denial reasons breakdown (donut chart), and department denial rate trend by month (line chart). Payer and department slicers for interactive filtering.
 
-
+![Denial Analysis](docs/screenshots/Page_3_Denial_Analysis.png)
 
 **Page 4 — Appeals & Recovery**
 Recovery rate by payer with average benchmark line, appeal outcome breakdown (donut chart), denied vs recovered revenue comparison by payer (clustered column chart), and average days to resolve by payer (bar chart).
