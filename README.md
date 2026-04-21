@@ -216,6 +216,8 @@ Nine measures were created inside a dedicated `_Measures` table:
 **Page 1 — Title & Navigation**
 Cover page with project title, tool stack, and four navigation buttons linking to each analytical page.
 
+![Executive Summary](docs/screenshots/Page_1_Title.png)
+
 **Page 2 — Executive Summary**
 Six KPI cards ($5.3M denied, $988.2K recovered, $2.2M net leakage, 19.5% denial rate, 41.4% appeal win rate, 18.6% net recovery rate) and a payer summary table. Date range slicer for period filtering.
 
