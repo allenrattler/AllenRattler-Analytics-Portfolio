@@ -1,0 +1,563 @@
+﻿appeal_id,claim_id,payer_name,appeal_date,resolution_date,appeal_outcome,recovered_amount,days_to_appeal,date_sequence_flag,recovery_amount_flag
+APP-00008,CLM-02318,UnitedHealth,10/22/2023,1/3/2024,Lost,0,17,Valid,Lost
+APP-00010,CLM-04044,UnitedHealth,11/22/2024,1/13/2025,Lost,0,5,Valid,Lost
+APP-00032,CLM-03510,UnitedHealth,5/16/2024,7/4/2024,Lost,0,5,Valid,Lost
+APP-00036,CLM-00882,UnitedHealth,12/8/2023,2/2/2024,Lost,0,26,Valid,Lost
+APP-00045,CLM-02986,UnitedHealth,7/23/2024,11/9/2024,Lost,0,24,Valid,Lost
+APP-00046,CLM-00013,UnitedHealth,4/19/2023,7/20/2023,Lost,0,20,Valid,Lost
+APP-00056,CLM-01261,UnitedHealth,8/16/2023,9/24/2023,Lost,0,13,Valid,Lost
+APP-00066,CLM-04744,UnitedHealth,10/6/2023,1/2/2024,Lost,0,14,Valid,Lost
+APP-00067,CLM-03760,UnitedHealth,3/30/2024,5/12/2024,Lost,0,12,Valid,Lost
+APP-00069,CLM-02226,UnitedHealth,9/16/2024,10/18/2024,Lost,0,21,Valid,Lost
+APP-00091,CLM-00407,UnitedHealth,11/7/2023,1/21/2024,Lost,0,3,Valid,Lost
+APP-00093,CLM-03425,UnitedHealth,5/1/2023,8/26/2023,Lost,0,6,Valid,Lost
+APP-00107,CLM-04474,UnitedHealth,7/17/2024,10/26/2024,Lost,0,2,Valid,Lost
+APP-00110,CLM-04193,UnitedHealth,8/30/2024,10/19/2024,Lost,0,22,Valid,Lost
+APP-00111,CLM-03640,UnitedHealth,4/6/2023,5/31/2023,Lost,0,8,Valid,Lost
+APP-00117,CLM-04668,UnitedHealth,11/28/2023,1/21/2024,Lost,0,24,Valid,Lost
+APP-00118,CLM-04696,UnitedHealth,4/24/2023,7/27/2023,Lost,0,10,Valid,Lost
+APP-00121,CLM-00219,UnitedHealth,10/4/2024,1/17/2025,Lost,0,29,Valid,Lost
+APP-00129,CLM-04900,UnitedHealth,8/17/2023,11/23/2023,Lost,0,21,Valid,Lost
+APP-00133,CLM-04295,UnitedHealth,4/21/2023,6/7/2023,Lost,0,21,Valid,Lost
+APP-00144,CLM-01372,UnitedHealth,5/23/2024,9/16/2024,Lost,0,10,Valid,Lost
+APP-00157,CLM-04849,UnitedHealth,7/17/2024,10/18/2024,Lost,0,19,Valid,Lost
+APP-00168,CLM-04523,UnitedHealth,11/27/2024,1/25/2025,Lost,0,3,Valid,Lost
+APP-00174,CLM-01229,UnitedHealth,10/7/2023,1/27/2024,Lost,0,14,Valid,Lost
+APP-00178,CLM-00544,UnitedHealth,10/9/2023,12/23/2023,Lost,0,12,Valid,Lost
+APP-00189,CLM-01780,UnitedHealth,5/3/2024,7/8/2024,Lost,0,22,Valid,Lost
+APP-00203,CLM-03788,UnitedHealth,11/2/2023,1/2/2024,Lost,0,29,Valid,Lost
+APP-00210,CLM-02202,UnitedHealth,7/11/2024,8/22/2024,Lost,0,25,Valid,Lost
+APP-00213,CLM-04048,UnitedHealth,10/2/2023,1/2/2024,Lost,0,24,Valid,Lost
+APP-00220,CLM-03174,UnitedHealth,9/1/2024,12/14/2024,Lost,0,11,Valid,Lost
+APP-00227,CLM-01303,UnitedHealth,11/23/2023,3/20/2024,Lost,0,3,Valid,Lost
+APP-00228,CLM-04893,UnitedHealth,3/28/2024,7/11/2024,Lost,0,18,Valid,Lost
+APP-00229,CLM-03699,UnitedHealth,3/8/2023,4/10/2023,Lost,0,9,Valid,Lost
+APP-00233,CLM-04366,UnitedHealth,6/16/2023,9/23/2023,Lost,0,22,Valid,Lost
+APP-00237,CLM-03480,UnitedHealth,9/24/2024,12/22/2024,Lost,0,50,Valid,Lost
+APP-00239,CLM-00397,UnitedHealth,7/19/2023,9/29/2023,Lost,0,3,Valid,Lost
+APP-00244,CLM-00132,UnitedHealth,5/24/2023,7/16/2023,Lost,0,14,Valid,Lost
+APP-00246,CLM-01622,UnitedHealth,1/4/2025,4/1/2025,Lost,0,13,Valid,Lost
+APP-00249,CLM-00501,UnitedHealth,11/13/2024,1/6/2025,Lost,0,19,Valid,Lost
+APP-00251,CLM-04662,UnitedHealth,11/28/2023,2/16/2024,Lost,0,16,Valid,Lost
+APP-00261,CLM-00924,UnitedHealth,4/2/2024,5/12/2024,Lost,0,29,Valid,Lost
+APP-00265,CLM-01992,UnitedHealth,12/12/2024,2/5/2025,Lost,0,8,Valid,Lost
+APP-00267,CLM-02209,UnitedHealth,7/20/2024,9/7/2024,Lost,0,15,Valid,Lost
+APP-00270,CLM-03209,UnitedHealth,12/3/2024,1/5/2025,Lost,0,1,Valid,Lost
+APP-00283,CLM-03048,UnitedHealth,10/1/2023,11/7/2023,Lost,0,2,Valid,Lost
+APP-00285,CLM-02180,UnitedHealth,8/1/2023,9/10/2023,Lost,0,15,Valid,Lost
+APP-00289,CLM-03581,UnitedHealth,10/12/2023,1/1/2024,Lost,0,21,Valid,Lost
+APP-00291,CLM-00362,UnitedHealth,12/9/2024,2/16/2025,Lost,0,1,Valid,Lost
+APP-00310,CLM-03902,UnitedHealth,3/4/2024,5/25/2024,Lost,0,3,Valid,Lost
+APP-00313,CLM-03027,UnitedHealth,4/21/2023,7/3/2023,Lost,0,6,Valid,Lost
+APP-00319,CLM-00846,UnitedHealth,7/12/2024,9/9/2024,Lost,0,10,Valid,Lost
+APP-00325,CLM-02944,UnitedHealth,1/6/2025,4/4/2025,Lost,0,17,Valid,Lost
+APP-00338,CLM-01400,UnitedHealth,10/6/2024,1/28/2025,Lost,0,30,Valid,Lost
+APP-00352,CLM-03911,UnitedHealth,2/29/2024,5/5/2024,Lost,0,8,Valid,Lost
+APP-00354,CLM-02010,UnitedHealth,9/22/2024,10/30/2024,Lost,0,4,Valid,Lost
+APP-00356,CLM-02409,UnitedHealth,8/30/2023,11/19/2023,Lost,0,17,Valid,Lost
+APP-00372,CLM-02069,UnitedHealth,7/27/2024,11/16/2024,Lost,0,23,Valid,Lost
+APP-00374,CLM-02980,UnitedHealth,12/12/2024,3/7/2025,Lost,0,4,Valid,Lost
+APP-00378,CLM-00971,UnitedHealth,1/9/2025,3/21/2025,Lost,0,1,Valid,Lost
+APP-00389,CLM-01112,UnitedHealth,6/17/2023,7/20/2023,Lost,0,16,Valid,Lost
+APP-00396,CLM-00591,UnitedHealth,4/28/2024,7/14/2024,Lost,0,12,Valid,Lost
+APP-00397,CLM-04870,UnitedHealth,2/3/2023,5/6/2023,Lost,0,23,Valid,Lost
+APP-00402,CLM-00738,UnitedHealth,8/25/2024,11/18/2024,Lost,0,55,Valid,Lost
+APP-00409,CLM-01890,UnitedHealth,10/6/2023,11/14/2023,Lost,0,4,Valid,Lost
+APP-00414,CLM-00003,UnitedHealth,7/3/2024,8/18/2024,Lost,0,27,Valid,Lost
+APP-00434,CLM-00406,UnitedHealth,3/19/2023,5/23/2023,Lost,0,8,Valid,Lost
+APP-00451,CLM-03191,UnitedHealth,9/15/2024,12/4/2024,Lost,0,6,Valid,Lost
+APP-00465,CLM-03057,UnitedHealth,6/29/2024,9/22/2024,Lost,0,20,Valid,Lost
+APP-00473,CLM-01121,UnitedHealth,11/28/2024,3/11/2025,Lost,0,1,Valid,Lost
+APP-00480,CLM-00902,UnitedHealth,1/16/2025,4/19/2025,Lost,0,11,Valid,Lost
+APP-00489,CLM-03473,UnitedHealth,12/14/2024,1/30/2025,Lost,0,15,Valid,Lost
+APP-00490,CLM-02129,UnitedHealth,4/9/2024,8/6/2024,Lost,0,28,Valid,Lost
+APP-00495,CLM-01078,UnitedHealth,8/7/2024,10/26/2024,Lost,0,36,Valid,Lost
+APP-00498,CLM-01582,UnitedHealth,10/15/2023,12/2/2023,Lost,0,26,Valid,Lost
+APP-00511,CLM-02490,UnitedHealth,10/23/2023,1/24/2024,Lost,0,6,Valid,Lost
+APP-00522,CLM-03737,UnitedHealth,3/14/2023,6/4/2023,Lost,0,19,Valid,Lost
+APP-00523,CLM-04147,UnitedHealth,12/2/2024,2/7/2025,Lost,0,8,Valid,Lost
+APP-00533,CLM-04724,UnitedHealth,12/5/2023,1/19/2024,Lost,0,19,Valid,Lost
+APP-00541,CLM-03273,UnitedHealth,5/20/2024,7/29/2024,Lost,0,20,Valid,Lost
+APP-00544,CLM-00203,UnitedHealth,3/1/2023,6/2/2023,Lost,0,53,Valid,Lost
+APP-00548,CLM-01999,UnitedHealth,1/18/2025,3/30/2025,Lost,0,28,Valid,Lost
+APP-00549,CLM-00710,UnitedHealth,5/11/2023,7/26/2023,Lost,0,16,Valid,Lost
+APP-00558,CLM-03799,UnitedHealth,5/11/2023,8/13/2023,Lost,0,29,Valid,Lost
+APP-00009,CLM-01323,Medicaid,6/21/2023,10/18/2023,Lost,0,27,Valid,Lost
+APP-00012,CLM-03287,Medicaid,12/3/2024,1/29/2025,Lost,0,38,Valid,Lost
+APP-00025,CLM-02331,Medicaid,1/2/2025,3/21/2025,Lost,0,8,Valid,Lost
+APP-00038,CLM-03847,Medicaid,4/23/2024,7/23/2024,Lost,0,4,Valid,Lost
+APP-00041,CLM-02903,Medicaid,1/5/2024,2/25/2024,Lost,0,21,Valid,Lost
+APP-00050,CLM-00133,Medicaid,9/30/2024,12/6/2024,Lost,0,14,Valid,Lost
+APP-00070,CLM-00355,Medicaid,12/16/2024,1/22/2025,Lost,0,6,Valid,Lost
+APP-00088,CLM-04826,Medicaid,10/11/2023,11/23/2023,Lost,0,9,Valid,Lost
+APP-00101,CLM-03867,Medicaid,8/11/2024,11/29/2024,Lost,0,22,Valid,Lost
+APP-00103,CLM-02520,Medicaid,1/14/2025,2/16/2025,Lost,0,30,Valid,Lost
+APP-00106,CLM-03600,Medicaid,12/19/2024,2/4/2025,Lost,0,30,Valid,Lost
+APP-00146,CLM-00271,Medicaid,10/24/2024,2/10/2025,Lost,0,27,Valid,Lost
+APP-00148,CLM-00552,Medicaid,5/26/2023,9/8/2023,Lost,0,10,Valid,Lost
+APP-00149,CLM-03340,Medicaid,3/28/2024,7/5/2024,Lost,0,14,Valid,Lost
+APP-00151,CLM-02145,Medicaid,4/1/2024,5/7/2024,Lost,0,25,Valid,Lost
+APP-00155,CLM-03795,Medicaid,10/21/2024,1/4/2025,Lost,0,5,Valid,Lost
+APP-00161,CLM-00331,Medicaid,11/23/2024,12/29/2024,Lost,0,6,Valid,Lost
+APP-00163,CLM-00623,Medicaid,10/19/2023,1/22/2024,Lost,0,13,Valid,Lost
+APP-00166,CLM-03091,Medicaid,3/3/2024,4/6/2024,Lost,0,20,Valid,Lost
+APP-00170,CLM-03700,Medicaid,6/25/2024,9/25/2024,Lost,0,6,Valid,Lost
+APP-00188,CLM-02427,Medicaid,5/22/2024,7/9/2024,Lost,0,26,Valid,Lost
+APP-00194,CLM-01351,Medicaid,8/27/2023,11/5/2023,Lost,0,10,Valid,Lost
+APP-00195,CLM-00264,Medicaid,7/4/2024,9/26/2024,Lost,0,19,Valid,Lost
+APP-00217,CLM-02079,Medicaid,4/12/2023,8/8/2023,Lost,0,47,Valid,Lost
+APP-00218,CLM-01179,Medicaid,5/17/2024,6/25/2024,Lost,0,15,Valid,Lost
+APP-00222,CLM-03882,Medicaid,3/29/2024,7/2/2024,Lost,0,7,Valid,Lost
+APP-00234,CLM-02477,Medicaid,7/7/2023,8/21/2023,Lost,0,19,Valid,Lost
+APP-00255,CLM-00968,Medicaid,5/4/2023,7/27/2023,Lost,0,26,Valid,Lost
+APP-00258,CLM-03130,Medicaid,10/3/2023,1/14/2024,Lost,0,27,Valid,Lost
+APP-00294,CLM-04814,Medicaid,3/29/2023,7/3/2023,Lost,0,27,Valid,Lost
+APP-00296,CLM-00522,Medicaid,12/27/2023,4/1/2024,Lost,0,14,Valid,Lost
+APP-00309,CLM-00768,Medicaid,4/16/2024,8/8/2024,Lost,0,6,Valid,Lost
+APP-00322,CLM-04407,Medicaid,2/3/2024,5/23/2024,Lost,0,6,Valid,Lost
+APP-00332,CLM-04216,Medicaid,5/6/2024,6/5/2024,Lost,0,13,Valid,Lost
+APP-00337,CLM-04004,Medicaid,2/2/2025,3/16/2025,Lost,0,17,Valid,Lost
+APP-00349,CLM-02546,Medicaid,11/11/2024,2/17/2025,Lost,0,54,Valid,Lost
+APP-00357,CLM-00345,Medicaid,8/18/2024,10/2/2024,Lost,0,17,Valid,Lost
+APP-00368,CLM-02361,Medicaid,8/21/2023,11/13/2023,Lost,0,30,Valid,Lost
+APP-00369,CLM-01281,Medicaid,9/2/2024,10/31/2024,Lost,0,42,Valid,Lost
+APP-00377,CLM-01928,Medicaid,12/6/2023,2/16/2024,Lost,0,4,Valid,Lost
+APP-00380,CLM-04840,Medicaid,11/5/2024,12/20/2024,Lost,0,21,Valid,Lost
+APP-00387,CLM-03430,Medicaid,9/29/2024,12/17/2024,Lost,0,4,Valid,Lost
+APP-00392,CLM-01344,Medicaid,9/1/2023,11/20/2023,Lost,0,6,Valid,Lost
+APP-00394,CLM-04997,Medicaid,5/21/2023,7/6/2023,Lost,0,12,Valid,Lost
+APP-00400,CLM-04666,Medicaid,7/6/2024,9/14/2024,Lost,0,21,Valid,Lost
+APP-00401,CLM-03156,Medicaid,4/6/2024,7/22/2024,Lost,0,27,Valid,Lost
+APP-00404,CLM-04013,Medicaid,11/6/2023,2/15/2024,Lost,0,15,Valid,Lost
+APP-00415,CLM-03589,Medicaid,5/28/2024,7/31/2024,Lost,0,12,Valid,Lost
+APP-00419,CLM-00011,Medicaid,4/28/2024,7/14/2024,Lost,0,8,Valid,Lost
+APP-00422,CLM-02051,Medicaid,6/3/2024,8/23/2024,Lost,0,24,Valid,Lost
+APP-00425,CLM-01122,Medicaid,10/2/2024,12/25/2024,Lost,0,5,Valid,Lost
+APP-00435,CLM-00098,Medicaid,11/22/2023,12/28/2023,Lost,0,28,Valid,Lost
+APP-00436,CLM-02855,Medicaid,9/7/2023,12/15/2023,Lost,0,10,Valid,Lost
+APP-00437,CLM-03777,Medicaid,7/2/2024,10/26/2024,Lost,0,27,Valid,Lost
+APP-00439,CLM-04597,Medicaid,10/3/2023,11/6/2023,Lost,0,29,Valid,Lost
+APP-00440,CLM-01709,Medicaid,6/8/2023,7/17/2023,Lost,0,15,Valid,Lost
+APP-00446,CLM-01380,Medicaid,1/9/2024,3/30/2024,Lost,0,8,Valid,Lost
+APP-00456,CLM-00775,Medicaid,1/21/2025,4/16/2025,Lost,0,16,Valid,Lost
+APP-00461,CLM-03573,Medicaid,2/18/2024,5/27/2024,Lost,0,27,Valid,Lost
+APP-00470,CLM-03757,Medicaid,2/4/2024,3/22/2024,Lost,0,12,Valid,Lost
+APP-00475,CLM-02627,Medicaid,5/11/2024,8/1/2024,Lost,0,22,Valid,Lost
+APP-00481,CLM-01762,Medicaid,11/2/2023,12/13/2023,Lost,0,7,Valid,Lost
+APP-00485,CLM-02076,Medicaid,3/18/2024,6/14/2024,Lost,0,21,Valid,Lost
+APP-00486,CLM-00919,Medicaid,8/13/2024,9/22/2024,Lost,0,5,Valid,Lost
+APP-00487,CLM-01970,Medicaid,5/9/2023,7/18/2023,Lost,0,27,Valid,Lost
+APP-00496,CLM-01985,Medicaid,1/25/2025,4/23/2025,Lost,0,3,Valid,Lost
+APP-00497,CLM-04486,Medicaid,11/7/2023,1/21/2024,Lost,0,21,Valid,Lost
+APP-00505,CLM-00954,Medicaid,7/13/2023,10/14/2023,Lost,0,6,Valid,Lost
+APP-00509,CLM-03547,Medicaid,4/5/2023,5/23/2023,Lost,0,13,Valid,Lost
+APP-00512,CLM-04732,Medicaid,9/16/2023,12/18/2023,Lost,0,18,Valid,Lost
+APP-00519,CLM-04837,Medicaid,2/14/2023,6/13/2023,Lost,0,13,Valid,Lost
+APP-00527,CLM-00570,Medicaid,3/11/2024,5/24/2024,Lost,0,29,Valid,Lost
+APP-00534,CLM-02256,Medicaid,9/27/2024,11/3/2024,Lost,0,1,Valid,Lost
+APP-00553,CLM-02732,Medicaid,4/26/2024,6/5/2024,Lost,0,19,Valid,Lost
+APP-00554,CLM-04475,Medicaid,4/4/2023,7/9/2023,Lost,0,12,Valid,Lost
+APP-00006,CLM-01922,Aetna,7/2/2023,8/18/2023,Lost,0,23,Valid,Lost
+APP-00014,CLM-02381,Medicare,1/3/2024,4/19/2024,Lost,0,4,Valid,Lost
+APP-00016,CLM-04140,Aetna,1/12/2024,4/19/2024,Lost,0,16,Valid,Lost
+APP-00024,CLM-01870,Medicare,11/5/2024,1/2/2025,Lost,0,9,Valid,Lost
+APP-00039,CLM-04425,Blue Cross,11/24/2023,2/13/2024,Lost,0,1,Valid,Lost
+APP-00040,CLM-01341,Medicare,2/26/2024,4/16/2024,Lost,0,17,Valid,Lost
+APP-00042,CLM-01254,Blue Cross,7/15/2023,10/27/2023,Lost,0,13,Valid,Lost
+APP-00044,CLM-03826,Aetna,6/22/2024,10/11/2024,Lost,0,27,Valid,Lost
+APP-00047,CLM-01613,Cigna,2/8/2024,5/15/2024,Lost,0,19,Valid,Lost
+APP-00051,CLM-02500,Medicare,12/28/2023,3/9/2024,Lost,0,30,Valid,Lost
+APP-00052,CLM-01878,Medicare,3/6/2023,5/8/2023,Lost,0,5,Valid,Lost
+APP-00053,CLM-03249,Cigna,3/30/2024,5/21/2024,Lost,0,30,Valid,Lost
+APP-00055,CLM-04573,Aetna,5/11/2024,6/25/2024,Lost,0,9,Valid,Lost
+APP-00058,CLM-04267,Blue Cross,11/17/2023,2/14/2024,Lost,0,22,Valid,Lost
+APP-00063,CLM-01993,Aetna,9/23/2023,1/1/2024,Lost,0,23,Valid,Lost
+APP-00068,CLM-02874,Medicare,7/29/2024,10/7/2024,Lost,0,28,Valid,Lost
+APP-00073,CLM-03228,Cigna,12/4/2024,3/13/2025,Lost,0,28,Valid,Lost
+APP-00082,CLM-03931,Medicare,5/28/2023,7/16/2023,Lost,0,9,Valid,Lost
+APP-00083,CLM-03554,Blue Cross,12/4/2024,2/11/2025,Lost,0,2,Valid,Lost
+APP-00085,CLM-04857,Aetna,6/17/2023,8/23/2023,Lost,0,4,Valid,Lost
+APP-00086,CLM-04938,Cigna,3/17/2024,6/10/2024,Lost,0,3,Valid,Lost
+APP-00090,CLM-01407,Medicare,5/6/2024,6/27/2024,Lost,0,27,Valid,Lost
+APP-00092,CLM-03099,Blue Cross,6/26/2024,8/10/2024,Lost,0,29,Valid,Lost
+APP-00094,CLM-04410,Self-Pay,10/16/2024,12/20/2024,Lost,0,22,Valid,Lost
+APP-00100,CLM-00830,Aetna,6/16/2023,8/22/2023,Lost,0,21,Valid,Lost
+APP-00102,CLM-04646,Aetna,2/18/2024,4/7/2024,Lost,0,8,Valid,Lost
+APP-00105,CLM-02729,Blue Cross,3/14/2025,6/2/2025,Lost,0,28,Valid,Lost
+APP-00108,CLM-00842,Medicare,10/26/2023,1/17/2024,Lost,0,16,Valid,Lost
+APP-00109,CLM-01102,Blue Cross,7/15/2024,10/18/2024,Lost,0,20,Valid,Lost
+APP-00120,CLM-00669,Blue Cross,9/3/2024,10/26/2024,Lost,0,27,Valid,Lost
+APP-00124,CLM-00965,Aetna,12/22/2024,4/3/2025,Lost,0,4,Valid,Lost
+APP-00126,CLM-00215,Aetna,1/26/2025,4/4/2025,Lost,0,16,Valid,Lost
+APP-00131,CLM-02535,Cigna,6/22/2023,9/28/2023,Lost,0,15,Valid,Lost
+APP-00134,CLM-04969,Blue Cross,2/9/2023,3/18/2023,Lost,0,2,Valid,Lost
+APP-00137,CLM-03482,Aetna,8/22/2023,12/15/2023,Lost,0,29,Valid,Lost
+APP-00154,CLM-02278,Blue Cross,11/29/2023,12/31/2023,Lost,0,19,Valid,Lost
+APP-00158,CLM-04984,Aetna,7/14/2023,9/15/2023,Lost,0,22,Valid,Lost
+APP-00167,CLM-01908,Medicare,10/19/2023,1/10/2024,Lost,0,11,Valid,Lost
+APP-00172,CLM-04285,Medicare,8/23/2023,10/6/2023,Lost,0,28,Valid,Lost
+APP-00175,CLM-02648,Aetna,8/3/2023,10/2/2023,Lost,0,29,Valid,Lost
+APP-00176,CLM-00053,Humana,3/3/2023,4/20/2023,Lost,0,14,Valid,Lost
+APP-00182,CLM-04055,Medicare,11/17/2023,2/6/2024,Lost,0,21,Valid,Lost
+APP-00185,CLM-00322,Medicare,7/27/2023,11/11/2023,Lost,0,3,Valid,Lost
+APP-00190,CLM-00257,Medicare,3/6/2024,4/7/2024,Lost,0,25,Valid,Lost
+APP-00196,CLM-01394,Humana,9/2/2023,12/1/2023,Lost,0,10,Valid,Lost
+APP-00197,CLM-04456,Self-Pay,5/14/2024,6/27/2024,Lost,0,5,Valid,Lost
+APP-00198,CLM-00683,Medicare,9/24/2023,1/18/2024,Lost,0,21,Valid,Lost
+APP-00205,CLM-03443,Blue Cross,10/15/2024,11/25/2024,Lost,0,7,Valid,Lost
+APP-00223,CLM-04467,Medicare,6/10/2023,8/7/2023,Lost,0,3,Valid,Lost
+APP-00224,CLM-00195,Medicare,1/29/2025,5/24/2025,Lost,0,19,Valid,Lost
+APP-00231,CLM-02459,Medicare,2/15/2024,5/17/2024,Lost,0,17,Valid,Lost
+APP-00235,CLM-03865,Medicare,11/29/2023,1/11/2024,Lost,0,6,Valid,Lost
+APP-00241,CLM-04415,Blue Cross,9/15/2023,1/4/2024,Lost,0,20,Valid,Lost
+APP-00242,CLM-01645,Medicare,8/7/2023,11/25/2023,Lost,0,28,Valid,Lost
+APP-00243,CLM-01491,Blue Cross,10/29/2023,2/15/2024,Lost,0,17,Valid,Lost
+APP-00245,CLM-02281,Medicare,3/7/2023,6/18/2023,Lost,0,26,Valid,Lost
+APP-00248,CLM-04392,Aetna,12/8/2024,4/7/2025,Lost,0,40,Valid,Lost
+APP-00250,CLM-03860,Cigna,6/25/2024,9/12/2024,Lost,0,16,Valid,Lost
+APP-00253,CLM-04510,Medicare,2/28/2024,6/4/2024,Lost,0,19,Valid,Lost
+APP-00273,CLM-03122,Cigna,7/4/2023,10/9/2023,Lost,0,7,Valid,Lost
+APP-00274,CLM-03610,Cigna,5/30/2024,9/1/2024,Lost,0,6,Valid,Lost
+APP-00277,CLM-01901,Medicare,12/31/2024,2/10/2025,Lost,0,18,Valid,Lost
+APP-00278,CLM-03662,Medicare,7/2/2024,10/9/2024,Lost,0,24,Valid,Lost
+APP-00280,CLM-01327,Medicare,9/14/2023,11/17/2023,Lost,0,4,Valid,Lost
+APP-00284,CLM-00227,Medicare,10/10/2024,11/11/2024,Lost,0,7,Valid,Lost
+APP-00286,CLM-03846,Aetna,11/1/2023,12/26/2023,Lost,0,29,Valid,Lost
+APP-00295,CLM-04941,Self-Pay,2/9/2024,4/14/2024,Lost,0,28,Valid,Lost
+APP-00303,CLM-01032,Blue Cross,3/31/2023,6/11/2023,Lost,0,27,Valid,Lost
+APP-00304,CLM-02629,Medicare,11/21/2023,1/12/2024,Lost,0,25,Valid,Lost
+APP-00305,CLM-04664,Aetna,10/21/2024,12/29/2024,Lost,0,23,Valid,Lost
+APP-00311,CLM-04249,Blue Cross,11/8/2024,12/8/2024,Lost,0,11,Valid,Lost
+APP-00312,CLM-02311,Aetna,2/24/2023,5/8/2023,Lost,0,30,Valid,Lost
+APP-00314,CLM-01353,Blue Cross,2/20/2023,6/10/2023,Lost,0,23,Valid,Lost
+APP-00315,CLM-04007,Blue Cross,6/21/2024,8/16/2024,Lost,0,27,Valid,Lost
+APP-00316,CLM-02887,Blue Cross,6/25/2023,10/7/2023,Lost,0,5,Valid,Lost
+APP-00323,CLM-03254,Medicare,4/11/2023,5/29/2023,Lost,0,6,Valid,Lost
+APP-00324,CLM-03772,Blue Cross,3/16/2025,5/24/2025,Lost,0,29,Valid,Lost
+APP-00326,CLM-01443,Medicare,1/12/2024,4/24/2024,Lost,0,17,Valid,Lost
+APP-00333,CLM-01827,Aetna,10/18/2024,12/2/2024,Lost,0,13,Valid,Lost
+APP-00336,CLM-01386,Aetna,5/13/2024,7/11/2024,Lost,0,3,Valid,Lost
+APP-00343,CLM-02207,Medicare,11/11/2023,2/28/2024,Lost,0,6,Valid,Lost
+APP-00350,CLM-02391,Blue Cross,10/28/2023,1/30/2024,Lost,0,19,Valid,Lost
+APP-00358,CLM-04273,Aetna,5/3/2024,6/13/2024,Lost,0,26,Valid,Lost
+APP-00359,CLM-03168,Humana,8/29/2024,10/30/2024,Lost,0,1,Valid,Lost
+APP-00361,CLM-03269,Cigna,1/10/2024,3/10/2024,Lost,0,54,Valid,Lost
+APP-00362,CLM-02475,Aetna,3/8/2025,5/9/2025,Lost,0,24,Valid,Lost
+APP-00367,CLM-03481,Aetna,7/12/2024,8/15/2024,Lost,0,4,Valid,Lost
+APP-00371,CLM-03053,Cigna,6/15/2024,10/3/2024,Lost,0,24,Valid,Lost
+APP-00376,CLM-00312,Blue Cross,8/28/2023,12/22/2023,Lost,0,22,Valid,Lost
+APP-00379,CLM-00014,Blue Cross,5/15/2023,9/12/2023,Lost,0,16,Valid,Lost
+APP-00390,CLM-02849,Aetna,11/2/2023,12/2/2023,Lost,0,16,Valid,Lost
+APP-00405,CLM-03821,Blue Cross,4/5/2024,5/6/2024,Lost,0,27,Valid,Lost
+APP-00418,CLM-01086,Blue Cross,9/11/2024,11/20/2024,Lost,0,21,Valid,Lost
+APP-00443,CLM-04154,Humana,10/23/2023,2/10/2024,Lost,0,22,Valid,Lost
+APP-00447,CLM-02176,Blue Cross,2/29/2024,5/11/2024,Lost,0,55,Valid,Lost
+APP-00448,CLM-03187,Blue Cross,4/28/2024,6/19/2024,Lost,0,9,Valid,Lost
+APP-00452,CLM-03595,Medicare,2/10/2023,3/31/2023,Lost,0,7,Valid,Lost
+APP-00457,CLM-04742,Medicare,6/6/2024,9/16/2024,Lost,0,12,Valid,Lost
+APP-00458,CLM-04782,Blue Cross,1/14/2024,4/5/2024,Lost,0,9,Valid,Lost
+APP-00460,CLM-02204,Blue Cross,7/18/2024,9/5/2024,Lost,0,20,Valid,Lost
+APP-00492,CLM-03982,Aetna,6/11/2024,9/9/2024,Lost,0,22,Valid,Lost
+APP-00494,CLM-03279,Humana,3/16/2024,6/1/2024,Lost,0,25,Valid,Lost
+APP-00510,CLM-01016,Aetna,1/2/2024,4/14/2024,Lost,0,12,Valid,Lost
+APP-00514,CLM-03507,Cigna,9/15/2023,10/15/2023,Lost,0,1,Valid,Lost
+APP-00516,CLM-01013,Blue Cross,10/5/2024,12/24/2024,Lost,0,4,Valid,Lost
+APP-00517,CLM-02839,Aetna,12/4/2023,2/5/2024,Lost,0,22,Valid,Lost
+APP-00518,CLM-00120,Aetna,4/11/2023,6/29/2023,Lost,0,25,Valid,Lost
+APP-00521,CLM-00575,Medicare,3/24/2023,6/2/2023,Lost,0,26,Valid,Lost
+APP-00526,CLM-02902,Medicare,5/9/2023,7/18/2023,Lost,0,50,Valid,Lost
+APP-00529,CLM-03355,Blue Cross,6/1/2023,9/15/2023,Lost,0,35,Valid,Lost
+APP-00530,CLM-01694,Aetna,3/20/2024,6/29/2024,Lost,0,22,Valid,Lost
+APP-00540,CLM-01148,Medicare,5/7/2024,8/23/2024,Lost,0,10,Valid,Lost
+APP-00543,CLM-01931,Blue Cross,2/10/2024,3/18/2024,Lost,0,13,Valid,Lost
+APP-00545,CLM-00855,Medicare,11/16/2023,3/13/2024,Lost,0,16,Valid,Lost
+APP-00546,CLM-04738,Blue Cross,6/7/2024,8/25/2024,Lost,0,10,Valid,Lost
+APP-00557,CLM-01276,Blue Cross,10/5/2024,2/2/2025,Lost,0,5,Valid,Lost
+APP-00559,CLM-04912,Blue Cross,8/3/2023,10/3/2023,Lost,0,9,Valid,Lost
+APP-00561,CLM-02042,Blue Cross,6/5/2023,10/2/2023,Lost,0,8,Valid,Lost
+APP-00020,CLM-01011,Blue Cross,8/13/2024,8/2/2024,Lost,0,9,Sequence Error,Lost
+APP-00033,CLM-04339,UnitedHealth,5/9/2024,4/24/2024,Lost,0,36,Sequence Error,Lost
+APP-00037,CLM-01610,Aetna,10/8/2024,10/1/2024,Lost,0,5,Sequence Error,Lost
+APP-00049,CLM-02645,Blue Cross,10/23/2024,10/8/2024,Lost,0,25,Sequence Error,Lost
+APP-00089,CLM-01352,Medicare,5/10/2024,4/28/2024,Lost,0,30,Sequence Error,Lost
+APP-00115,CLM-02232,Medicare,10/9/2024,10/5/2024,Lost,0,11,Sequence Error,Lost
+APP-00230,CLM-02222,Blue Cross,7/25/2023,7/15/2023,Lost,0,24,Sequence Error,Lost
+APP-00247,CLM-02690,Blue Cross,2/25/2024,2/22/2024,Lost,0,14,Sequence Error,Lost
+APP-00257,CLM-02893,Humana,8/27/2024,8/24/2024,Lost,0,6,Sequence Error,Lost
+APP-00263,CLM-01968,UnitedHealth,11/13/2023,11/9/2023,Lost,0,13,Sequence Error,Lost
+APP-00275,CLM-04162,UnitedHealth,1/29/2024,1/21/2024,Lost,0,24,Sequence Error,Lost
+APP-00370,CLM-00460,Blue Cross,6/3/2024,6/1/2024,Lost,0,17,Sequence Error,Lost
+APP-00412,CLM-01641,Medicare,1/7/2024,12/24/2023,Lost,0,12,Sequence Error,Lost
+APP-00413,CLM-00893,UnitedHealth,11/4/2024,10/31/2024,Lost,0,8,Sequence Error,Lost
+APP-00455,CLM-02199,Medicaid,3/11/2024,3/3/2024,Lost,0,11,Sequence Error,Lost
+APP-00471,CLM-02372,UnitedHealth,10/29/2024,10/23/2024,Lost,0,1,Sequence Error,Lost
+APP-00474,CLM-00420,UnitedHealth,2/11/2025,1/29/2025,Lost,0,59,Sequence Error,Lost
+APP-00013,CLM-00890,Aetna,7/12/2023,,Pending,,3,Pending,Pending
+APP-00028,CLM-02925,Medicaid,2/3/2025,,Pending,,6,Pending,Pending
+APP-00030,CLM-02941,Medicare,1/26/2025,,Pending,,25,Pending,Pending
+APP-00035,CLM-04346,Aetna,6/15/2024,,Pending,,8,Pending,Pending
+APP-00057,CLM-01293,Blue Cross,1/30/2023,,Pending,,2,Pending,Pending
+APP-00059,CLM-01225,Medicare,10/2/2023,12/4/2023,Won,,21,Valid,Won - Unquantifiable
+APP-00071,CLM-03871,Medicaid,10/24/2024,,Pending,,1,Pending,Pending
+APP-00075,CLM-03367,Blue Cross,11/5/2024,,Pending,,14,Pending,Pending
+APP-00078,CLM-04459,Aetna,1/23/2024,3/4/2024,Won,,19,Valid,Won - Unquantifiable
+APP-00084,CLM-00995,Medicaid,1/20/2025,,Pending,,5,Pending,Pending
+APP-00097,CLM-03608,Blue Cross,3/2/2024,6/10/2024,Won,,5,Valid,Won - Unquantifiable
+APP-00113,CLM-01129,Aetna,7/5/2023,,Pending,,5,Pending,Pending
+APP-00116,CLM-02660,UnitedHealth,11/21/2024,,Pending,,8,Pending,Pending
+APP-00119,CLM-02859,Aetna,4/18/2023,,Pending,,44,Pending,Pending
+APP-00123,CLM-02270,Medicaid,6/17/2023,,Pending,,11,Pending,Pending
+APP-00136,CLM-04785,Aetna,1/10/2024,4/20/2024,Won,,17,Valid,Won - Unquantifiable
+APP-00140,CLM-01913,UnitedHealth,3/26/2024,,Pending,,16,Pending,Pending
+APP-00142,CLM-01109,Medicare,7/13/2024,,Pending,,13,Pending,Pending
+APP-00143,CLM-00680,UnitedHealth,11/30/2023,,Pending,,6,Pending,Pending
+APP-00145,CLM-00433,UnitedHealth,2/22/2023,,Pending,,2,Pending,Pending
+APP-00147,CLM-00462,Medicare,1/17/2024,,Pending,,22,Pending,Pending
+APP-00150,CLM-01421,Aetna,4/8/2024,,Pending,,22,Pending,Pending
+APP-00177,CLM-02288,Medicare,10/28/2023,,Pending,,5,Pending,Pending
+APP-00183,CLM-03478,Medicare,4/23/2024,,Pending,,17,Pending,Pending
+APP-00186,CLM-03484,Blue Cross,9/25/2023,12/2/2023,Won,,25,Valid,Won - Unquantifiable
+APP-00192,CLM-00648,Medicaid,8/18/2023,10/3/2023,Won,,26,Valid,Won - Unquantifiable
+APP-00202,CLM-00499,UnitedHealth,9/18/2023,,Pending,,1,Pending,Pending
+APP-00206,CLM-02224,Cigna,5/2/2023,,Pending,,22,Pending,Pending
+APP-00219,CLM-02830,Medicare,8/15/2023,,Pending,,20,Pending,Pending
+APP-00232,CLM-00387,Medicaid,10/30/2024,,Pending,,7,Pending,Pending
+APP-00236,CLM-02781,Humana,5/6/2023,7/2/2023,Won,,5,Valid,Won - Unquantifiable
+APP-00256,CLM-03207,Medicare,6/16/2024,,Pending,,22,Pending,Pending
+APP-00259,CLM-01396,Medicaid,5/14/2024,8/8/2024,Won,,29,Valid,Won - Unquantifiable
+APP-00262,CLM-02856,UnitedHealth,4/18/2024,,Pending,,1,Pending,Pending
+APP-00266,CLM-00782,Blue Cross,5/4/2024,,Pending,,22,Pending,Pending
+APP-00271,CLM-02485,UnitedHealth,1/8/2025,,Pending,,16,Pending,Pending
+APP-00272,CLM-04946,Medicare,2/23/2023,,Pending,,10,Pending,Pending
+APP-00276,CLM-00547,Medicaid,6/12/2024,,Pending,,18,Pending,Pending
+APP-00281,CLM-02693,Blue Cross,5/16/2023,,Pending,,4,Pending,Pending
+APP-00293,CLM-00663,Aetna,9/13/2024,,Pending,,1,Pending,Pending
+APP-00299,CLM-02217,Cigna,6/11/2023,9/28/2023,Won,,1,Valid,Won - Unquantifiable
+APP-00321,CLM-01806,Medicare,4/20/2023,,Pending,,3,Pending,Pending
+APP-00327,CLM-01204,Medicaid,4/28/2024,8/9/2024,Won,,14,Valid,Won - Unquantifiable
+APP-00330,CLM-04053,UnitedHealth,10/6/2023,11/18/2023,Won,,26,Valid,Won - Unquantifiable
+APP-00340,CLM-01476,Blue Cross,3/9/2024,,Pending,,15,Pending,Pending
+APP-00344,CLM-02692,UnitedHealth,12/14/2023,2/3/2024,Won,,13,Valid,Won - Unquantifiable
+APP-00353,CLM-02133,Medicare,8/8/2024,,Pending,,23,Pending,Pending
+APP-00360,CLM-03783,Aetna,10/28/2024,,Pending,,13,Pending,Pending
+APP-00363,CLM-04363,Medicaid,6/1/2023,,Pending,,13,Pending,Pending
+APP-00375,CLM-03577,UnitedHealth,11/29/2024,,Pending,,29,Pending,Pending
+APP-00383,CLM-03042,Aetna,3/14/2023,,Pending,,27,Pending,Pending
+APP-00385,CLM-03716,UnitedHealth,5/4/2023,,Pending,,19,Pending,Pending
+APP-00386,CLM-01950,Medicare,9/27/2024,,Pending,,9,Pending,Pending
+APP-00388,CLM-03429,Medicare,8/21/2024,,Pending,,30,Pending,Pending
+APP-00393,CLM-00395,UnitedHealth,9/25/2023,,Pending,,21,Pending,Pending
+APP-00403,CLM-00886,Self-Pay,9/16/2024,,Pending,,14,Pending,Pending
+APP-00406,CLM-00360,Blue Cross,11/17/2023,,Pending,,28,Pending,Pending
+APP-00407,CLM-04449,Aetna,11/22/2024,,Pending,,30,Pending,Pending
+APP-00408,CLM-00356,Medicaid,8/12/2024,,Pending,,18,Pending,Pending
+APP-00421,CLM-03391,Blue Cross,3/25/2024,5/28/2024,Won,,14,Valid,Won - Unquantifiable
+APP-00430,CLM-03875,Medicaid,5/25/2024,,Pending,,18,Pending,Pending
+APP-00444,CLM-01402,Aetna,12/6/2023,,Pending,,1,Pending,Pending
+APP-00454,CLM-03453,UnitedHealth,6/14/2023,,Pending,,10,Pending,Pending
+APP-00466,CLM-04451,Medicaid,6/9/2024,,Pending,,1,Pending,Pending
+APP-00469,CLM-02217,Cigna,6/27/2023,10/8/2023,Won,,17,Valid,Won - Unquantifiable
+APP-00482,CLM-04610,Medicaid,5/20/2023,,Pending,,6,Pending,Pending
+APP-00488,CLM-02948,Cigna,6/21/2023,,Pending,,15,Pending,Pending
+APP-00499,CLM-02957,Medicare,6/27/2024,10/22/2024,Won,,19,Valid,Won - Unquantifiable
+APP-00501,CLM-04469,Blue Cross,9/6/2023,,Pending,,27,Pending,Pending
+APP-00502,CLM-00929,Medicare,3/2/2025,,Pending,,22,Pending,Pending
+APP-00503,CLM-03073,UnitedHealth,11/3/2023,,Pending,,10,Pending,Pending
+APP-00507,CLM-02547,UnitedHealth,8/14/2023,,Pending,,7,Pending,Pending
+APP-00536,CLM-04737,UnitedHealth,3/18/2023,,Pending,,16,Pending,Pending
+APP-00542,CLM-03583,Aetna,6/16/2024,,Pending,,27,Pending,Pending
+APP-00547,CLM-03000,UnitedHealth,8/9/2023,,Pending,,11,Pending,Pending
+APP-00550,CLM-02238,UnitedHealth,9/30/2023,1/10/2024,Won,,27,Valid,Won - Unquantifiable
+APP-00551,CLM-00871,UnitedHealth,1/31/2024,,Pending,,21,Pending,Pending
+APP-00556,CLM-00380,Aetna,11/11/2023,12/28/2023,Won,,9,Valid,Won - Unquantifiable
+APP-00560,CLM-04015,UnitedHealth,5/15/2023,,Pending,,56,Pending,Pending
+APP-00007,CLM-00804,Humana,11/12/2023,11/11/2023,Won,24110.11,20,Sequence Error,Won - Valid
+APP-00095,CLM-02479,Medicare,4/18/2023,4/14/2023,Won,1069.07,29,Sequence Error,Won - Valid
+APP-00128,CLM-00451,Blue Cross,4/21/2023,4/12/2023,Won,870.18,53,Sequence Error,Won - Valid
+APP-00159,CLM-01103,Blue Cross,10/16/2023,10/13/2023,Won,1905.33,7,Sequence Error,Won - Valid
+APP-00187,CLM-04531,Medicare,11/3/2023,10/22/2023,Won,340.58,1,Sequence Error,Won - Valid
+APP-00215,CLM-02196,Medicare,2/25/2024,2/12/2024,Won,784.57,14,Sequence Error,Won - Valid
+APP-00301,CLM-02814,Humana,8/22/2024,8/13/2024,Won,18346.82,16,Sequence Error,Won - Valid
+APP-00302,CLM-00232,Blue Cross,3/8/2024,3/2/2024,Won,12487.99,4,Sequence Error,Won - Valid
+APP-00420,CLM-04763,Blue Cross,5/18/2024,5/11/2024,Won,1614.96,19,Sequence Error,Won - Valid
+APP-00453,CLM-04491,Medicaid,10/31/2024,10/19/2024,Won,2877.74,37,Sequence Error,Won - Valid
+APP-00520,CLM-03855,Medicare,12/1/2024,11/20/2024,Won,517.61,23,Sequence Error,Won - Valid
+APP-00535,CLM-02057,UnitedHealth,5/15/2023,5/4/2023,Won,3964.69,30,Sequence Error,Won - Valid
+APP-00001,CLM-02374,Medicare,12/24/2023,1/31/2024,Won,14262.01,12,Valid,Won - Valid
+APP-00002,CLM-01778,Blue Cross,5/3/2023,7/3/2023,Won,12750.87,6,Valid,Won - Valid
+APP-00003,CLM-00498,Medicare,8/23/2024,10/28/2024,Won,1344.4,43,Valid,Won - Valid
+APP-00004,CLM-01920,UnitedHealth,10/23/2023,1/3/2024,Won,1026.29,14,Valid,Won - Valid
+APP-00005,CLM-00556,UnitedHealth,3/11/2023,6/13/2023,Won,804.75,13,Valid,Won - Valid
+APP-00011,CLM-04362,Medicare,8/24/2023,12/13/2023,Won,14669.66,24,Valid,Won - Valid
+APP-00015,CLM-02320,Aetna,12/5/2023,3/3/2024,Won,1794.21,22,Valid,Won - Valid
+APP-00017,CLM-04260,Medicare,2/24/2025,5/24/2025,Won,3160.84,18,Valid,Won - Valid
+APP-00018,CLM-03387,Medicare,4/18/2024,6/12/2024,Won,17895.12,19,Valid,Won - Valid
+APP-00019,CLM-00227,Medicare,10/16/2024,1/16/2025,Won,1503.62,13,Valid,Won - Valid
+APP-00021,CLM-00487,UnitedHealth,8/5/2024,11/8/2024,Won,919.8,30,Valid,Won - Valid
+APP-00022,CLM-00297,Medicare,1/19/2025,5/14/2025,Won,7416.67,30,Valid,Won - Valid
+APP-00023,CLM-01130,Humana,11/6/2024,1/14/2025,Won,1336.52,26,Valid,Won - Valid
+APP-00026,CLM-03943,Medicare,4/14/2023,5/15/2023,Won,513.28,20,Valid,Won - Valid
+APP-00027,CLM-04621,Cigna,5/12/2023,6/18/2023,Won,4048.95,1,Valid,Won - Valid
+APP-00029,CLM-03403,Medicaid,8/3/2024,10/13/2024,Won,3872.94,25,Valid,Won - Valid
+APP-00031,CLM-00486,Blue Cross,4/8/2024,7/19/2024,Won,548.07,8,Valid,Won - Valid
+APP-00034,CLM-04967,UnitedHealth,7/22/2023,9/12/2023,Won,16331.59,45,Valid,Won - Valid
+APP-00043,CLM-02555,Blue Cross,10/5/2023,12/8/2023,Won,620.06,27,Valid,Won - Valid
+APP-00048,CLM-04335,Blue Cross,7/9/2023,10/3/2023,Won,8432.43,8,Valid,Won - Valid
+APP-00054,CLM-00590,Blue Cross,7/25/2023,10/1/2023,Won,802.49,11,Valid,Won - Valid
+APP-00060,CLM-03378,Medicare,2/7/2025,4/23/2025,Won,1427.8,9,Valid,Won - Valid
+APP-00061,CLM-00545,Humana,4/3/2023,6/24/2023,Won,8865.18,6,Valid,Won - Valid
+APP-00062,CLM-00347,Aetna,8/22/2023,12/12/2023,Won,741.74,1,Valid,Won - Valid
+APP-00064,CLM-03008,Humana,8/14/2024,12/6/2024,Won,1268.58,26,Valid,Won - Valid
+APP-00065,CLM-04401,Aetna,4/12/2024,6/2/2024,Won,3623.78,29,Valid,Won - Valid
+APP-00072,CLM-00908,Medicaid,12/14/2024,3/25/2025,Won,9935.35,6,Valid,Won - Valid
+APP-00074,CLM-01865,Aetna,3/21/2023,5/4/2023,Won,5620.79,11,Valid,Won - Valid
+APP-00076,CLM-03949,Cigna,6/27/2023,9/15/2023,Won,1853.14,26,Valid,Won - Valid
+APP-00077,CLM-03965,Medicare,12/21/2023,3/6/2024,Won,1276.73,22,Valid,Won - Valid
+APP-00079,CLM-01048,Medicare,7/15/2024,11/12/2024,Won,1623.92,35,Valid,Won - Valid
+APP-00080,CLM-02300,Medicare,4/16/2024,8/14/2024,Won,817.69,5,Valid,Won - Valid
+APP-00081,CLM-01565,Blue Cross,8/28/2024,11/27/2024,Won,2205.26,30,Valid,Won - Valid
+APP-00087,CLM-00749,Medicare,3/3/2023,5/27/2023,Won,763.83,24,Valid,Won - Valid
+APP-00096,CLM-02996,Humana,2/11/2025,5/24/2025,Won,2342.88,19,Valid,Won - Valid
+APP-00098,CLM-00319,Cigna,8/12/2024,9/23/2024,Won,3538.1,27,Valid,Won - Valid
+APP-00099,CLM-00528,UnitedHealth,11/13/2024,12/27/2024,Won,148.96,13,Valid,Won - Valid
+APP-00104,CLM-04344,Medicaid,1/21/2024,3/21/2024,Won,901.24,13,Valid,Won - Valid
+APP-00112,CLM-02019,Medicare,4/8/2023,7/24/2023,Won,8176.72,24,Valid,Won - Valid
+APP-00114,CLM-01787,Aetna,10/8/2024,1/29/2025,Won,1069.72,19,Valid,Won - Valid
+APP-00122,CLM-02345,Cigna,1/18/2025,3/27/2025,Won,23299.5,33,Valid,Won - Valid
+APP-00125,CLM-01963,Blue Cross,3/16/2023,7/12/2023,Won,1067.1,13,Valid,Won - Valid
+APP-00127,CLM-00595,Aetna,10/15/2024,1/22/2025,Won,1397.14,21,Valid,Won - Valid
+APP-00130,CLM-02064,Humana,4/8/2024,8/3/2024,Won,879.08,42,Valid,Won - Valid
+APP-00132,CLM-01873,Blue Cross,6/3/2023,7/16/2023,Won,1893.24,15,Valid,Won - Valid
+APP-00135,CLM-04322,Medicaid,9/18/2023,10/19/2023,Won,20488.48,30,Valid,Won - Valid
+APP-00138,CLM-01136,Humana,7/2/2024,10/13/2024,Won,10323.87,13,Valid,Won - Valid
+APP-00139,CLM-03999,Medicare,12/10/2024,3/22/2025,Won,8941.64,19,Valid,Won - Valid
+APP-00141,CLM-02347,Medicaid,7/20/2023,11/8/2023,Won,5290.55,13,Valid,Won - Valid
+APP-00152,CLM-01879,UnitedHealth,8/28/2023,12/5/2023,Won,3874.22,16,Valid,Won - Valid
+APP-00153,CLM-02269,UnitedHealth,2/18/2024,4/13/2024,Won,12365.47,1,Valid,Won - Valid
+APP-00156,CLM-00453,Blue Cross,11/2/2023,2/14/2024,Won,869.58,25,Valid,Won - Valid
+APP-00160,CLM-03793,Medicaid,8/17/2023,12/14/2023,Won,14008.82,6,Valid,Won - Valid
+APP-00162,CLM-03890,UnitedHealth,2/23/2023,5/6/2023,Won,2473.62,40,Valid,Won - Valid
+APP-00164,CLM-00230,Medicaid,2/15/2023,4/21/2023,Won,1203.51,4,Valid,Won - Valid
+APP-00165,CLM-02577,Aetna,9/16/2024,12/5/2024,Won,1012.42,28,Valid,Won - Valid
+APP-00169,CLM-03115,Humana,11/16/2024,1/19/2025,Won,835.89,9,Valid,Won - Valid
+APP-00171,CLM-01265,Blue Cross,1/11/2024,3/5/2024,Won,4079.47,24,Valid,Won - Valid
+APP-00173,CLM-00354,UnitedHealth,9/25/2024,11/4/2024,Won,1232.54,3,Valid,Won - Valid
+APP-00179,CLM-01047,Aetna,10/7/2023,12/2/2023,Won,1534.66,17,Valid,Won - Valid
+APP-00180,CLM-02534,Blue Cross,8/15/2024,10/11/2024,Won,1118.54,9,Valid,Won - Valid
+APP-00181,CLM-04077,Medicare,11/8/2024,3/1/2025,Won,12704.78,17,Valid,Won - Valid
+APP-00184,CLM-00904,Medicaid,10/30/2023,12/7/2023,Won,1834.62,25,Valid,Won - Valid
+APP-00191,CLM-01152,UnitedHealth,2/15/2025,4/25/2025,Won,15592.51,27,Valid,Won - Valid
+APP-00193,CLM-01316,Medicare,10/24/2024,1/30/2025,Won,1447.13,23,Valid,Won - Valid
+APP-00199,CLM-03660,Medicaid,12/1/2024,2/14/2025,Won,15746.46,2,Valid,Won - Valid
+APP-00200,CLM-01599,Blue Cross,2/19/2023,6/11/2023,Won,20560.28,3,Valid,Won - Valid
+APP-00201,CLM-01721,Cigna,3/20/2024,7/10/2024,Won,4424.7,29,Valid,Won - Valid
+APP-00204,CLM-03712,Blue Cross,3/16/2024,4/18/2024,Won,13944.64,4,Valid,Won - Valid
+APP-00207,CLM-02464,Medicare,12/9/2024,4/6/2025,Won,11437.57,9,Valid,Won - Valid
+APP-00208,CLM-02756,Medicaid,3/21/2023,6/8/2023,Won,1535.96,23,Valid,Won - Valid
+APP-00209,CLM-00273,Blue Cross,7/21/2024,9/4/2024,Won,3924.8,19,Valid,Won - Valid
+APP-00211,CLM-00139,UnitedHealth,8/23/2023,10/26/2023,Won,3141.44,4,Valid,Won - Valid
+APP-00212,CLM-04131,Medicare,2/17/2025,5/25/2025,Won,15707.43,58,Valid,Won - Valid
+APP-00214,CLM-00109,Humana,10/10/2024,1/29/2025,Won,2128.59,16,Valid,Won - Valid
+APP-00216,CLM-00911,UnitedHealth,9/6/2023,10/12/2023,Won,5579.75,19,Valid,Won - Valid
+APP-00221,CLM-03976,Blue Cross,5/14/2023,7/16/2023,Won,4082.42,4,Valid,Won - Valid
+APP-00225,CLM-01989,Humana,5/15/2024,9/2/2024,Won,2684.99,2,Valid,Won - Valid
+APP-00226,CLM-02795,UnitedHealth,4/30/2024,6/16/2024,Won,723.95,10,Valid,Won - Valid
+APP-00238,CLM-03493,Aetna,6/5/2024,8/29/2024,Won,1497.12,16,Valid,Won - Valid
+APP-00240,CLM-00817,Cigna,12/21/2024,1/27/2025,Won,666.11,21,Valid,Won - Valid
+APP-00252,CLM-00533,Medicare,2/13/2025,5/24/2025,Won,8031.94,24,Valid,Won - Valid
+APP-00254,CLM-01603,Medicare,3/26/2023,6/26/2023,Won,3892.03,10,Valid,Won - Valid
+APP-00260,CLM-03748,Aetna,3/20/2023,6/16/2023,Won,1447.41,20,Valid,Won - Valid
+APP-00264,CLM-01321,UnitedHealth,7/24/2024,11/21/2024,Won,10637.28,46,Valid,Won - Valid
+APP-00268,CLM-03296,Medicare,11/7/2024,2/16/2025,Won,1137.76,6,Valid,Won - Valid
+APP-00269,CLM-01337,Blue Cross,12/25/2024,4/10/2025,Won,904.43,14,Valid,Won - Valid
+APP-00279,CLM-02842,Aetna,9/30/2024,11/12/2024,Won,5923.93,20,Valid,Won - Valid
+APP-00282,CLM-00868,Medicare,10/9/2024,12/3/2024,Won,1100.01,22,Valid,Won - Valid
+APP-00287,CLM-02282,Medicaid,1/14/2024,2/19/2024,Won,1395.11,13,Valid,Won - Valid
+APP-00288,CLM-04720,Medicare,7/9/2024,10/8/2024,Won,1379.87,30,Valid,Won - Valid
+APP-00290,CLM-01507,Humana,5/9/2024,9/4/2024,Won,22075.95,26,Valid,Won - Valid
+APP-00292,CLM-00461,UnitedHealth,8/19/2024,12/13/2024,Won,9119.97,18,Valid,Won - Valid
+APP-00297,CLM-03707,UnitedHealth,11/5/2023,12/14/2023,Won,22282.49,7,Valid,Won - Valid
+APP-00298,CLM-02909,Medicaid,8/8/2024,9/26/2024,Won,12890.66,30,Valid,Won - Valid
+APP-00300,CLM-03596,Medicaid,1/22/2025,4/7/2025,Won,793.89,15,Valid,Won - Valid
+APP-00306,CLM-04042,Aetna,2/19/2024,5/22/2024,Won,9673.49,6,Valid,Won - Valid
+APP-00307,CLM-03404,Medicare,7/12/2024,9/17/2024,Won,8391.77,5,Valid,Won - Valid
+APP-00308,CLM-00497,Medicare,3/19/2023,4/18/2023,Won,5625.4,27,Valid,Won - Valid
+APP-00317,CLM-04865,Aetna,10/3/2023,12/16/2023,Won,3400.7,2,Valid,Won - Valid
+APP-00318,CLM-03909,Medicaid,8/23/2024,11/30/2024,Won,1187.58,6,Valid,Won - Valid
+APP-00320,CLM-04063,Medicare,9/4/2024,12/25/2024,Won,2288.77,55,Valid,Won - Valid
+APP-00328,CLM-03185,UnitedHealth,3/22/2023,4/26/2023,Won,990.41,11,Valid,Won - Valid
+APP-00329,CLM-01767,Aetna,11/22/2023,3/15/2024,Won,12567.01,23,Valid,Won - Valid
+APP-00331,CLM-00058,Blue Cross,1/23/2024,5/4/2024,Won,1058.5,1,Valid,Won - Valid
+APP-00334,CLM-03905,Blue Cross,4/19/2024,7/20/2024,Won,973.93,24,Valid,Won - Valid
+APP-00335,CLM-04570,UnitedHealth,11/22/2023,1/27/2024,Won,12148.43,23,Valid,Won - Valid
+APP-00339,CLM-03993,Humana,10/24/2023,2/20/2024,Won,787.51,23,Valid,Won - Valid
+APP-00341,CLM-03363,Blue Cross,1/25/2024,4/10/2024,Won,1298.78,27,Valid,Won - Valid
+APP-00342,CLM-03695,UnitedHealth,12/14/2024,1/24/2025,Won,17090.96,50,Valid,Won - Valid
+APP-00345,CLM-01693,Aetna,6/26/2023,10/4/2023,Won,17012.13,10,Valid,Won - Valid
+APP-00346,CLM-00324,Medicare,4/29/2024,7/26/2024,Won,19920.82,11,Valid,Won - Valid
+APP-00347,CLM-00407,UnitedHealth,12/3/2023,2/13/2024,Won,3543.21,29,Valid,Won - Valid
+APP-00348,CLM-04581,Medicare,2/27/2023,6/20/2023,Won,4850.86,20,Valid,Won - Valid
+APP-00351,CLM-04106,UnitedHealth,12/21/2024,1/25/2025,Won,10292.5,9,Valid,Won - Valid
+APP-00355,CLM-00851,Humana,2/10/2024,5/18/2024,Won,8823.25,20,Valid,Won - Valid
+APP-00364,CLM-00575,Medicare,3/1/2023,4/1/2023,Won,1984.12,3,Valid,Won - Valid
+APP-00365,CLM-02533,UnitedHealth,5/29/2023,7/24/2023,Won,1182.49,12,Valid,Won - Valid
+APP-00366,CLM-04256,Aetna,5/12/2024,8/30/2024,Won,4009.55,26,Valid,Won - Valid
+APP-00373,CLM-00186,UnitedHealth,11/28/2023,1/25/2024,Won,5066.77,21,Valid,Won - Valid
+APP-00381,CLM-01440,Medicare,6/17/2023,9/23/2023,Won,627.77,25,Valid,Won - Valid
+APP-00382,CLM-02822,Humana,7/6/2023,9/4/2023,Won,1257.76,2,Valid,Won - Valid
+APP-00384,CLM-02919,UnitedHealth,4/8/2023,5/25/2023,Won,831.09,4,Valid,Won - Valid
+APP-00391,CLM-00166,Medicare,12/7/2024,1/22/2025,Won,1802.33,28,Valid,Won - Valid
+APP-00395,CLM-02247,Blue Cross,9/17/2023,1/13/2024,Won,2818.14,22,Valid,Won - Valid
+APP-00398,CLM-01810,UnitedHealth,3/23/2024,5/30/2024,Won,1119.18,11,Valid,Won - Valid
+APP-00399,CLM-02796,Blue Cross,2/18/2025,6/4/2025,Won,11809.99,13,Valid,Won - Valid
+APP-00410,CLM-04174,UnitedHealth,5/12/2024,6/17/2024,Won,1410.67,16,Valid,Won - Valid
+APP-00411,CLM-04078,Medicare,5/15/2024,7/23/2024,Won,827.95,17,Valid,Won - Valid
+APP-00416,CLM-03647,Cigna,6/29/2023,8/23/2023,Won,20818.61,28,Valid,Won - Valid
+APP-00417,CLM-01869,Blue Cross,8/21/2024,11/18/2024,Won,8641.09,21,Valid,Won - Valid
+APP-00423,CLM-03488,Medicare,1/16/2025,3/28/2025,Won,11038.22,17,Valid,Won - Valid
+APP-00424,CLM-03233,Medicare,7/13/2023,10/27/2023,Won,819.05,16,Valid,Won - Valid
+APP-00426,CLM-04271,Blue Cross,11/23/2024,2/16/2025,Won,1379.41,2,Valid,Won - Valid
+APP-00427,CLM-02931,UnitedHealth,1/7/2025,4/24/2025,Won,1044.4,15,Valid,Won - Valid
+APP-00428,CLM-00401,Medicare,2/27/2024,5/10/2024,Won,14213.19,20,Valid,Won - Valid
+APP-00429,CLM-01751,Cigna,1/18/2024,3/17/2024,Won,3803.19,24,Valid,Won - Valid
+APP-00431,CLM-04386,UnitedHealth,5/2/2024,8/29/2024,Won,463.71,28,Valid,Won - Valid
+APP-00432,CLM-03563,Humana,8/20/2023,12/11/2023,Won,12676.59,11,Valid,Won - Valid
+APP-00433,CLM-04902,Blue Cross,11/27/2024,1/15/2025,Won,12126.74,14,Valid,Won - Valid
+APP-00438,CLM-01387,Medicaid,6/3/2024,9/5/2024,Won,8227.26,26,Valid,Won - Valid
+APP-00441,CLM-02869,UnitedHealth,8/17/2023,12/6/2023,Won,840.31,3,Valid,Won - Valid
+APP-00442,CLM-04338,UnitedHealth,12/2/2024,1/13/2025,Won,409.89,14,Valid,Won - Valid
+APP-00445,CLM-03046,UnitedHealth,1/18/2025,2/18/2025,Won,1391.43,6,Valid,Won - Valid
+APP-00449,CLM-04999,UnitedHealth,4/16/2024,8/1/2024,Won,16178.23,29,Valid,Won - Valid
+APP-00450,CLM-02309,Medicaid,12/20/2023,2/21/2024,Won,17994.01,4,Valid,Won - Valid
+APP-00459,CLM-04065,Blue Cross,6/3/2023,8/10/2023,Won,1962.7,17,Valid,Won - Valid
+APP-00462,CLM-00537,Cigna,3/25/2024,5/23/2024,Won,11030.07,8,Valid,Won - Valid
+APP-00463,CLM-01206,Blue Cross,12/15/2024,3/12/2025,Won,1375.96,30,Valid,Won - Valid
+APP-00464,CLM-01646,Medicaid,11/11/2023,12/11/2023,Won,891.51,5,Valid,Won - Valid
+APP-00467,CLM-03877,Blue Cross,11/18/2024,1/30/2025,Won,2441.87,12,Valid,Won - Valid
+APP-00468,CLM-02731,Medicaid,6/3/2023,9/17/2023,Won,1246.29,18,Valid,Won - Valid
+APP-00472,CLM-04236,Medicare,3/19/2024,5/5/2024,Won,5514.05,30,Valid,Won - Valid
+APP-00476,CLM-00993,Medicare,9/3/2023,10/23/2023,Won,2208.5,28,Valid,Won - Valid
+APP-00477,CLM-04028,Aetna,8/19/2023,9/29/2023,Won,618.23,7,Valid,Won - Valid
+APP-00478,CLM-02959,Blue Cross,2/2/2023,3/11/2023,Won,1341.28,5,Valid,Won - Valid
+APP-00479,CLM-01343,UnitedHealth,8/1/2024,9/20/2024,Won,2983.84,14,Valid,Won - Valid
+APP-00483,CLM-03284,Medicaid,12/2/2023,3/23/2024,Won,6599.42,28,Valid,Won - Valid
+APP-00484,CLM-04611,Medicare,11/25/2023,12/29/2023,Won,3364.3,18,Valid,Won - Valid
+APP-00491,CLM-02483,Blue Cross,5/15/2024,8/30/2024,Won,3426.22,21,Valid,Won - Valid
+APP-00493,CLM-01253,Medicaid,12/26/2023,2/11/2024,Won,708.19,29,Valid,Won - Valid
+APP-00500,CLM-04592,Cigna,4/19/2023,6/12/2023,Won,8958.46,10,Valid,Won - Valid
+APP-00504,CLM-02924,Medicare,9/2/2023,10/29/2023,Won,562.81,12,Valid,Won - Valid
+APP-00506,CLM-01626,Medicare,12/8/2023,3/11/2024,Won,1813.22,5,Valid,Won - Valid
+APP-00508,CLM-01688,Medicare,12/31/2023,4/7/2024,Won,5104.54,28,Valid,Won - Valid
+APP-00513,CLM-02266,Medicare,3/20/2024,7/14/2024,Won,3518.84,25,Valid,Won - Valid
+APP-00515,CLM-04584,Aetna,11/30/2023,1/10/2024,Won,22938.18,15,Valid,Won - Valid
+APP-00524,CLM-00525,Medicare,4/23/2024,8/7/2024,Won,353.02,26,Valid,Won - Valid
+APP-00525,CLM-00785,Blue Cross,8/14/2023,10/19/2023,Won,1302.65,18,Valid,Won - Valid
+APP-00528,CLM-00226,Blue Cross,12/26/2024,3/5/2025,Won,12069.97,15,Valid,Won - Valid
+APP-00531,CLM-01046,Blue Cross,1/23/2024,4/10/2024,Won,2237.64,3,Valid,Won - Valid
+APP-00532,CLM-00955,Humana,5/17/2024,6/30/2024,Won,10608.71,20,Valid,Won - Valid
+APP-00537,CLM-02977,Aetna,5/28/2024,9/12/2024,Won,4990.33,26,Valid,Won - Valid
+APP-00538,CLM-01987,Medicare,6/8/2024,9/23/2024,Won,6493.86,9,Valid,Won - Valid
+APP-00539,CLM-02812,Medicaid,7/21/2024,8/28/2024,Won,1063.56,17,Valid,Won - Valid
+APP-00552,CLM-03841,Blue Cross,6/7/2023,9/9/2023,Won,6031.25,9,Valid,Won - Valid
+APP-00555,CLM-04515,Medicare,8/8/2023,10/26/2023,Won,11368.23,15,Valid,Won - Valid
+APP-00562,CLM-02905,Humana,9/27/2023,12/6/2023,Won,3511.09,24,Valid,Won - Valid

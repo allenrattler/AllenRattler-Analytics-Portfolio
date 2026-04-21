@@ -1,0 +1,8 @@
+department_id,department_name,dept_code,avg_claim_value
+D001,Emergency,EM,4200
+D002,Surgery,SU,18500
+D003,Radiology,RA,1800
+D004,ICU,IC,22000
+D005,Outpatient,OP,950
+D006,Cardiology,CA,12000
+D007,Orthopedics,OR,16000
