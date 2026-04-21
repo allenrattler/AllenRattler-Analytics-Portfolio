@@ -216,19 +216,27 @@ Nine measures were created inside a dedicated `_Measures` table:
 **Page 1 — Title & Navigation**
 Cover page with project title, tool stack, and four navigation buttons linking to each analytical page.
 
-![Executive Summary](docs/screenshots/Page_1_Title.png)
+![Title & Navigation](docs/screenshots/Page_1_Title.png)
 
 **Page 2 — Executive Summary**
 Six KPI cards ($5.3M denied, $988.2K recovered, $2.2M net leakage, 19.5% denial rate, 41.4% appeal win rate, 18.6% net recovery rate) and a payer summary table. Date range slicer for period filtering.
 
+![Executive Summary](docs/screenshots/Page_2_Executive_Summary.png)
+
 **Page 3 — Denial Analysis**
 Denied revenue by payer (bar chart), denial rate by payer with average benchmark line (column chart), denial reasons breakdown (donut chart), and department denial rate trend by month (line chart). Payer and department slicers for interactive filtering.
+
+
 
 **Page 4 — Appeals & Recovery**
 Recovery rate by payer with average benchmark line, appeal outcome breakdown (donut chart), denied vs recovered revenue comparison by payer (clustered column chart), and average days to resolve by payer (bar chart).
 
+
+
 **Page 5 — Payer Detail (Drill-Through)** ← New in Project 2
 Right-clicking any payer on Pages 3 or 4 navigates to this page, which automatically filters to show that payer's top denial reasons, department breakdown, appeal outcomes, and monthly denial trend — alongside three payer-specific KPI cards. A Back button returns to the originating page.
+
+
 
 ---
 
