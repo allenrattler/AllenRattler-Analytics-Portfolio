@@ -231,7 +231,7 @@ Denied revenue by payer (bar chart), denial rate by payer with average benchmark
 **Page 4 — Appeals & Recovery**
 Recovery rate by payer with average benchmark line, appeal outcome breakdown (donut chart), denied vs recovered revenue comparison by payer (clustered column chart), and average days to resolve by payer (bar chart).
 
-
+![Appeals & Recovery](docs/screenshots/Page_4_Appeals_and_Recovery.png)
 
 **Page 5 — Payer Detail (Drill-Through)** ← New in Project 2
 Right-clicking any payer on Pages 3 or 4 navigates to this page, which automatically filters to show that payer's top denial reasons, department breakdown, appeal outcomes, and monthly denial trend — alongside three payer-specific KPI cards. A Back button returns to the originating page.
