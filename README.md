@@ -239,22 +239,34 @@ This star schema represents a deliberate evolution from Projects 1 and 2, which 
 **Page 1 — Title & Navigation**
 Dark navy landing page with five navigation buttons linking to all analytical pages.
 
+![Title and Navigation](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_1_Title_and_Navigation.png)
+
 **Page 2 — Executive Summary**
 Eight KPI cards covering total loans, total funded ($66.51M), portfolio default rate (23.51%), total charged off ($10.18M), net portfolio yield (+10.76%), YTD charged off, YTD interest collected, and YTD net yield. Includes a Net Yield % by grade bar chart where Grade A appears in red as the only negative bar, and a funded vs charged off clustered column chart. Date range slicer filters all visuals by loan issue date.
 
+![Executive Summary](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_2_Executive_Summary.png)
+
 **Page 3 — Credit Risk Analysis**
 Matrix heat map showing default rate by loan grade and credit quintile with red conditional formatting. Bar chart of default rate by DTI band. Scatter chart of average credit score vs default rate by grade. Decomposition Tree allowing interactive drill-down through grade → DTI band → purpose to isolate highest-risk segments. Grade slicer for filtering.
+
+![Credit Risk Analysis](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_3_Credit_Risk.png)
 
 > *Note: Key Influencers visual was replaced with a Decomposition Tree after determining that the synthetic portfolio's uniform default rate distribution (20–35% across all grades) did not produce statistically significant influencers. The Decomposition Tree provides equivalent analytical value with greater interactivity.*
 
 **Page 4 — Loan Purpose & Charge-Off**
 Horizontal bar chart ranking loan purposes by charge-off rate (medical: 27.55% highest). Treemap showing total charged-off dollars by purpose. Clustered column chart comparing interest collected vs charged off by purpose. Monthly default rate trend line chart filtered by loan purpose slicer.
 
+![Loan Purpose and Charge-Off](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_4_Loan_Purpose.png)
+
 **Page 5 — Risk-Adjusted Return**
 The signature page of Project 3. Features a What-If parameter slider (0–35, increment 0.5) that dynamically updates two KPI cards (Grades Above Threshold, Loans Above Threshold) and a constant line on the composite risk score bar chart. Scatter chart plots net yield % vs default rate % by grade — Grade A appears to the left of the zero-yield reference line, confirming its negative return. Summary table displays all seven grades with default rate, net yield (Grade A in red), composite risk score, and risk tier label.
 
+![Risk-Adjusted Return](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_5_Risk_Adjusted_Return.png)
+
 **Page 6 — Borrower Drill-Through**
 Accessible by right-clicking any loan grade value on Pages 3, 4, or 5. Dynamic title card updates to reflect the drilled grade (e.g., "Loan Grade A — Detailed Risk Profile"). Displays three filtered KPI cards, loan status donut chart, default rate by purpose bar chart, default rate by DTI band bar chart, and YTD charged off trend line — all scoped to the selected grade.
+
+![Borrower Drill-Through](https://raw.githubusercontent.com/allenrattler/AllenRattler-Analytics-Portfolio/Finance-Credit-Risk-Analysis/screenshots/Page_6_Borrower_Drill-Through.png)
 
 ---
 
