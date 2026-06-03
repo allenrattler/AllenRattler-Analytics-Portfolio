@@ -1,0 +1,36 @@
+loan_grade,loan_subgrade,grade_description,base_interest_rate
+A,A1,Prime — Very Low Risk,5.0
+A,A2,Prime — Very Low Risk,5.75
+A,A3,Prime — Very Low Risk,6.5
+A,A4,Prime — Very Low Risk,7.25
+A,A5,Prime — Very Low Risk,8.0
+B,B1,Near-Prime — Low Risk,8.5
+B,B2,Near-Prime — Low Risk,9.38
+B,B3,Near-Prime — Low Risk,10.25
+B,B4,Near-Prime — Low Risk,11.12
+B,B5,Near-Prime — Low Risk,12.0
+C,C1,Standard — Moderate Risk,12.5
+C,C2,Standard — Moderate Risk,13.5
+C,C3,Standard — Moderate Risk,14.5
+C,C4,Standard — Moderate Risk,15.5
+C,C5,Standard — Moderate Risk,16.5
+D,D1,Sub-Prime — Elevated Risk,17.0
+D,D2,Sub-Prime — Elevated Risk,18.25
+D,D3,Sub-Prime — Elevated Risk,19.5
+D,D4,Sub-Prime — Elevated Risk,20.75
+D,D5,Sub-Prime — Elevated Risk,22.0
+E,E1,High Risk,22.5
+E,E2,High Risk,23.62
+E,E3,High Risk,24.75
+E,E4,High Risk,25.88
+E,E5,High Risk,27.0
+F,F1,Very High Risk,27.5
+F,F2,Very High Risk,28.5
+F,F3,Very High Risk,29.5
+F,F4,Very High Risk,30.5
+F,F5,Very High Risk,31.5
+G,G1,Speculative — Highest Risk,32.0
+G,G2,Speculative — Highest Risk,33.0
+G,G3,Speculative — Highest Risk,34.0
+G,G4,Speculative — Highest Risk,35.0
+G,G5,Speculative — Highest Risk,36.0
