@@ -261,7 +261,7 @@ Horizontal bar chart ranking loan purposes by charge-off rate (medical: 27.55% h
 **Page 5 — Risk-Adjusted Return**
 The signature page of Project 3. Features a What-If parameter slider (0–35, increment 0.5) that dynamically updates two KPI cards (Grades Above Threshold, Loans Above Threshold) and a constant line on the composite risk score bar chart. Scatter chart plots net yield % vs default rate % by grade — Grade A appears to the left of the zero-yield reference line, confirming its negative return. Summary table displays all seven grades with default rate, net yield (Grade A in red), composite risk score, and risk tier label.
 
-![Risk-Adjusted Return](screenshots/Page_4_Loan_Purpose.png)
+![Risk-Adjusted Return](screenshots/Page_5_Risk_Adjusted_Return.png)
 
 **Page 6 — Borrower Drill-Through**
 Accessible by right-clicking any loan grade value on Pages 3, 4, or 5. Dynamic title card updates to reflect the drilled grade (e.g., "Loan Grade A — Detailed Risk Profile"). Displays three filtered KPI cards, loan status donut chart, default rate by purpose bar chart, default rate by DTI band bar chart, and YTD charged off trend line — all scoped to the selected grade.
