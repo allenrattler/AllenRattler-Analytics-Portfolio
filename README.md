@@ -162,7 +162,7 @@ Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
 
 | Tool | Application |
 |---|---|
-| Python (Google Colab, Faker) | Synthetic data generation with intentional data quality issues |
+| AI-Assisted Data Generation | Claude-generated Python in Google Colab/Faker for synthetic dataset creation |
 | Excel / Power Query | Multi-step cleaning pipelines; flag-don't-delete methodology; named Applied Steps |
 | PostgreSQL (pgAdmin) | Complex analytical queries; CTE architecture; window functions |
 | Power BI Desktop | Multi-page dashboards; DAX measures; star schema data modeling |
