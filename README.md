@@ -197,4 +197,4 @@ The job search is active. If you're a hiring manager or recruiter looking for a 
 
 ---
 
-*Built with Excel · PostgreSQL · Power BI · Python · #LearningInPublic*
+*Built with Excel · PostgreSQL · Power BI · Claude-assisted Python data generation*
