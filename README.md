@@ -1,6 +1,6 @@
 # AllenRattler Analytics Portfolio
 
-**Former 2nd grade teacher. 4 years in healthcare billing and collections. Now building data analytics solutions across multiple industries.**
+**Elementary educator transitioning into data analytics, with experience using student performance data to drive instructional decisions and six years of healthcare billing, collections, and claims-resolution experience. Building analytics solutions across education, healthcare, and finance.**
 
 This portfolio documents a complete career transition into data analytics — built project by project, industry by industry, in public. Every project follows the same end-to-end workflow: Python data generation → Excel/Power Query cleaning → PostgreSQL analysis → Power BI dashboard. Each project introduces deliberate technical evolutions to demonstrate progressive skill growth.
 
