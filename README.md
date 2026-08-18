@@ -53,7 +53,7 @@ Which students are falling behind in place value and regrouping — and does the
 Education — 2nd Grade Elementary School
 
 ### Tools Used
-Python (Google Colab) → Excel/Power Query → PostgreSQL → Power BI
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
 
 ### Dashboard
 4-page interactive Power BI dashboard covering:
@@ -82,7 +82,7 @@ Which insurance payers, hospital departments, and procedure codes are generating
 Healthcare — Hospital Revenue Cycle Management
 
 ### Tools Used
-Python (Google Colab) → Excel/Power Query → PostgreSQL → Power BI
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
 
 ### Dataset
 - `claims_raw`: 5,000 rows after deduplication
@@ -124,7 +124,7 @@ Which borrowers are most likely to default — and are the loans being issued to
 Finance — Personal Lending & Credit Risk
 
 ### Tools Used
-Python (Google Colab) → Excel/Power Query → PostgreSQL → Power BI
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
 
 ### Dataset
 - `loans_clean`: 3,500 rows after deduplication
