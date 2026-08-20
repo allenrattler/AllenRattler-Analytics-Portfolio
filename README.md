@@ -196,5 +196,10 @@ The job search is active. If you're a hiring manager or recruiter looking for a 
 **LinkedIn:** [linkedin.com/in/allenrattler](https://www.linkedin.com/in/allenrattler/)
 
 ---
+## AI Transparency / Project Methodology
 
+### AI-Assisted Development
+Claude was used to support synthetic dataset generation through Python and to assist with technical problem solving during project development. Python is not presented as an independently developed programming skill. The portfolio focuses on my application of Excel/Power Query, SQL/PostgreSQL, Power BI, analytical reasoning, business problem definition, data interpretation, validation, documentation, and communication of findings.
+
+---
 *Built with Excel · PostgreSQL · Power BI · Claude-assisted Python data generation*
