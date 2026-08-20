@@ -189,7 +189,7 @@ Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
 
 Three industries. Three business problems. One consistent workflow.
 
-Every project in this portfolio was built from scratch — data generated, cleaned, analyzed, and visualized end to end. The industries were chosen deliberately: Education (personal experience), Healthcare (approximately six years of professional billing, collections, and claims-resolution experience), and Finance (least familiar domain — chosen to prove adaptability).
+Each project was developed as an end-to-end portfolio case study, from business problem definition and AI-assisted synthetic dataset creation through data cleaning, analysis, visualization, interpretation, and documentation. The industries were chosen deliberately: Education (personal experience), Healthcare (approximately six years of professional billing, collections, and claims-resolution experience), and Finance (least familiar domain — chosen to prove adaptability).
 
 The job search is active. If you're a hiring manager or recruiter looking for a data analyst who documents everything, builds in public, and isn't afraid to tackle unfamiliar problems — let's connect.
 
