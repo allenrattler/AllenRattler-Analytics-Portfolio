@@ -121,6 +121,8 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 - Appeals & Recovery (win rate, avg days to resolve)
 - Payer Detail — Drill-Through (right-click any payer to drill in)
 
+**Synthetic Data Disclaimer:** *All payer names, claims, financial figures, denial rates, recovery rates, and findings in this portfolio project are based on synthetic data created solely for educational and portfolio purposes. They do not represent actual performance by any insurer, healthcare organization, borrower, or individual.*
+
 ### Key Findings
 - UnitedHealth: highest denial rate (23.85%) and highest denied revenue ($1.51M)
 - Medicaid: highest revenue denied percentage at 26.55%
@@ -211,19 +213,28 @@ Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
 
 ## About This Portfolio
 
-Three industries. Three business problems. One consistent workflow.
+Three industries. Three business problems. One consistent analytical workflow.
 
-Each project was developed as an end-to-end portfolio case study, from business problem definition and AI-assisted synthetic dataset creation through data cleaning, analysis, visualization, interpretation, and documentation. The industries were chosen deliberately: Education (personal experience), Healthcare (approximately six years of professional billing, collections, and claims-resolution experience), and Finance (least familiar domain — chosen to prove adaptability).
+The industries were selected deliberately:
 
-The job search is active. If you're a hiring manager or recruiter looking for a data analyst who documents everything, builds in public, and isn't afraid to tackle unfamiliar problems — let's connect.
+- **Education:** Builds on my professional experience using assessment, progress-monitoring, attendance, behavioral, and performance data to support instructional decisions.
+- **Healthcare:** Builds on approximately six years of professional experience in insurance billing, collections, claims investigation, and resolution.
+- **Finance:** Represents an unfamiliar industry selected to demonstrate my ability to learn a new business domain and apply analytical methods to a different type of problem.
 
-**LinkedIn:** [linkedin.com/in/allenrattler](https://www.linkedin.com/in/allenrattler/)
+These projects demonstrate the progression of my skills in data cleaning, SQL analysis, Power BI visualization, analytical reasoning, documentation, and communication of findings.
 
 ---
+
 ## AI Transparency / Project Methodology
 
 ### AI-Assisted Development
-Claude was used to support synthetic dataset generation through Python and to assist with technical problem solving during project development. Python is not presented as an independently developed programming skill. The portfolio focuses on my application of Excel/Power Query, SQL/PostgreSQL, Power BI, analytical reasoning, business problem definition, data interpretation, validation, documentation, and communication of findings.
+Claude was used to generate the Python code used to create synthetic datasets and to assist with technical problem solving during project development.
+
+Python is not presented as an independently developed programming skill.
+
+The portfolio is intended to demonstrate my developing capabilities in data analytics, including Excel/Power Query, PostgreSQL, Power BI, analytical reasoning, business problem definition, data interpretation, validation, documentation, and communication of findings.
+
+Where AI assisted with technical implementation beyond synthetic data generation, that assistance should be disclosed rather than represented as independently completed work.
 
 ---
-*Built with Excel · PostgreSQL · Power BI · Claude-assisted Python data generation*
+*Built with Excel · PostgreSQL · Power BI · GitHub · Claude-assisted synthetic data generation*
