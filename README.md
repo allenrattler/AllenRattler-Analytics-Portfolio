@@ -10,6 +10,26 @@ Claude was used to generate the Python code responsible for creating the synthet
 
 ---
 
+## Portfolio Methodology
+
+The projects in this portfolio were developed as hands-on analytics exercises using synthetic datasets.
+
+My work focuses on:
+
+- Defining business and analytical questions
+- Reviewing and validating synthetic datasets
+- Cleaning and transforming data with Excel and Power Query
+- Analyzing data with PostgreSQL
+- Developing dashboards and visualizations in Power BI
+- Identifying trends, patterns, risks, and performance gaps
+- Interpreting analytical results
+- Translating findings into business or operational recommendations
+- Documenting methodology and findings through GitHub
+
+*Claude was used to generate Python-based synthetic datasets and provide technical assistance during development. The degree of AI assistance for SQL, DAX, Power Query, and other technical implementation is documented where appropriate.*
+
+---
+
 ## Portfolio at a Glance
 
 | # | Project | Industry | Business Problem | Status |
