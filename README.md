@@ -217,20 +217,26 @@ Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
 | Power BI Desktop | Multi-page dashboards; DAX measures; star schema data modeling |
 | GitHub | Branch-based project organization; recruiter-ready documentation |
 
-### Technical Skills
+### Project Techniques & Features
 
-| Skill | Projects |
+The following techniques and features are represented within the portfolio projects. Their inclusion describes the technical scope of the projects and should not be interpreted to mean that every implementation was independently developed without AI assistance.
+
+| Technique/Feature | Projects |
 |---|---|
+| SQL JOINs, GROUP BY, CASE Expressions, and CTEs | Project 1, 2, 3 |
 | Window Functions (`RANK`, `NTILE`, `LAG`, `PERCENT_RANK`) | Projects 2, 3 |
-| CTE-Based Query Architecture | Projects 1, 2, 3 |
-| Star Schema Data Modeling | Project 3 |
+| Power Query Data Cleaning & Transformation | Projects 1, 2, 3 |
+| Star Schema Data Model | Project 3 |
 | DAX Time Intelligence | Projects 2, 3 |
 | DAX What-If Parameter | Project 3 |
 | Power BI Drill-Through | Projects 2, 3 |
-| Decomposition Tree Visual | Project 3 |
+| Decomposition Tree | Project 3 |
 | Composite Metric Design | Projects 2, 3 |
 | Data Quality Documentation | Projects 1, 2, 3 |
 | Synthetic Data Transparency | Projects 1, 2, 3 |
+
+
+**Note:** DAX measures and much of the original advanced SQL implementation were generated with Claude assistance. I independently perform Power Query transformations and can write or modify common SQL queries, including joins, aggregations, CTEs, CASE expressions, and window functions.
 
 ---
 
