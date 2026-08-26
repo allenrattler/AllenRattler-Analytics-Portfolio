@@ -79,7 +79,7 @@ Each branch contains a full README, all raw and processed data files, SQL query 
 
 ## Portfolio Progression
 
-A deliberate technical evolution was built into each project to demonstrate growth across the series:
+A deliberate progression in project complexity and technical exposure was built into the portfolio, with each project introducing additional analytical techniques and Power BI features.
 
 | Project | Key Technical Addition |
 |---|---|
