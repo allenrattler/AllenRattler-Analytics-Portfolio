@@ -12,21 +12,44 @@ Claude was used to generate the Python code responsible for creating the synthet
 
 ## Portfolio Methodology
 
-The projects in this portfolio were developed as hands-on analytics exercises using synthetic datasets.
+This portfolio documents my transition into data analytics through hands-on projects across education, healthcare, and finance.
 
-My work focuses on:
+Each project follows a structured workflow:
 
-- Defining business and analytical questions
-- Reviewing and validating synthetic datasets
-- Cleaning and transforming data with Excel and Power Query
-- Analyzing data with PostgreSQL
-- Developing dashboards and visualizations in Power BI
-- Identifying trends, patterns, risks, and performance gaps
-- Interpreting analytical results
-- Translating findings into business or operational recommendations
-- Documenting methodology and findings through GitHub
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
-*Claude was used to generate Python-based synthetic datasets and provide technical assistance during development. The degree of AI assistance for SQL, DAX, Power Query, and other technical implementation is documented where appropriate.*
+### My Role
+
+I personally:
+
+- Researched and selected the business problems explored in each project.
+- Performed data cleaning and transformation using Excel and Power Query.
+- Executed PostgreSQL queries and reviewed their outputs.
+- Developed working knowledge of SQL, including JOINs, GROUP BY, CTEs, CASE expressions, and window functions, and can independently write or modify queries using these techniques.
+- Built Power BI dashboards by following AI-assisted implementation guidance.
+- Created and managed relationships within Power BI data models.
+- Applied appropriate visualization principles for categorical, time-series, and part-to-whole data.
+- Formatted and organized dashboard visuals for readability and presentation.
+- Evaluated project outputs, refined prompts and requirements, and maintained project documentation through GitHub.
+- Used my professional experience in education and healthcare to research and contextualize relevant business problems.
+
+### Claude's Role
+
+Claude was used to:
+
+- Generate Python code used to create the synthetic datasets.
+- Generate most of the initial SQL queries used throughout the portfolio projects.
+- Generate DAX measures used in the Power BI dashboards.
+- Provide step-by-step guidance for dashboard development.
+- Suggest analytical questions, KPIs, analytical approaches, and portions of the business-analysis structure.
+- Assist with interpretation of analytical outputs and development of project findings.
+- Support technical troubleshooting and project development.
+
+Python and DAX are therefore not presented as independently developed technical skills.
+
+SQL is presented as a developing hands-on skill because I can independently write, understand, and modify common SQL queries, although much of the original portfolio SQL implementation was generated with Claude assistance.
+
+Power BI is presented as a hands-on skill because I built the dashboards, created relationships, formatted visualizations, and understand foundational visualization principles, while using Claude for implementation guidance.
 
 ---
 
