@@ -4,7 +4,7 @@
 
 This portfolio documents my transition into data analytics through progressively more advanced portfolio projects across multiple industries. Each project follows a structured workflow:
 
-**Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization**
+**Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development**
 
 Claude was used to generate the Python code responsible for creating the synthetic datasets and to support technical problem solving throughout project development. Python is not presented as an independently developed programming skill.
 
