@@ -213,8 +213,8 @@ Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
 |---|---|
 | AI-Assisted Data Generation | Claude-generated Python in Google Colab/Faker for synthetic dataset creation |
 | Excel / Power Query | Multi-step cleaning pipelines; flag-don't-delete methodology; named Applied Steps |
-| PostgreSQL (pgAdmin) | Complex analytical queries; CTE architecture; window functions |
-| Power BI Desktop | Multi-page dashboards; DAX measures; star schema data modeling |
+| PostgreSQL (pgAdmin) | SQL execution and modification; joins, aggregations, CTEs, CASE expressions, and window functions; AI-assisted original query development |
+| Power BI Desktop | Multi-page dashboard construction, relationships, visualization, drill-through, and formatting; AI-guided implementation and Claude-generated DAX |
 | GitHub | Branch-based project organization; recruiter-ready documentation |
 
 ### Project Techniques & Features
