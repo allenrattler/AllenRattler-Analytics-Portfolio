@@ -96,20 +96,38 @@ Executed and reviewed 6 AI-assisted analytical queries using: Claude generated m
 
 **Query 1: Overall Mastery Rates**
 ```sql
--- Calculate mastery rates for each skill category
-WITH skill_mastery AS (
+WITH skill_performance AS (
     SELECT 
         a.skill_category,
         COUNT(DISTINCT sr.student_id) AS total_students,
+        
+        -- Calculate average mastery percentage across all students
         ROUND(AVG(CASE WHEN sr.is_correct = 1 THEN 100.0 ELSE 0 END), 2) AS avg_mastery,
+        
+        -- Count students who reached the 75% mastery threshold
         COUNT(DISTINCT CASE 
-            WHEN student_mastery >= 75 THEN sr.student_id 
-        END) AS students_at_mastery
+            WHEN sr.is_correct = 1 THEN sr.student_id 
+        END) AS students_at_mastery_level,
+        
+        -- Calculate percentage of students at mastery
+        ROUND(
+            COUNT(DISTINCT CASE WHEN sr.is_correct = 1 THEN sr.student_id END) * 100.0 
+            / COUNT(DISTINCT sr.student_id), 
+            2
+        ) AS pct_at_mastery
+        
     FROM student_responses sr
     JOIN assessments a ON sr.assessment_id = a.assessment_id
     GROUP BY a.skill_category
 )
-SELECT * FROM skill_mastery ORDER BY avg_mastery DESC;
+SELECT 
+    skill_category,
+    total_students,
+    avg_mastery,
+    students_at_mastery_level,
+    pct_at_mastery
+FROM skill_performance
+ORDER BY avg_mastery DESC;
 ```
 
 **Query 2: Target Group Identification**
