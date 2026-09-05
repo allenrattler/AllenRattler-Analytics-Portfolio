@@ -1,4 +1,4 @@
-# Finance Credit Risk Analysis
+# Consumer Credit Risk & Loan Profitability Analysis
 ### Personal Lending Portfolio — Default Risk & Net Yield Assessment | 2021–2023
 
 ---
