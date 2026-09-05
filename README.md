@@ -57,7 +57,7 @@ Power BI is presented as a hands-on skill because I built the dashboards, create
 
 | # | Project | Industry | Business Problem | Status |
 |---|---|---|---|---|
-| 1 | [Student Performance Gap Analysis: Place Value vs. Regrouping](#project-1--student-performance-gap-analysis-place-value-vs-regrouping) | Education | Which students have mastered place value concepts but struggle with regrouping, and which specific regrouping skills should be prioritized for intervention? | ✅ Complete |
+| 1 | [Student Performance Gap Analysis: Place Value vs. Regrouping](#project-1--student-performance-gap-analysis-place-value-vs-regrouping) | Education | Which students are falling behind in place value and regrouping — and does the gap differ by learning style, intervention group, or time of year? | ✅ Complete |
 | 2 | [Hospital Claim Denial & Revenue Recovery](#project-2--hospital-claim-denial--revenue-recovery) | Healthcare | Which payers and departments are generating the most denials — and how much revenue is lost? | ✅ Complete |
 | 3 | [Consumer Credit Risk & Loan Profitability Analysis](#project-3--consumer-credit-risk--loan-profitability-analysis) | Finance | Which borrowers are most likely to default — and are high-risk loans priced to justify the exposure? | ✅ Complete |
 
