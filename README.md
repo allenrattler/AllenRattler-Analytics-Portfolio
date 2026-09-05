@@ -4,7 +4,7 @@
 
 This portfolio documents my transition into data analytics through progressively more advanced portfolio projects across multiple industries. Each project follows a structured workflow:
 
-**Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development**
+**Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development**
 
 Claude was used to generate the Python code responsible for creating the synthetic datasets and to support technical problem solving throughout project development. Python is not presented as an independently developed programming skill.
 
@@ -16,7 +16,7 @@ This portfolio documents my transition into data analytics through hands-on proj
 
 Each project follows a structured workflow:
 
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### My Role
 
@@ -102,7 +102,7 @@ Which students are falling behind in place value and regrouping — and does the
 Education — 2nd Grade Elementary School
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dashboard
 4-page interactive Power BI dashboard covering:
@@ -131,7 +131,7 @@ Which insurance payers, hospital departments, and procedure codes are generating
 Healthcare — Hospital Revenue Cycle Management
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `claims_raw`: 5,000 rows after deduplication
@@ -175,7 +175,7 @@ Which borrowers are most likely to default — and are the loans being issued to
 Finance — Personal Lending & Credit Risk
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `loans_clean`: 3,500 rows after deduplication
