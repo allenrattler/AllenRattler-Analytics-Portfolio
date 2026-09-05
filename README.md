@@ -250,7 +250,7 @@ The industries were selected deliberately:
 - **Healthcare:** Builds on approximately six years of professional experience in insurance billing, collections, claims investigation, and resolution.
 - **Finance:** Represents an unfamiliar industry selected to demonstrate my ability to learn a new business domain and apply analytical methods to a different type of problem.
 
-These projects demonstrate the progression of my skills in data cleaning, SQL analysis, Power BI visualization, analytical reasoning, documentation, and communication of findings.
+These projects demonstrate my developing capabilities in data cleaning, SQL execution and modification, Power BI dashboard development, data visualization, technical documentation, and AI-assisted analytical workflows.
 
 ---
 
