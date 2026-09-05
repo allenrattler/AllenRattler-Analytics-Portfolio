@@ -115,7 +115,7 @@ Claude-assisted synthetic data generation using Python → AI-assisted PostgreSQ
 104 of 180 students (57.8%) met the target-group criteria of strong place-value performance but below-threshold regrouping performance, demonstrating a substantial procedural skill gap within the synthetic dataset.
 
 ### Navigate to Project 1
-Switch to the `Education-Analytics-Dashboard` branch or click here:
+Switch to the `Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` branch or click here:
 [`Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping)
 
 ---
