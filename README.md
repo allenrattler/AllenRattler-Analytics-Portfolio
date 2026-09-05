@@ -82,14 +82,14 @@ Executed and reviewed 6 AI-assisted analytical queries using: Claude generated m
 
 ### 5. **Mrs. Williams's classroom (4A) shows 0% mastery**
    - Critical finding requiring immediate classroom observation
-   - Indicates potential instructional approach issue or challenging student population
+   - Flags the classroom for further review; the performance data alone cannot determine whether the result reflects instructional approach, student composition, assessment conditions, or another factor.
    - **Insight:** Needs targeted professional development or support
 
 ### 6. **Limited improvement over time**
    - 51 students showed strong improvement (>10 points)
    - 57 students declined
    - Majority showed minimal change (stagnation)
-   - **Insight:** Current instructional approach is not effective for most students
+   - **Insight:** Limited improvement suggests the need for further investigation into instructional strategies, intervention design, assessment alignment, and other contributing factors.
      
 ## Technical Implementation
 ### SQL Query Highlights
