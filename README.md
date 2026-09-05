@@ -98,38 +98,32 @@ Executed and reviewed 6 AI-assisted analytical queries using: Claude generated m
 
 **Query 1: Overall Mastery Rates**
 ```sql
-WITH skill_performance AS (
+SET search_path TO education;
+
+-- Calculate mastery by skill for each student
+WITH student_performance AS (
     SELECT 
+        sr.student_id,
         a.skill_category,
-        COUNT(DISTINCT sr.student_id) AS total_students,
-        
-        -- Calculate average mastery percentage across all students
-        ROUND(AVG(CASE WHEN sr.is_correct = 1 THEN 100.0 ELSE 0 END), 2) AS avg_mastery,
-        
-        -- Count students who reached the 75% mastery threshold
-        COUNT(DISTINCT CASE 
-            WHEN sr.is_correct = 1 THEN sr.student_id 
-        END) AS students_at_mastery_level,
-        
-        -- Calculate percentage of students at mastery
-        ROUND(
-            COUNT(DISTINCT CASE WHEN sr.is_correct = 1 THEN sr.student_id END) * 100.0 
-            / COUNT(DISTINCT sr.student_id), 
-            2
-        ) AS pct_at_mastery
-        
+        COUNT(*) AS total_questions,
+        SUM(sr.is_correct) AS correct_answers,
+        ROUND(SUM(sr.is_correct) * 100.0 / COUNT(*), 2) AS mastery_pct
     FROM student_responses sr
+    JOIN assessment_questions aq ON sr.question_id = aq.question_id
     JOIN assessments a ON sr.assessment_id = a.assessment_id
-    GROUP BY a.skill_category
+    GROUP BY sr.student_id, a.skill_category
 )
 SELECT 
     skill_category,
-    total_students,
-    avg_mastery,
-    students_at_mastery_level,
-    pct_at_mastery
-FROM skill_performance
-ORDER BY avg_mastery DESC;
+    COUNT(DISTINCT student_id) AS total_students,
+    ROUND(AVG(mastery_pct), 2) AS avg_mastery_pct,
+    ROUND(MIN(mastery_pct), 2) AS min_mastery_pct,
+    ROUND(MAX(mastery_pct), 2) AS max_mastery_pct,
+    COUNT(CASE WHEN mastery_pct >= 75 THEN 1 END) AS students_at_mastery,
+    ROUND(COUNT(CASE WHEN mastery_pct >= 75 THEN 1 END) * 100.0 / COUNT(DISTINCT student_id), 2) AS pct_at_mastery
+FROM student_performance
+GROUP BY skill_category
+ORDER BY skill_category;
 ```
 
 **Query 2: Target Group Identification**
