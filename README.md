@@ -10,7 +10,7 @@ An end-to-end data analytics project analyzing 10,198 student assessment respons
 ## Business Problem
 Elementary teachers observed students making errors in multi-digit addition despite understanding place value. The key question:
 
-**"Which students have mastered place value concepts but struggle with regrouping, and which specific regrouping skills should be prioritized for intervention?"**
+**"Which students are falling behind in place value and regrouping — and does the gap differ by learning style, intervention group, or time of year?"**
 
 Traditional approaches reteach place value to all struggling students, wasting instructional time on concepts students already understand. This analysis identifies students who need targeted procedural practice rather than conceptual review, enabling more efficient intervention strategies.
 
