@@ -17,12 +17,13 @@ Traditional approaches reteach place value to all struggling students, wasting i
 ## Data Sources
 **Synthetic dataset** created to simulate realistic elementary math assessment data:
 
-- **7 tables** with 10,198+ total records
+- **10,198 raw student response records** before cleaning
+- **7 relational source tables**
 - **180 students** across grades 2-4
 - **7 teachers** across different classrooms
 - **4 assessments** covering three skill categories
 - **55 assessment questions** with varying difficulty levels
-- **9,900 student responses** (after data cleaning)
+- **9,900 unique student response records** after deduplication
 
 ### Database Schema:
 - `students` - Student demographics (180 records)
