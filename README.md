@@ -85,7 +85,7 @@ Executed and reviewed 6 AI-assisted analytical queries using: Claude generated m
 ### 5. **Mrs. Williams's classroom (4A) shows 0% mastery**
    - Critical finding requiring immediate classroom observation
    - Flags the classroom for further review; the performance data alone cannot determine whether the result reflects instructional approach, student composition, assessment conditions, or another factor.
-   - **Insight:** Needs targeted professional development or support
+   - **Insight:** Warrants further review before determining whether instructional coaching, student-level supports, assessment adjustments, or other interventions are appropriate
 
 ### 6. **Limited improvement over time**
    - 51 students showed strong improvement (>10 points)
@@ -260,9 +260,9 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
    - Target: "Regroup ones to tens" mastery
 
 2. **Classroom Observation for Mrs. Williams (4A)**
-   - Immediate instructional coaching support
+   - Immediate instructional coaching investigation
    - Observe current teaching methods
-   - Provide targeted professional development
+   - Provide targeted support based on investigations
    - Monitor weekly progress
 
 3. **Grade 2 Scaffolding Strategy**
@@ -286,7 +286,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 6. **Systematic Skill Progression Tracking**
    - Weekly assessments to monitor improvement
    - Adjust groupings based on progress
-   - Expect 8-12 weeks to see significant gains
+   - Evaluate intervention outcomes over an 8–12 week monitoring period.
 
 7. **Instructional Approach Review**
    - Current methods showing limited improvement over time
@@ -295,7 +295,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 
 ### Expected Impact
 
-- **~40% reduction in instructional time waste** (stop reteaching place value to students who already know it)
+- **Potential benefit: reduce unnecessary reteaching** by directing intervention toward the specific skills identified in the analysis.
 - **Targeted intervention** increases likelihood of student improvement
 - **Data-driven grouping** ensures appropriate challenge level for all students
   
