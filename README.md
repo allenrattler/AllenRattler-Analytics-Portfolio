@@ -116,7 +116,7 @@ Students receiving Tier 2 intervention showed the widest performance gap on regr
 
 ### Navigate to Project 1
 Switch to the `Education-Analytics-Dashboard` branch or click here:
-[`Education-Analytics-Dashboard` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Education-Analytics-Dashboard)
+[`Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping)
 
 ---
 
