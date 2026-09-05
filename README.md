@@ -102,7 +102,7 @@ Which students are falling behind in place value and regrouping — and does the
 Education — 2nd Grade Elementary School
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dashboard
 4-page interactive Power BI dashboard covering:
@@ -131,7 +131,7 @@ Which insurance payers, hospital departments, and procedure codes are generating
 Healthcare — Hospital Revenue Cycle Management
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `claims_raw`: 5,000 rows after deduplication
@@ -175,7 +175,7 @@ Which borrowers are most likely to default — and are the loans being issued to
 Finance — Personal Lending & Credit Risk
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → PostgreSQL analysis → Power BI visualization
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `loans_clean`: 3,500 rows after deduplication
@@ -253,19 +253,6 @@ The industries were selected deliberately:
 - **Finance:** Represents an unfamiliar industry selected to demonstrate my ability to learn a new business domain and apply analytical methods to a different type of problem.
 
 These projects demonstrate my developing capabilities in data cleaning, SQL execution and modification, Power BI dashboard development, data visualization, technical documentation, and AI-assisted analytical workflows.
-
----
-
-## AI Transparency / Project Methodology
-
-### AI-Assisted Development
-Claude was used to generate the Python code used to create synthetic datasets and to assist with technical problem solving during project development.
-
-Python is not presented as an independently developed programming skill.
-
-The portfolio is intended to demonstrate my developing capabilities in data analytics, including Excel/Power Query, PostgreSQL, Power BI, analytical reasoning, business problem definition, data interpretation, validation, documentation, and communication of findings.
-
-Where AI assisted with technical implementation beyond synthetic data generation, that assistance should be disclosed rather than represented as independently completed work.
 
 ---
 *Built with Excel · PostgreSQL · Power BI · GitHub · Claude-assisted synthetic data generation*
