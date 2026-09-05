@@ -59,7 +59,7 @@ Power BI is presented as a hands-on skill because I built the dashboards, create
 |---|---|---|---|---|
 | 1 | [Student Performance Gap Analysis](#project-1--student-performance-gap-analysis) | Education | Which students are falling behind — and where does the gap start? | ✅ Complete |
 | 2 | [Hospital Claim Denial & Revenue Recovery](#project-2--hospital-claim-denial--revenue-recovery) | Healthcare | Which payers and departments are generating the most denials — and how much revenue is lost? | ✅ Complete |
-| 3 | [Finance Credit Risk Analysis](#project-3--finance-credit-risk-analysis) | Finance | Which borrowers are most likely to default — and are high-risk loans priced to justify the exposure? | ✅ Complete |
+| 3 | [Consumer Credit Risk & Loan Profitability Analysis](#project-3--Consumer-Credit-Risk-&-Loan-Profitability-Analysis) | Finance | Which borrowers are most likely to default — and are high-risk loans priced to justify the exposure? | ✅ Complete |
 
 ---
 
@@ -71,7 +71,7 @@ Each project lives on its own branch. Use the branch switcher at the top of the 
 |---|---|
 | `Education-Analytics-Dashboard` | Project 1 — Student Performance Gap Analysis |
 | `Hospital-Claim-Denial-Revenue-Recovery` | Project 2 — Hospital Claim Denial & Revenue Recovery |
-| `Finance-Credit-Risk-Analysis` | Project 3 — Finance Credit Risk Analysis |
+| `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` | Project 3 — Consumer Credit Risk & Loan Profitability Analysis |
 
 Each branch contains a full README, all raw and processed data files, SQL query files, Python data generation notebook, and Power BI dashboard screenshots.
 
