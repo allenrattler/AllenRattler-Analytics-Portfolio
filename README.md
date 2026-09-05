@@ -57,7 +57,7 @@ Power BI is presented as a hands-on skill because I built the dashboards, create
 
 | # | Project | Industry | Business Problem | Status |
 |---|---|---|---|---|
-| 1 | [Student Performance Gap Analysis: Place Value vs. Regrouping](#project-1--student-performance-gap-analysis--place-value-vs--regrouping) | Education | Which students are falling behind — and where does the gap start? | ✅ Complete |
+| 1 | [Student Performance Gap Analysis: Place Value vs. Regrouping](#project-1--student-performance-gap-analysis-\-place-value-vs-regrouping) | Education | Which students are falling behind — and where does the gap start? | ✅ Complete |
 | 2 | [Hospital Claim Denial & Revenue Recovery](#project-2--hospital-claim-denial--revenue-recovery) | Healthcare | Which payers and departments are generating the most denials — and how much revenue is lost? | ✅ Complete |
 | 3 | [Consumer Credit Risk & Loan Profitability Analysis](#project-3--consumer-credit-risk--loan-profitability-analysis) | Finance | Which borrowers are most likely to default — and are high-risk loans priced to justify the exposure? | ✅ Complete |
 
@@ -69,7 +69,7 @@ Each project lives on its own branch. Use the branch switcher at the top of the 
 
 | Branch | Project |
 |---|---|
-| `Education-Analytics-Dashboard` | Project 1 — Student Performance Gap Analysis: Place Value vs. Regrouping |
+| `Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` | Project 1 — Student Performance Gap Analysis: Place Value vs. Regrouping |
 | `Hospital-Claim-Denial-Revenue-Recovery` | Project 2 — Hospital Claim Denial & Revenue Recovery |
 | `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` | Project 3 — Consumer Credit Risk & Loan Profitability Analysis |
 
