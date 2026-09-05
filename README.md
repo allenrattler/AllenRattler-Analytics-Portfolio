@@ -332,14 +332,17 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 - **Git/GitHub** - Version control and portfolio hosting
 
 ### Skills Demonstrated
-- Data cleaning and quality assurance
-- Database schema design
-- SQL query optimization
-- Data modeling (star schema)
-- Statistical analysis
-- Data visualization best practices
-- Business intelligence dashboard design
-- Stakeholder communication
+- Excel / Power Query data cleaning and transformation
+- SQL execution, review, and modification
+- SQL joins, aggregations, CTEs, CASE expressions, and window functions
+- Power BI dashboard construction
+- Power BI data relationships
+- Data visualization selection and formatting
+- Data-quality documentation
+- AI-assisted analytical workflows
+- Prompt refinement
+- Technical documentation
+- Education-domain problem research
   
 ## How to Use This Project
 ### Option 1: View Dashboard Screenshots
