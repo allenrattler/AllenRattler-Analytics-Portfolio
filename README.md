@@ -23,7 +23,7 @@ Claude-assisted synthetic data generation using Python → project-specific data
 I personally:
 
 - Researched and selected the business problems explored in each project.
-- Performed data cleaning and transformation using Excel and Power Query.
+- Performed hands-on data cleaning and transformation using project-specific tools, including PostgreSQL and Excel/Power Query, with AI assistance disclosed where applicable.
 - Executed PostgreSQL queries and reviewed their outputs.
 - Developed working knowledge of SQL, including JOINs, GROUP BY, CTEs, CASE expressions, and window functions, and can independently write or modify queries using these techniques.
 - Built Power BI dashboards by following AI-assisted implementation guidance.
@@ -102,7 +102,7 @@ Which students are falling behind in place value and regrouping — and does the
 Education — 2nd Grade Elementary School
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → AI-assisted PostgreSQL data cleaning and analysis → AI-guided Power BI development
 
 ### Dashboard
 4-page interactive Power BI dashboard covering:
@@ -227,7 +227,7 @@ The following techniques and features are represented within the portfolio proje
 |---|---|
 | SQL JOINs, GROUP BY, CASE Expressions, and CTEs | Project 1, 2, 3 |
 | Window Functions (`ROW_NUMBER`, `RANK`, `NTILE`, `LAG`, `PERCENT_RANK`) | Projects 1, 2, 3 |
-| Power Query Data Cleaning & Transformation | Projects 1, 2, 3 |
+| Power Query Data Cleaning & Transformation | Projects 2, 3 |
 | Star Schema Data Model | Project 3 |
 | DAX Time Intelligence | Projects 2, 3 |
 | DAX What-If Parameter | Project 3 |
