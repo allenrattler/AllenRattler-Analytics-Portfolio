@@ -91,7 +91,7 @@ A deliberate progression in project complexity and technical exposure was built 
 
 **Synthetic Data Notice:** All datasets, records, entities, financial figures, student records, borrower records, and analytical findings in this portfolio are based on synthetic data created for educational and portfolio purposes unless explicitly stated otherwise.
 
-## Project 1 — Student Performance Gap Analysis
+## Project 1 — Student Performance Gap Analysis: Place Value vs. Regrouping
 
 **Branch:** `Education-Analytics-Dashboard`
 
