@@ -35,7 +35,9 @@ Traditional approaches reteach place value to all struggling students, wasting i
 - `skill_standards` - Mastery thresholds (3 records)
   
 ## Methodology
-### Phase 1: Data Cleaning (PostgreSQL)
+### Phase 1: AI-Assisted Data Cleaning (PostgreSQL)
+Claude assisted with development of the initial SQL cleaning logic. I executed, reviewed, and modified the queries in PostgreSQL using my working SQL knowledge.
+
 **Issues identified and resolved:**
 - **298 duplicate responses** (2.92%) - Removed using ROW_NUMBER() window function
 - **13 missing grade levels** (7.22%) - Assigned default grade based on distribution
@@ -344,14 +346,12 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 ### Visualization & Dashboard
 - **Power BI Desktop** - Interactive dashboard development
 - **DAX (Data Analysis Expressions)** - Custom measures and calculations
-- **Power Query** - Data import and transformation
 
 ### Data Management
 - **CSV** - Data storage and transfer format
 - **Git/GitHub** - Version control and portfolio hosting
 
 ### Skills Demonstrated
-- Excel / Power Query data cleaning and transformation
 - SQL execution, review, and modification
 - SQL joins, aggregations, CTEs, CASE expressions, and window functions
 - Power BI dashboard construction
