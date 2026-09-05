@@ -164,7 +164,7 @@ Switch to the `Hospital-Claim-Denial-Revenue-Recovery` branch or click here:
 
 ---
 
-## Project 3 — Finance Credit Risk Analysis
+## Project 3 — Consumer Credit Risk & Loan Profitability Analysis
 
 **Branch:** `Consumer-Credit-Risk-&-Loan-Profitability-Analysis`
 
