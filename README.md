@@ -226,7 +226,7 @@ The following techniques and features are represented within the portfolio proje
 | Technique/Feature | Projects |
 |---|---|
 | SQL JOINs, GROUP BY, CASE Expressions, and CTEs | Project 1, 2, 3 |
-| Window Functions (`RANK`, `NTILE`, `LAG`, `PERCENT_RANK`) | Projects 2, 3 |
+| Window Functions (`ROW_NUMBER`, `RANK`, `NTILE`, `LAG`, `PERCENT_RANK`) | Projects 1, 2, 3 |
 | Power Query Data Cleaning & Transformation | Projects 1, 2, 3 |
 | Star Schema Data Model | Project 3 |
 | DAX Time Intelligence | Projects 2, 3 |
