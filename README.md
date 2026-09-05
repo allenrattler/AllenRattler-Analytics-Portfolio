@@ -383,10 +383,11 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 - Open to data analyst roles across industries including healthcare, finance, retail, and education technology
 
 **Skills:**
-- SQL (PostgreSQL) - Data cleaning, complex queries, window functions
-- Power BI - Dashboard development, DAX, data modeling
-- Data Analysis - Statistical analysis, pattern recognition, business insights
-- Domain Expertise - K-12 education, student assessment, instructional strategies
+- SQL (PostgreSQL): Working knowledge of joins, aggregations, CTEs, CASE expressions, and window functions; project implementation was AI-assisted.
+- Power BI: Hands-on dashboard construction, relationships, visualization selection, and visual formatting with AI-guided implementation; DAX was Claude-generated.
+- Power Query: Independent data cleaning and transformation.
+- Analytics: Trend identification, output review, documentation, and AI-assisted analytical interpretation.
+- Domain Expertise: K–12 education, student assessment, progress monitoring, and instructional decision-making.
 
 **Connect:**
 - LinkedIn: www.linkedin.com/in/allenrattler
