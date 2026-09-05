@@ -57,8 +57,8 @@ Executed and reviewed 6 AI-assisted analytical queries using: Claude generated m
 - Built a 4-page interactive Power BI dashboard using AI-guided implementation steps, while independently creating data relationships, selecting appropriate visual types, and formatting the dashboard.
 - Implemented conditional formatting to highlight priorities
   
-## Key Findings
-### 1. **57.78% of students (104 out of 180) are in the target group**
+## AI-Assisted Key Findings
+### 1. **104 of 180 students (57.8%) met the target-group criteria of strong place-value performance but below-threshold regrouping performance, demonstrating a substantial procedural skill gap within the synthetic dataset.**
    - Place Value mastery ≥ 80%
    - Regrouping mastery < 75%
    - **Insight:** More than half the class understands the concept but can't execute the procedure
