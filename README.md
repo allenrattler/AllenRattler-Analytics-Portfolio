@@ -44,7 +44,7 @@ Traditional approaches reteach place value to all struggling students, wasting i
 **Result:** Clean dataset of 9,900 unique student responses
 
 ### Phase 2: SQL Analysis (PostgreSQL)
-Developed 6 analytical queries using:
+Executed and reviewed 6 AI-assisted analytical queries using: Claude generated most of the initial project SQL. I executed, reviewed, and modified query logic using my working knowledge of SQL, including joins, aggregations, CTEs, CASE expressions, and window functions.
 - Common Table Expressions (CTEs) for multi-step calculations
 - Window functions (ROW_NUMBER, RANK) for deduplication and ranking
 - Self-joins to track student improvement over time
@@ -53,8 +53,8 @@ Developed 6 analytical queries using:
 ### Phase 3: Dashboard Development (Power BI)
 - Connected Power BI to PostgreSQL database
 - Created data model with 7 table relationships
-- Built 6+ custom DAX measures for calculations
-- Designed 4-page interactive dashboard
+- Integrated 6+ Claude-generated DAX measures into the Power BI dashboard while following AI-guided implementation steps.
+- Built a 4-page interactive Power BI dashboard using AI-guided implementation steps, while independently creating data relationships, selecting appropriate visual types, and formatting the dashboard.
 - Implemented conditional formatting to highlight priorities
   
 ## Key Findings
@@ -123,7 +123,7 @@ SELECT * FROM skill_mastery ORDER BY avg_mastery DESC;
 
 ### Power BI DAX Measures
 
-**Key Measures Created:**
+**Claude-Generated DAX Measures Used:**
 ```DAX
 -- Target Group Percentage
 Target Group % = 
