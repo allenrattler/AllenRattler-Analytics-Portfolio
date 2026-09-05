@@ -106,10 +106,10 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 
 ### Dashboard
 4-page interactive Power BI dashboard covering:
-- Executive Summary with class-level KPI cards
-- Performance gap analysis by concept (place value vs. regrouping)
-- Student-level drill-down
-- Intervention tracking over time
+- Executive overview
+- Student-level performance analysis
+- Skill deep dive
+- Intervention planning
 
 ### AI-Assisted Key Findings
 Students receiving Tier 2 intervention showed the widest performance gap on regrouping concepts, suggesting the intervention curriculum may need realignment with the specific sub-skill rather than the broader concept.
