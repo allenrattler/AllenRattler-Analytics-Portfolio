@@ -111,7 +111,7 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 - Student-level drill-down
 - Intervention tracking over time
 
-### Key Finding
+### AI-Assisted Key Findings
 Students receiving Tier 2 intervention showed the widest performance gap on regrouping concepts, suggesting the intervention curriculum may need realignment with the specific sub-skill rather than the broader concept.
 
 ### Navigate to Project 1
@@ -148,7 +148,7 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 
 **Synthetic Data Disclaimer:** *All payer names, claims, financial figures, denial rates, recovery rates, and findings in this portfolio project are based on synthetic data created solely for educational and portfolio purposes. They do not represent actual performance by any insurer, healthcare organization, borrower, or individual.*
 
-### Key Findings
+### AI-Assisted Key Findings
 - UnitedHealth: highest denial rate (23.85%) and highest denied revenue ($1.51M)
 - Medicaid: highest revenue denied percentage at 26.55%
 - Total denied revenue across all payers: $5,304,753
@@ -191,7 +191,7 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 - Risk-Adjusted Return (composite risk scoring + What-If parameter slider)
 - Borrower Drill-Through (right-click any grade to see its full risk profile)
 
-### Key Findings
+### AI-Assisted Key Findings
 - **Grade A is underwater:** net yield of -1.58% — interest collected ($1.71M) was less than charge-off losses ($1.81M)
 - **Grade G is the most profitable:** net yield of +33.97% — high rates more than offset losses
 - **Medical loans:** highest charge-off rate at 27.55%
