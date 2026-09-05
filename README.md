@@ -112,7 +112,7 @@ Claude-assisted synthetic data generation using Python → AI-assisted PostgreSQ
 - Intervention planning
 
 ### AI-Assisted Key Findings
-Students receiving Tier 2 intervention showed the widest performance gap on regrouping concepts, suggesting the intervention curriculum may need realignment with the specific sub-skill rather than the broader concept.
+104 of 180 students (57.8%) met the target-group criteria of strong place-value performance but below-threshold regrouping performance, demonstrating a substantial procedural skill gap within the synthetic dataset.
 
 ### Navigate to Project 1
 Switch to the `Education-Analytics-Dashboard` branch or click here:
