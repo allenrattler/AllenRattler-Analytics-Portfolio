@@ -69,7 +69,7 @@ Each project lives on its own branch. Use the branch switcher at the top of the 
 
 | Branch | Project |
 |---|---|
-| `Education-Analytics-Dashboard` | Project 1 — Student Performance Gap Analysis |
+| `Education-Analytics-Dashboard` | Project 1 — Student Performance Gap Analysis: Place Value vs. Regrouping |
 | `Hospital-Claim-Denial-Revenue-Recovery` | Project 2 — Hospital Claim Denial & Revenue Recovery |
 | `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` | Project 3 — Consumer Credit Risk & Loan Profitability Analysis |
 
