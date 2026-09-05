@@ -166,7 +166,7 @@ Switch to the `Hospital-Claim-Denial-Revenue-Recovery` branch or click here:
 
 ## Project 3 — Finance Credit Risk Analysis
 
-**Branch:** `Finance-Credit-Risk-Analysis`
+**Branch:** `Consumer-Credit-Risk-&-Loan-Profitability-Analysis`
 
 ### Business Problem
 Which borrowers are most likely to default — and are the loans being issued to high-risk segments priced and structured in a way that justifies the risk exposure?
@@ -202,8 +202,8 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 `NTILE(5)` for credit quintile scoring, dual `RANK()`, `CASE` DTI banding, `AVG() OVER (PARTITION BY)`, `PERCENT_RANK()` with `CAST(... AS NUMERIC)`, `LAG()` for first missed payment detection, 4-CTE composite net yield pipeline
 
 ### Navigate to Project 3
-Switch to the `Finance-Credit-Risk-Analysis` branch or click here:
-[`Finance-Credit-Risk-Analysis` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Finance-Credit-Risk-Analysis)
+Switch to the `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` branch or click here:
+[`Consumer-Credit-Risk-&-Loan-Profitability-Analysis` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Consumer-Credit-Risk-&-Loan-Profitability-Analysis)
 
 ---
 
