@@ -197,7 +197,7 @@ The dashboard contains five pages built in Power BI Desktop. All visuals use que
 
 ### DAX Measures
 
-Nine measures were created inside a dedicated `_Measures` table:
+Nine Claude-generated DAX measures were implemented inside a dedicated `_Measures` table as part of the AI-guided Power BI development process.
 
 | Measure | Type | Purpose |
 |---|---|---|
@@ -334,7 +334,7 @@ The risk scoring model identified 263 code combinations meeting the minimum volu
 | Data Cleaning | Excel, Power Query, ETL sequencing, data profiling |
 | Data Modeling | Star schema design, relationship management |
 | SQL | PostgreSQL, CTEs, window functions (LAG, RANK, PERCENT_RANK, SUM OVER), NULLIF, COALESCE, LEFT JOIN, DATE_TRUNC, CAST |
-| DAX | CALCULATE, DIVIDE, DATESYTD, AVERAGEX, DATEDIFF, VAR/RETURN, IF/ISBLANK |
+| DAX Implementation | Claude-generated DAX measures used for KPI calculations, time intelligence, recovery rates, and dashboard metrics |
 | Data Visualization | Power BI, KPI cards, bar/column/line/donut charts, slicers, drill-through navigation |
 | Analytics | Denial rate analysis, cohort trending, recovery rate modeling, risk scoring, time-series analysis |
 | Documentation | README writing, data dictionary, SQL inline commentary, business recommendations |
