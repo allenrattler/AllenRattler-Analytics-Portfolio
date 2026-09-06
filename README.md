@@ -99,7 +99,7 @@ A deliberate progression in project complexity and technical exposure was built 
 Which students are falling behind in place value and regrouping — and does the gap differ by learning style, intervention group, or time of year?
 
 ### Industry
-Education — 2nd Grade Elementary School
+Education — Elementary School, Grades 2–4
 
 ### Tools Used
 Claude-assisted synthetic data generation using Python → AI-assisted PostgreSQL data cleaning and analysis → AI-guided Power BI development
