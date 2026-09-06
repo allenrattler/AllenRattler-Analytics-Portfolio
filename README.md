@@ -58,7 +58,7 @@ Power BI is presented as a hands-on skill because I built the dashboards, create
 | # | Project | Industry | Business Problem | Status |
 |---|---|---|---|---|
 | 1 | [Student Performance Gap Analysis: Place Value vs. Regrouping](#project-1--student-performance-gap-analysis-place-value-vs-regrouping) | Education | Which students have mastered place value concepts but struggle with regrouping, and which specific regrouping skills should be prioritized for intervention? | ✅ Complete |
-| 2 | [Hospital Claim Denial & Revenue Recovery](#project-2--hospital-claim-denial--revenue-recovery) | Healthcare | Which payers and departments are generating the most denials — and how much revenue is lost? | ✅ Complete |
+| 2 | [Hospital Claim Denial & Revenue Recovery Analysis](#project-2--hospital-claim-denial--revenue-recovery-analysis) | Healthcare | Which payers and departments are generating the most denials — and how much revenue is lost? | ✅ Complete |
 | 3 | [Consumer Credit Risk & Loan Profitability Analysis](#project-3--consumer-credit-risk--loan-profitability-analysis) | Finance | Which borrowers are most likely to default — and are high-risk loans priced to justify the exposure? | ✅ Complete |
 
 ---
@@ -70,7 +70,7 @@ Each project lives on its own branch. Use the branch switcher at the top of the 
 | Branch | Project |
 |---|---|
 | `Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` | Project 1 — Student Performance Gap Analysis: Place Value vs. Regrouping |
-| `Hospital-Claim-Denial-Revenue-Recovery` | Project 2 — Hospital Claim Denial & Revenue Recovery |
+| `Hospital-Claim-Denial-Revenue-Recovery-Analysis` | Project 2 — Hospital Claim Denial & Revenue Recovery Analysis |
 | `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` | Project 3 — Consumer Credit Risk & Loan Profitability Analysis |
 
 Each branch contains a detailed README, relevant raw and processed data files, SQL query files, Power BI dashboard files and screenshots, and supporting project documentation. Project contents vary based on the tools and workflow used for each analysis.
@@ -120,9 +120,9 @@ Switch to the `Student-Performance-Gap-Analysis-Place-Value-vs-Regrouping` branc
 
 ---
 
-## Project 2 — Hospital Claim Denial & Revenue Recovery
+## Project 2 — Hospital Claim Denial & Revenue Recovery Analysis
 
-**Branch:** `Hospital-Claim-Denial-Revenue-Recovery`
+**Branch:** `Hospital-Claim-Denial-Revenue-Recovery-Analysis`
 
 ### Business Problem
 Which insurance payers, hospital departments, and procedure codes are generating the most claim denials — and how much net revenue is being lost before anyone notices?
@@ -160,7 +160,7 @@ Dual `RANK()` window functions, `LAG()` for month-over-month trends, `LEFT JOIN`
 
 ### Navigate to Project 2
 Switch to the `Hospital-Claim-Denial-Revenue-Recovery` branch or click here:
-[`Hospital-Claim-Denial-Revenue-Recovery` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Hospital-Claim-Denial-Revenue-Recovery)
+[`Hospital-Claim-Denial-Revenue-Recovery` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Hospital-Claim-Denial-Revenue-Recovery-Analysis)
 
 ---
 
