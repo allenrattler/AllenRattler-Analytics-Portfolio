@@ -170,7 +170,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 ```
 
 ### Data Model
-- **Star schema** design with student_responses as fact table
+- **Hybrid star/snowflake** data model centered on `student_responses` as the primary fact table
 - **7 table relationships** using one-to-many and one-to-one cardinality
 - **Bidirectional cross-filtering** for interactive drill-down
 - **CSV import** for student-level summary data (workaround for view visibility issue)
@@ -339,7 +339,7 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 
 ### Visualization & Dashboard
 - **Power BI Desktop** - Interactive dashboard development
-- **DAX (Data Analysis Expressions)** - Custom measures and calculations
+- **DAX (Data Analysis Expressions)** - Claude-generated measures and calculations used within the dashboards
 
 ### Data Management
 - **CSV** - Data storage and transfer format
@@ -398,7 +398,6 @@ RETURN DIVIDE(CorrectResponses, PlaceValueResponses, 0)
 **Skills:**
 - SQL (PostgreSQL): Working knowledge of joins, aggregations, CTEs, CASE expressions, and window functions; project implementation was AI-assisted.
 - Power BI: Hands-on dashboard construction, relationships, visualization selection, and visual formatting with AI-guided implementation; DAX was Claude-generated.
-- Power Query: Independent data cleaning and transformation.
 - Analytics: Trend identification, output review, documentation, and AI-assisted analytical interpretation.
 - Domain Expertise: K–12 education, student assessment, progress monitoring, and instructional decision-making.
 
