@@ -37,7 +37,7 @@ The project is structured around five analytical questions that build on each ot
 | Q1 | Which payers have the highest denial rates and denied revenue? | Prioritize payer contract negotiations |
 | Q2 | Which departments have worsening denial trends month-over-month? | Target internal process improvement |
 | Q3 | When denied claims are appealed, which payers are worth fighting? | Focus appeals staff effort where it pays off |
-| Q4 | How much net revenue is permanently lost each month and YTD? | Quantify financial damage for executive reporting |
+| Q4 | How much net revenue leakage remains each month and YTD after recoveries? | Quantify financial damage for executive reporting |
 | Q5 | Which CPT/ICD-10 code combinations carry the highest denial risk? | Flag high-risk claims before submission |
 
 ---
