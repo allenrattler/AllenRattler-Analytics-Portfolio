@@ -73,7 +73,7 @@ Each project lives on its own branch. Use the branch switcher at the top of the 
 | `Hospital-Claim-Denial-Revenue-Recovery` | Project 2 — Hospital Claim Denial & Revenue Recovery |
 | `Consumer-Credit-Risk-&-Loan-Profitability-Analysis` | Project 3 — Consumer Credit Risk & Loan Profitability Analysis |
 
-Each branch contains a full README, all raw and processed data files, SQL query files, Python data generation notebook, and Power BI dashboard screenshots.
+Each branch contains a detailed README, relevant raw and processed data files, SQL query files, Power BI dashboard files and screenshots, and supporting project documentation. Project contents vary based on the tools and workflow used for each analysis.
 
 ---
 
