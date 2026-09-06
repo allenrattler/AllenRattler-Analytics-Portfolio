@@ -6,6 +6,8 @@
 
 ## Project Overview
 
+**Synthetic Data Disclaimer:** All payer names, claims, financial figures, denial rates, recovery rates, procedure codes, findings, and recommendations in this project are based on synthetic data created solely for educational and portfolio purposes. They do not represent actual performance by any insurer, healthcare organization, patient, or other entity.
+
 Hospitals lose billions of dollars every year to insurance claim denials. Most of that loss is invisible — buried in disconnected spreadsheets, siloed across departments, and discovered only after the window to appeal has closed.
 
 This project builds an end-to-end analytical pipeline that surfaces the full shape of that problem: which payers are denying the most revenue, which internal departments are contributing to it, whether the appeals process is working, what the total financial damage looks like month over month, and — most importantly — which claims are most likely to be denied before they are ever submitted.
@@ -240,7 +242,8 @@ Right-clicking any payer on Pages 3 or 4 navigates to this page, which automatic
 
 ---
 
-## Key Findings & Business Recommendations
+## AI-Assisted Key Findings & Business Recommendations
+Claude assisted with interpretation of query and dashboard outputs and development of the recommendations below. I reviewed the outputs and documented the resulting findings within the portfolio.
 
 ### Finding 1 — UnitedHealth is the #1 financial risk on every dimension
 UnitedHealth had the highest denial rate (23.85%), highest denied revenue ($1.51M), and ranked #1 on both metrics simultaneously. Surgery was the primary contributing department at $0.50M in denied revenue, driven predominantly by prior authorization failures (96 claims).
@@ -253,7 +256,7 @@ The `unappealed_rate_pct` metric revealed that 49.54% of UnitedHealth's denied c
 **Recommendation:** Establish a minimum appeal threshold policy — all UnitedHealth denials above $500 should be automatically queued for appeal review.
 
 ### Finding 3 — $2.2M in net leakage YTD after recoveries
-After accounting for all won appeals, $2.2M in denied revenue was permanently lost across the analysis period. Only 18 cents of every denied dollar was recovered. The 3-month rolling average trend was generally stable, suggesting the problem is systemic rather than episodic.
+The latest YTD calculation showed approximately $2.2M in simulated net revenue leakage after recoveries.
 
 **Recommendation:** Set a quarterly leakage reduction target and track it against the rolling average baseline established in this analysis.
 
