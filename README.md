@@ -266,7 +266,7 @@ Medicare had the highest appeal win rate at 47.8% and Humana at 33.0% net recove
 **Recommendation:** Prioritize Medicare and Humana denials in the appeals queue ahead of lower-ROI payers.
 
 ### Finding 5 — 263 CPT/ICD-10 combinations flagged as high-risk
-The risk scoring model identified 263 code combinations meeting the minimum volume threshold, with the top combinations showing denial rates above 40% (Critical tier). The highest-risk combination — CPT 27130 + ICD-10 S72.001 (hip replacement with femur fracture) — had a 50% denial rate across all payers.kgt vm
+The risk scoring model identified 263 code combinations meeting the minimum volume threshold, with the top combinations showing denial rates above 40% (Critical tier). The highest-risk combination — CPT 27130 + ICD-10 S72.001 (hip replacement with femur fracture) — had a 50% denial rate across all payers.
 
 **Recommendation:** Implement pre-submission review for all Critical and High tier code combinations, requiring clinical documentation sign-off before the claim leaves the billing department.
 
