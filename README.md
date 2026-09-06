@@ -131,7 +131,7 @@ Which insurance payers, hospital departments, and procedure codes are generating
 Healthcare — Hospital Revenue Cycle Management
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `claims_raw`: 5,100 raw rows before deduplication
