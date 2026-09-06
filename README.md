@@ -34,7 +34,7 @@ This is the third and final project in a multi-industry analytics portfolio span
 | # | Question | SQL Technique |
 |---|---|---|
 | Q1 | Which credit score tiers and loan grades carry the highest default burden? | `NTILE(5)`, dual `RANK()` window functions |
-| Q2 | Does DTI ratio meaningfully predict defaults — and does this vary by loan purpose? | `CASE` banding, `AVG() OVER (PARTITION BY loan_purpose)` |
+| Q2 | How do default rates vary across DTI bands, and how does that relationship differ by loan purpose? | `CASE` banding, `AVG() OVER (PARTITION BY loan_purpose)` |
 | Q3 | Which loan purposes generate the highest charge-off rates and dollar losses? | `PERCENT_RANK()`, multi-level `GROUP BY`, `CAST(... AS NUMERIC)` |
 | Q4 | In which payment month do loans first show failure — and does this differ by term? | `LAG() OVER (PARTITION BY loan_id)`, `PARTITION BY loan_term_months` |
 | Q5 | Are high-grade loans generating sufficient interest revenue relative to default losses? | 4-CTE composite net yield model, weighted composite risk score |
@@ -405,7 +405,7 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 
 ```
 AllenRattler-Analytics-Portfolio/
-└── Finance-Credit-Risk-Analysis/
+└── Consumer-Credit-Risk-&-Loan-Profitability-Analysis/
     ├── data/
     │   ├── raw/
     │   │   ├── loans_raw.csv
