@@ -81,7 +81,7 @@ Hospital-Claim-Denial-Revenue-Recovery-Analysis/
 | AI-Assisted Data Generation | Claude-generated Python/Faker workflow used to create the synthetic dataset. |
 | Excel / Power Query | Data cleaning, profiling, and calendar table |
 | PostgreSQL (pgAdmin) | SQL analysis and transformation |
-| Power BI Desktop | Dashboard, DAX measures, drill-through |
+| Power BI Desktop | Dashboard development, Claude-generated DAX implementation, relationships, drill-through, and visualization |
 | GitHub | Version control and portfolio hosting |
 
 ---
