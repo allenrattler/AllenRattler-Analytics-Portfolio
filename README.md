@@ -335,7 +335,7 @@ The risk scoring model identified 263 code combinations meeting the minimum volu
 |---|---|
 | AI-Assisted Data Generation | Claude-generated Python/Faker workflow for synthetic dataset creation |
 | Data Cleaning | Excel, Power Query, ETL sequencing, data profiling |
-| Data Modeling | Star schema design, relationship management |
+| Data Modeling | Power BI relationship management and dashboard data modeling |
 | SQL | PostgreSQL, CTEs, window functions (LAG, RANK, PERCENT_RANK, SUM OVER), NULLIF, COALESCE, LEFT JOIN, DATE_TRUNC, CAST |
 | DAX Implementation | Claude-generated DAX measures used for KPI calculations, time intelligence, recovery rates, and dashboard metrics |
 | Data Visualization | Power BI, KPI cards, bar/column/line/donut charts, slicers, drill-through navigation |
