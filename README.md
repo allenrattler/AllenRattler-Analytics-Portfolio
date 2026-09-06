@@ -346,7 +346,7 @@ The risk scoring model identified 263 code combinations meeting the minimum volu
 
 ## About This Project
 
-This project was built as part of a career transition from elementary school teaching and healthcare billing & collections into data analytics. The healthcare domain was chosen deliberately — four years of experience in back-end billing and collections provided direct familiarity with the RCM workflows, payer behaviors, and denial patterns that this analysis explores.
+The healthcare domain was chosen deliberately. My background includes approximately four years in hospital insurance billing and collections, followed by nearly two years in healthcare claims investigation and resolution, providing roughly six years of healthcare revenue-cycle and claims-related experience.
 
 The synthetic dataset was designed to mirror real-world data quality issues encountered in actual billing systems. No real patient data was used at any point in this project.
 
