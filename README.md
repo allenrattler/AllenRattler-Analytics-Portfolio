@@ -144,6 +144,8 @@ All data quality issues were identified in Excel/Power Query and flagged rather 
 
 ## SQL Technical Showcase
 
+**The project contains five AI-assisted PostgreSQL analytical queries. Claude generated most of the initial SQL implementation and analytical structure. I executed, reviewed, and modified the queries using my working knowledge of SQL, including joins, aggregations, CTEs, CASE expressions, and window functions. The sections below document the techniques used and my understanding of how the query logic operates.**
+
 All SQL files are located in the `sql/` folder and designed to run sequentially against the `credit_risk` PostgreSQL database.
 
 ### File Index
@@ -216,6 +218,8 @@ LAG(payment_status) OVER (
 
 ## Power BI Dashboard
 
+**The dashboard uses 17 Claude-generated DAX measures implemented as part of an AI-guided Power BI workflow. DAX is not presented as an independently developed technical skill.**
+
 **File:** `Finance_Analysis.pbix`
 **Pages:** 6
 **DAX Measures:** 17 (stored in `_Measures` table)
@@ -270,7 +274,7 @@ Accessible by right-clicking any loan grade value on Pages 3, 4, or 5. Dynamic t
 
 ---
 
-### Key DAX Measures
+### Claude-Generated DAX Measures Used
 
 **Net Yield %**
 Calculates portfolio return after charge-off losses as a percentage of total funded amount. Negative values indicate that losses exceeded interest income for the filtered segment.
@@ -311,7 +315,7 @@ RETURN IF(ISBLANK(Result), 0, Result)
 
 ---
 
-### DAX Pitfalls & Lessons Learned
+### AI-Guided DAX Implementation Notes
 
 | Pitfall | Resolution |
 |---|---|
