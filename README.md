@@ -193,7 +193,7 @@ Three-CTE query introducing `PERCENT_RANK()` and a composite risk score that ble
 
 ## Power BI Dashboard
 
-The dashboard contains five pages built in Power BI Desktop. All visuals use question-based titles to make findings immediately accessible to non-technical audiences.
+Built a five-page Power BI dashboard using AI-guided implementation support, while independently creating data relationships, selecting appropriate visual types, configuring drill-through behavior, and formatting dashboard visuals.
 
 ### DAX Measures
 
