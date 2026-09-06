@@ -245,7 +245,7 @@ Right-clicking any payer on Pages 3 or 4 navigates to this page, which automatic
 ## AI-Assisted Key Findings & Business Recommendations
 Claude assisted with interpretation of query and dashboard outputs and development of the recommendations below. I reviewed the outputs and documented the resulting findings within the portfolio.
 
-### Finding 1 — UnitedHealth is the #1 financial risk on every dimension
+### Finding 1 — UnitedHealth is the highest denial-risk payer by rate and denied revenue
 UnitedHealth had the highest denial rate (23.85%), highest denied revenue ($1.51M), and ranked #1 on both metrics simultaneously. Surgery was the primary contributing department at $0.50M in denied revenue, driven predominantly by prior authorization failures (96 claims).
 
 **Recommendation:** Implement a mandatory pre-authorization verification step for all elective Surgery claims submitted to UnitedHealth before submission.
