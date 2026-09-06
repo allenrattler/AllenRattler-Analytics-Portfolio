@@ -76,7 +76,7 @@ Hospital-Claim-Denial-Revenue-Recovery/
 
 | Tool | Purpose |
 |---|---|
-| Python (Google Colab) | Synthetic data generation with Faker library |
+| AI-Assisted Data Generation | Claude-generated Python/Faker workflow used to create the synthetic dataset. |
 | Excel / Power Query | Data cleaning, profiling, and calendar table |
 | PostgreSQL (pgAdmin) | SQL analysis and transformation |
 | Power BI Desktop | Dashboard, DAX measures, drill-through |
@@ -86,7 +86,7 @@ Hospital-Claim-Denial-Revenue-Recovery/
 
 ## Data Generation
 
-Since no real patient data was used, synthetic data was generated using a custom Python script (`generate_data.py`) that mirrors real-world RCM data quality issues.
+Synthetic data was created using a Claude-generated Python script with the Faker library. I did not independently develop the Python code, and Python is not presented as one of my technical skills.
 
 ### Tables Generated
 
@@ -330,7 +330,7 @@ The risk scoring model identified 263 code combinations meeting the minimum volu
 
 | Category | Skills Demonstrated |
 |---|---|
-| Data Generation | Python, Faker library, synthetic data design |
+| AI-Assisted Data Generation | Claude-generated Python/Faker workflow for synthetic dataset creation |
 | Data Cleaning | Excel, Power Query, ETL sequencing, data profiling |
 | Data Modeling | Star schema design, relationship management |
 | SQL | PostgreSQL, CTEs, window functions (LAG, RANK, PERCENT_RANK, SUM OVER), NULLIF, COALESCE, LEFT JOIN, DATE_TRUNC, CAST |
