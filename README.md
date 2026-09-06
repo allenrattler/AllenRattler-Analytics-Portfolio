@@ -158,7 +158,7 @@ Claude-assisted synthetic data generation using Python → Excel/Power Query cle
 - 49.54% of UnitedHealth denials were never appealed
 
 ### SQL Techniques
-Dual `RANK()` window functions, `LAG()` for month-over-month trends, `LEFT JOIN` for unappealed denial detection, `PERCENT_RANK()` for CPT code risk scoring, YTD running totals
+Dual `RANK()` window functions, `LAG()` for month-over-month trends, `LEFT JOIN` for unappealed denial detection, `PERCENT_RANK()` for CPT/ICD-10 combination risk scoring, YTD running totals
 
 ### Navigate to Project 2
 Switch to the `Hospital-Claim-Denial-Revenue-Recovery-Analysis` branch or click here:
