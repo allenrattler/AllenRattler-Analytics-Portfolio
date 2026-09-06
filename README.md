@@ -187,6 +187,7 @@ Claude-assisted synthetic data generation using Python → project-specific data
 
 ### Dashboard
 6-page interactive Power BI dashboard covering:
+- Title & Navigation
 - Executive Summary (8 KPI cards including net yield)
 - Credit Risk Analysis (matrix heat map, Decomposition Tree, DTI analysis)
 - Loan Purpose & Charge-Off (charge-off rates and dollar losses by purpose)
