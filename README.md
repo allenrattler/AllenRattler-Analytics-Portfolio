@@ -5,6 +5,8 @@
 
 ## Project Overview
 
+**Synthetic Data Disclaimer:** All borrowers, loans, payment events, financial figures, default rates, credit-risk findings, profitability metrics, and recommendations in this project are based entirely on synthetic data created for educational and portfolio purposes. They do not represent actual borrower behavior, lending performance, or financial outcomes.
+
 This project investigates a personal lending portfolio to answer one central business question:
 
 > **Which borrowers are most likely to default — and are the loans being issued to high-risk segments priced and structured in a way that justifies the risk exposure?**
@@ -329,7 +331,9 @@ RETURN IF(ISBLANK(Result), 0, Result)
 
 ---
 
-## Insight Report
+## AI-Assisted Insight Report & Business Recommendations
+
+**Claude assisted with interpretation of SQL and dashboard outputs and development of the findings and recommendations below. I reviewed the outputs, refined the project requirements, and documented the resulting analysis.**
 
 ### Finding 1 — Grade A Is Underwater
 Grade A loans — the portfolio's lowest-risk tier — carry a net yield of **-1.58%**, the only grade with a negative return. Interest collected ($1.71M) was outpaced by charge-off losses ($1.81M). With a 6.51% average interest rate, Grade A lacks sufficient margin to absorb a 25% default rate.
@@ -375,7 +379,7 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 | AI-Assisted Data Generation | Claude-generated Python/Faker workflow used to create the synthetic loan and payment datasets |
 | Excel / Power Query | 10-step cleaning pipeline; flag columns; Merge Queries; Applied Steps naming (per Eli Douglas's recommendation) |
 | PostgreSQL (pgAdmin) | 5 analytical queries; table creation; CSV import via pgAdmin Import/Export tool |
-| Power BI Desktop | 6-page interactive dashboard; star schema data model; DAX measures; What-If parameter |
+| Power BI Desktop | Built a six-page Power BI dashboard using AI-guided implementation support, while independently creating data relationships, selecting and formatting visualizations, configuring drill-through behavior, and applying the dashboard layout. Claude generated the DAX used for calculations and scenario functionality. |
 | GitHub | Version control; branch-based project organization; recruiter-ready documentation |
 
 ### Technical Skills Demonstrated
