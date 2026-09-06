@@ -45,7 +45,7 @@ The project is structured around five analytical questions that build on each ot
 ## Project Structure
 
 ```
-Hospital-Claim-Denial-Revenue-Recovery/
+Hospital-Claim-Denial-Revenue-Recovery-Analysis/
 ├── data/
 │   ├── raw/                          # Python-generated synthetic CSV files
 │   │   ├── claims_raw.csv
