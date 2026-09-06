@@ -159,9 +159,9 @@ During appeals cleaning, a subset of Won appeal records showed NULL `recovered_a
 
 ## SQL Technical Showcase
 
-All queries were written for PostgreSQL and run in pgAdmin against a database called `healthcare_claims`. Each file is fully commented with business question, rationale, expected insight, business impact, techniques demonstrated, and step-by-step inline logic.
+The project contains five AI-assisted PostgreSQL analytical queries executed and reviewed in pgAdmin against the `healthcare_claims` database. Claude generated most of the initial SQL implementation. I executed, reviewed, and modified query logic using my working knowledge of joins, aggregations, CTEs, CASE expressions, and window functions.
 
-### Key Technical Decisions
+### Key SQL Techniques Used
 
 **Why CTEs instead of subqueries?**
 Every query uses CTEs (`WITH` clauses) rather than nested subqueries. CTEs make the logic readable in layers — each step builds on the last and can be read independently. In a production environment this also makes debugging significantly faster.
