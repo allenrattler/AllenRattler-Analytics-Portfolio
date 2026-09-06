@@ -161,8 +161,8 @@ Claude-assisted synthetic data generation using Python → project-specific data
 Dual `RANK()` window functions, `LAG()` for month-over-month trends, `LEFT JOIN` for unappealed denial detection, `PERCENT_RANK()` for CPT code risk scoring, YTD running totals
 
 ### Navigate to Project 2
-Switch to the `Hospital-Claim-Denial-Revenue-Recovery` branch or click here:
-[`Hospital-Claim-Denial-Revenue-Recovery` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Hospital-Claim-Denial-Revenue-Recovery-Analysis)
+Switch to the `Hospital-Claim-Denial-Revenue-Recovery-Analysis` branch or click here:
+[`Hospital-Claim-Denial-Revenue-Recovery-Analysis` branch →](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio/tree/Hospital-Claim-Denial-Revenue-Recovery-Analysis)
 
 ---
 
