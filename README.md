@@ -27,7 +27,7 @@ This is the third and final project in a multi-industry analytics portfolio span
 
 **Industry:** Consumer Finance / Personal Lending
 **Data Scope:** 3,500 loan records, January 2021 – December 2023
-**Tools:** Python (Google Colab) → Excel/Power Query → PostgreSQL (pgAdmin) → Power BI Desktop → GitHub
+**Tools:** Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Five Analytical Sub-Questions
 
@@ -368,7 +368,7 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 
 | Tool | Application |
 |---|---|
-| Python (Google Colab) | Synthetic data generation using Faker library; deliberate injection of 10 data quality issue types |
+| AI-Assisted Data Generation | Claude-generated Python/Faker workflow used to create the synthetic loan and payment datasets |
 | Excel / Power Query | 10-step cleaning pipeline; flag columns; Merge Queries; Applied Steps naming (per Eli Douglas's recommendation) |
 | PostgreSQL (pgAdmin) | 5 analytical queries; table creation; CSV import via pgAdmin Import/Export tool |
 | Power BI Desktop | 6-page interactive dashboard; star schema data model; DAX measures; What-If parameter |
