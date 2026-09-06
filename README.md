@@ -134,8 +134,9 @@ Healthcare — Hospital Revenue Cycle Management
 Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
-- `claims_raw`: 5,000 rows after deduplication
-- `appeals_raw`: 562 rows
+- `claims_raw`: 5,100 raw rows before deduplication
+- `claims_clean`: 5,000 rows after deduplication
+- `appeals_clean`: 562 rows
 - `payers_lookup`: 8 rows
 - `departments_lookup`: 7 rows
 
