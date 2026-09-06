@@ -142,6 +142,7 @@ Claude-assisted synthetic data generation using Python → project-specific data
 
 ### Dashboard
 5-page interactive Power BI dashboard covering:
+- Title & Navigation
 - Executive Summary (6 KPI cards, payer summary table)
 - Denial Analysis (denial rate by payer and department)
 - Appeals & Recovery (win rate, avg days to resolve)
