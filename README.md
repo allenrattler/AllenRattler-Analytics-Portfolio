@@ -14,7 +14,7 @@ This project builds an end-to-end analytical pipeline that surfaces the full sha
 
 The goal is to give a Revenue Cycle Management (RCM) team the analytical tools to move from reactive damage control to proactive denial prevention.
 
-**This is Project 2 of my analytics portfolio.** In Project 1 (Education Analytics Dashboard), I built a student performance gap analysis using PostgreSQL and Power BI. This project preserves that same end-to-end structure while deliberately evolving two areas: a Power BI drill-through page for payer-level deep dives, and a more complex SQL architecture using four-CTE queries, composite risk scoring, and YTD running totals. Each project in this portfolio is designed to demonstrate progressive technical growth across a range of industries.
+**This is Project 2 of my analytics portfolio.** In Project 1 (Student Performance Gap Analysis: Place Value vs. Regrouping), I built a student performance gap analysis using PostgreSQL and Power BI. This project preserves that same end-to-end structure while deliberately evolving two areas: a Power BI drill-through page for payer-level deep dives, and a more complex SQL architecture using four-CTE queries, composite risk scoring, and YTD running totals. Each project in this portfolio is designed to demonstrate progressive technical growth across a range of industries.
 
 ---
 
