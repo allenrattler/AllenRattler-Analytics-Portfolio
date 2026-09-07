@@ -13,7 +13,7 @@ This project investigates a personal lending portfolio to answer one central bus
 
 Using a synthetic dataset of 3,500 loan records spanning 2021–2023, this analysis moves beyond surface-level default counts to build a composite risk scoring model that evaluates each loan grade on both its default rate and its net yield after charge-off losses. The headline finding challenges a foundational assumption in credit risk: **Grade A — the portfolio's "safest" grade — is the only grade with a negative net yield (-1.58%), meaning it collected less in interest than it lost to defaults.**
 
-This is the third and final project in a multi-industry analytics portfolio spanning Education, Healthcare, and Finance. It represents the most technically advanced work in the series, introducing a fully normalized star schema data model, SQL-based risk tier classification, DAX What-If parameter scenario modeling, and a Decomposition Tree visual.
+This is the third and final project in a multi-industry analytics portfolio spanning Education, Healthcare, and Finance. It represents the most technically advanced work in the series, introducing a star schema data model, SQL-based risk tier classification, DAX What-If parameter scenario modeling, and a Decomposition Tree visual.
 
 ### Portfolio Progression
 
@@ -382,16 +382,15 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 | Power BI Desktop | Built a six-page Power BI dashboard using AI-guided implementation support, while independently creating data relationships, selecting and formatting visualizations, configuring drill-through behavior, and applying the dashboard layout. Claude generated the DAX used for calculations and scenario functionality. |
 | GitHub | Version control; branch-based project organization; recruiter-ready documentation |
 
-### Technical Skills Demonstrated
+### Project Techniques & Features
 
 | Skill | Where Applied |
 |---|---|
 | Star Schema Data Modeling | Power BI Model view — 1 fact table, 4 dimension tables |
-| Window Functions | `NTILE()`, `RANK()`, `LAG()`, `PERCENT_RANK()`, `AVG() OVER (PARTITION BY)` |
-| CTE-Based Query Architecture | All 5 SQL files; 4-CTE pipeline in `05_risk_adjusted_return.sql` |
-| Composite Metric Design | SQL and DAX composite risk score with documented weighting rationale |
-| DAX Time Intelligence | `DATESYTD`, `MAXX`-anchored YTD calculations for historical data |
-| DAX What-If Parameters | Interactive risk threshold slider with dynamic KPI cards and constant line |
+|SQL Execution & Modification | AI-assisted SQL involving NTILE, RANK, LAG, PERCENT_RANK, CTEs, CASE expressions, and window functions; independently reviewed and modified where needed. |
+|Power BI Dashboard Development | Hands-on visual construction, relationships, formatting, drill-through, and dashboard organization using AI-guided implementation. |
+| DAX Implementation | Claude-generated DAX measures used for time intelligence, risk scoring, What-If functionality, and KPI calculations. |
+|Composite Risk Metric | AI-assisted analytical framework and implementation. |
 | Data Quality Documentation | Flag-don't-delete methodology; 10 DQ issues logged with row counts and percentages |
 | Drill-Through Navigation | Page 6 dynamically filters to selected loan grade from any page |
 | Decomposition Tree | Interactive multi-level drill-down of default rate by grade, DTI, and purpose |
