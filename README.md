@@ -85,7 +85,7 @@ A deliberate progression in project complexity and technical exposure was built 
 |---|---|
 | Project 1 | Foundational SQL (CTEs, aggregations), Power BI (4 pages, basic DAX) |
 | Project 2 | Window functions (`RANK`, `LAG`, `PERCENT_RANK`), drill-through page, DAX time intelligence |
-| Project 3 | Star schema data model, `NTILE` risk scoring, DAX What-If parameter, Decomposition Tree |
+| Project 3 | Hybrid star/fact-constellation data model, NTILE risk scoring, DAX What-If parameter, Decomposition Tree |
 
 ---
 
@@ -231,7 +231,7 @@ The following techniques and features are represented within the portfolio proje
 | SQL JOINs, GROUP BY, CASE Expressions, and CTEs | Project 1, 2, 3 |
 | Window Functions (`ROW_NUMBER`, `RANK`, `NTILE`, `LAG`, `PERCENT_RANK`) | Projects 1, 2, 3 |
 | Power Query Data Cleaning & Transformation | Projects 2, 3 |
-| Star Schema Data Model | Project 3 |
+| Hybrid Star / Fact Constellation Data Model | Project 3 |
 | DAX Time Intelligence | Projects 2, 3 |
 | DAX What-If Parameter | Project 3 |
 | Power BI Drill-Through | Projects 2, 3 |
