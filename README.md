@@ -45,7 +45,7 @@ This is the third and final project in a multi-industry analytics portfolio span
 
 ## Data Dictionary
 
-### `loans_clean` — Central Fact Table (3,500 rows)
+### `loans_clean` — Primary Loan-Level Transaction Table (3,500 rows)
 
 | Column | Type | Description |
 |---|---|---|
@@ -78,7 +78,7 @@ This is the third and final project in a multi-industry analytics portfolio span
 | state_flag | VARCHAR(15) | Power Query flag: OK or INVALID_STATE |
 | grade_mismatch_flag | VARCHAR(15) | Power Query flag: OK or GRADE_MISMATCH |
 
-### `payment_events_clean` — Payment History Table (23,628 rows)
+### `payment_events_clean` — Secondary Payment-Event Transaction Table (23,628 rows)
 
 | Column | Type | Description |
 |---|---|---|
