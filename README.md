@@ -238,7 +238,7 @@ loans_clean (fact)
     └── Calendar            [issue_date ← Date]              One-to-Many
 ```
 
-This star schema represents a deliberate evolution from Projects 1 and 2, which used lookup tables without a formal relational model. The `loan_subgrade` join (rather than `loan_grade`) was required because `loan_grade` contains duplicate values across subgrades — a real-world data modeling constraint documented in the troubleshooting log.
+This model represents an evolution in modeling complexity from Projects 1 and 2 by introducing multiple data grains within the same analytical model: loan-level records in `loans_clean` and payment-event-level records in `payment_events_clean`, supported by dedicated loan-grade, geography, and calendar dimensions.
 
 ---
 
