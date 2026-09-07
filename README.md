@@ -199,7 +199,7 @@ Claude-assisted synthetic data generation using Python → project-specific data
 - **Grade G is the most profitable:** net yield of +33.97% — high rates more than offset losses
 - **Medical loans:** highest charge-off rate at 27.55%
 - **Educational loans at Very High DTI:** 57.14% default rate — highest in the portfolio
-- **Month 6** is the peak first-miss window for 36-month loans — optimal servicer intervention point
+- **Month 6** produced the highest observed count of first missed payments among 36-month loans in the synthetic dataset; this pattern should be interpreted cautiously because payment-event generation introduced a known construction artifact.
 
 ### SQL Techniques
 `NTILE(5)` for credit quintile scoring, dual `RANK()`, `CASE` DTI banding, `AVG() OVER (PARTITION BY)`, `PERCENT_RANK()` with `CAST(... AS NUMERIC)`, `LAG()` for first missed payment detection, 4-CTE composite net yield pipeline
