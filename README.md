@@ -117,7 +117,7 @@ Covers January 1, 2021 – December 31, 2024. Columns: Date, Year, Month Number,
 
 ## Data Quality Findings
 
-All data quality issues were identified in Excel/Power Query and flagged rather than deleted, preserving analytical integrity. The flag columns were carried into PostgreSQL for SQL-layer filtering.
+Data quality issues were generally flagged rather than deleted to preserve analytical traceability. Duplicate loan records were the exception: 100 duplicate rows were identified and removed before analysis. Remaining data-quality issues were retained and flagged for SQL-layer filtering.
 
 ### `loans_clean` — 10 Issues Documented
 
@@ -387,11 +387,11 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 | Skill | Where Applied |
 |---|---|
 | Star Schema Data Modeling | Power BI Model view — 1 fact table, 4 dimension tables |
-|SQL Execution & Modification | AI-assisted SQL involving NTILE, RANK, LAG, PERCENT_RANK, CTEs, CASE expressions, and window functions; independently reviewed and modified where needed. |
-|Power BI Dashboard Development | Hands-on visual construction, relationships, formatting, drill-through, and dashboard organization using AI-guided implementation. |
+| SQL Execution & Modification | AI-assisted SQL involving NTILE, RANK, LAG, PERCENT_RANK, CTEs, CASE expressions, and window functions; independently reviewed and modified where needed. |
+| Power BI Dashboard Development | Hands-on visual construction, relationships, formatting, drill-through, and dashboard organization using AI-guided implementation. |
 | DAX Implementation | Claude-generated DAX measures used for time intelligence, risk scoring, What-If functionality, and KPI calculations. |
-|Composite Risk Metric | AI-assisted analytical framework and implementation. |
-| Data Quality Documentation | Flag-don't-delete methodology; 10 DQ issues logged with row counts and percentages |
+| Composite Risk Metric | AI-assisted analytical framework and implementation. |
+| Data Quality Documentation | Flag-don't-delete methodology for non-duplicate quality issues; duplicate records removed after validation |
 | Drill-Through Navigation | Page 6 dynamically filters to selected loan grade from any page |
 | Decomposition Tree | Interactive multi-level drill-down of default rate by grade, DTI, and purpose |
 | Synthetic Data Transparency | Known limitations documented openly in README and dashboard tooltips |
