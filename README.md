@@ -136,6 +136,8 @@ Data quality issues were generally flagged rather than deleted to preserve analy
 
 ### `payment_events_clean` — 3 Issues Documented
 
+30 duplicate payment-event rows were identified and removed before export, producing 23,628 cleaned payment records.
+
 | Code | Issue | Count |
 |---|---|---|
 | PE-DQ-1 | Duplicate payment event rows | 30 |
