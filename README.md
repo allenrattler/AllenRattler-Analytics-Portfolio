@@ -122,17 +122,17 @@ Data quality issues were generally flagged rather than deleted to preserve analy
 ### `loans_clean` — 10 Issues Documented
 
 | Code | Issue | Count | Rate |
-|---|---|---|---|
-| DQ-1 | Duplicate loan records | 100 | 2.7% |
-| DQ-2 | Null loan amounts | 300 | 8.1% |
+|---|---|---:|---:|
+| DQ-1 | Duplicate loan records | 100 | 2.8% |
+| DQ-2 | Null loan amounts | 300 | 8.3% |
 | DQ-3 | Negative interest rates | 80 | 2.2% |
-| DQ-4 | Invalid/null credit scores | 150 | 4.1% |
-| DQ-5 | DTI values over 100% | 100 | 2.7% |
+| DQ-4 | Invalid/null credit scores | 150 | 4.2% |
+| DQ-5 | DTI values over 100% | 100 | 2.8% |
 | DQ-6 | Date sequence errors | 50 | 1.4% |
-| DQ-7 | Mixed-case loan_status values | 120 | 3.2% |
+| DQ-7 | Mixed-case loan_status values | 120 | 3.3% |
 | DQ-8 | Invalid state codes | 40 | 1.1% |
-| DQ-9 | Null employment_length values | 200 | 5.4% |
-| DQ-10 | Grade/subgrade mismatches | 60 | 1.6% |
+| DQ-9 | Null employment_length values | 200 | 5.6% |
+| DQ-10 | Grade/subgrade mismatches | 60 | 1.7% |
 
 ### `payment_events_clean` — 3 Issues Documented
 
