@@ -127,7 +127,7 @@ Data quality issues were generally flagged rather than deleted to preserve analy
 - `loan_grades_lookup`: 35 rows
 - `geography_lookup`: 50 rows
 
-### `loans_clean` — 10 Issues Documented
+### `loans_raw` — 10 Data Quality Issues Identified
 
 | Code | Issue | Count | Rate |
 |---|---|---:|---:|
@@ -142,7 +142,7 @@ Data quality issues were generally flagged rather than deleted to preserve analy
 | DQ-9 | Null employment_length values | 200 | 5.6% |
 | DQ-10 | Grade/subgrade mismatches | 60 | 1.7% |
 
-### `payment_events_clean` — 3 Issues Documented
+### `payment_events_raw` — 3 Data Quality Issues Identified
 
 30 duplicate payment-event rows were identified and removed before export, producing 23,628 cleaned payment records.
 
