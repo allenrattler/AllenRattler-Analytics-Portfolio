@@ -387,7 +387,7 @@ Educational loans at Very High DTI (>50%) default at 57.14%, the highest rate in
 ### Finding 5 — Month 6 Is the Peak First-Miss Window for 36-Month Loans
 For 36-month loans, payment month 6 produced the highest number of first missed payments (10 loans), with 120 total first misses occurring in the first 18 months — the first half of the loan term. This suggests the majority of default risk in short-term loans surfaces early and is identifiable before the midpoint.
 
-**Recommendation:** Design a proactive outreach program targeting 36-month loans approaching month 5. Month 5–6 could be evaluated as a potential outreach window in production data, but the synthetic-data artifact prevents this project from establishing a causal reduction in charge-offs.
+**Recommendation:** Evaluate months 5–6 as a potential outreach window using production payment-history data. The synthetic-data artifact in this project prevents determining whether intervention during this period would reduce charge-offs.
 
 ---
 
