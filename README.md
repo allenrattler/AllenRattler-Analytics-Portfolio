@@ -239,11 +239,22 @@ LAG(payment_status) OVER (
 ### Data Model — Hybrid Relational Model with Multiple Data Grains
 
 ```
-loans_clean (fact)
-    ├── loan_grades_lookup  [loan_subgrade → loan_subgrade]  Many-to-One
-    ├── geography_lookup    [addr_state → state_code]        Many-to-One
-    ├── payment_events_clean [loan_id ← loan_id]             One-to-Many
-    └── Calendar            [issue_date ← Date]              One-to-Many
+loan_grades_lookup (dimension)
+        1
+        |
+        *
+loans_clean (primary transaction table, loan grain)
+        |
+        | 1
+        |
+        *
+payment_events_clean (secondary transaction table, payment-event grain)
+
+geography_lookup (dimension) 1 → * loans_clean
+Calendar (date dimension)    1 → * loans_clean
+
+_Measures       (disconnected measure table)
+Risk Threshold  (disconnected What-If parameter table)
 ```
 
 The model is centered on `loans_clean` at the loan grain, with `payment_events_clean` representing a secondary transaction grain containing multiple payment events per loan. `loan_grades_lookup`, `geography_lookup`, and `Calendar` provide supporting dimensions. `_Measures` and `Risk Threshold` are disconnected analytical tables used for dashboard calculations and What-If scenario functionality.
