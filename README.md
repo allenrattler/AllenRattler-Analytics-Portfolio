@@ -236,7 +236,7 @@ LAG(payment_status) OVER (
 **Pages:** 6
 **DAX Measures:** 17 (stored in `_Measures` table)
 
-### Data Model — Star Schema
+### Data Model — Hybrid Relational Model with Multiple Data Grains
 
 ```
 loans_clean (fact)
@@ -246,7 +246,7 @@ loans_clean (fact)
     └── Calendar            [issue_date ← Date]              One-to-Many
 ```
 
-This model represents an evolution in modeling complexity from Projects 1 and 2 by introducing multiple data grains within the same analytical model: loan-level records in `loans_clean` and payment-event-level records in `payment_events_clean`, supported by dedicated loan-grade, geography, and calendar dimensions.
+The model is centered on `loans_clean` at the loan grain, with `payment_events_clean` representing a secondary transaction grain containing multiple payment events per loan. `loan_grades_lookup`, `geography_lookup`, and `Calendar` provide supporting dimensions. `_Measures` and `Risk Threshold` are disconnected analytical tables used for dashboard calculations and What-If scenario functionality.
 
 ---
 
