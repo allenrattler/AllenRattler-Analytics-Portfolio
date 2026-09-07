@@ -11,7 +11,7 @@ This project investigates a personal lending portfolio to answer one central bus
 
 > **Which borrowers are most likely to default — and are the loans being issued to high-risk segments priced and structured in a way that justifies the risk exposure?**
 
-Using a synthetic dataset of 3,500 loan records spanning 2021–2023, this analysis moves beyond surface-level default counts to build a composite risk scoring model that evaluates each loan grade on both its default rate and its net yield after charge-off losses. The headline finding challenges a foundational assumption in credit risk: **Grade A — the portfolio's "safest" grade — is the only grade with a negative net yield (-1.58%), meaning it collected less in interest than it lost to defaults.**
+Using a synthetic dataset of 3,500 loan records spanning 2021–2023, this analysis moves beyond surface-level default counts to build a composite risk scoring model that evaluates each loan grade on both its default rate and its net yield after charge-off losses. Within this synthetic portfolio, **Grade A produced the only negative net yield (-1.58%),** illustrating how nominally lower-risk segments can still underperform when pricing does not sufficiently offset realized losses.
 
 This is the third and final project in a multi-industry analytics portfolio spanning Education, Healthcare, and Finance. It represents the most technically advanced work in the series, introducing a star schema data model, SQL-based risk tier classification, DAX What-If parameter scenario modeling, and a Decomposition Tree visual.
 
@@ -449,7 +449,7 @@ AllenRattler-Analytics-Portfolio/
 
 **Allen Rattler** — Data Analyst in Training | Excel · SQL · Power BI
 
-Former 2nd grade elementary school teacher with four years of prior experience in healthcare back-end billing and collections. Building a multi-industry analytics portfolio to demonstrate data analyst capabilities across Education, Healthcare, and Finance.
+Current elementary educator transitioning into data analytics, with approximately four years of hospital insurance billing and collections experience followed by nearly two years of healthcare claims investigation and resolution. Building a multi-industry analytics portfolio across Education, Healthcare, and Finance.
 
 - GitHub: [AllenRattler-Analytics-Portfolio](https://github.com/allenrattler/AllenRattler-Analytics-Portfolio)
 - LinkedIn: Connect to follow the #LearningInPublic journey
