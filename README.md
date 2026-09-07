@@ -13,7 +13,7 @@ This project investigates a personal lending portfolio to answer one central bus
 
 Using a synthetic dataset of 3,500 loan records spanning 2021–2023, this analysis moves beyond surface-level default counts to build a composite risk scoring model that evaluates each loan grade on both its default rate and its net yield after charge-off losses. Within this synthetic portfolio, **Grade A produced the only negative net yield (-1.58%),** illustrating how nominally lower-risk segments can still underperform when pricing does not sufficiently offset realized losses.
 
-This is the third and final project in a multi-industry analytics portfolio spanning Education, Healthcare, and Finance. It represents the most technically advanced work in the series, introducing a hybrid star/fact-constellation data model, SQL-based risk tier classification, DAX What-If parameter scenario modeling, and a Decomposition Tree visual.
+This is the third and final project in a multi-industry analytics portfolio spanning Education, Healthcare, and Finance. It represents the most technically advanced work in the series, introducing a hybrid relational model with multiple data grains, SQL-based risk tier classification, DAX What-If parameter scenario modeling, and a Decomposition Tree visual.
 
 ### Portfolio Progression
 
@@ -21,7 +21,7 @@ This is the third and final project in a multi-industry analytics portfolio span
 |---|---|---|---|
 | Project 1 | Education | Student performance gap analysis | Baseline SQL, Power BI (4 pages) |
 | Project 2 | Healthcare | Claim denial & revenue recovery | Drill-through page, window functions, DAX time intelligence |
-| Project 3 | Finance | Personal lending credit risk | a hybrid star/fact-constellation data model, NTILE/risk scoring, DAX What-If parameter, Decomposition Tree |
+| Project 3 | Finance | Personal lending credit risk | a hybrid relational model with multiple data grains, NTILE/risk scoring, DAX What-If parameter, Decomposition Tree |
 
 ---
 
@@ -407,7 +407,7 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 
 | Skill | Where Applied |
 |---|---|
-| Relational Data Modeling | Hybrid star/fact-constellation model with a primary loan-level fact table, secondary payment-event fact table, supporting dimensions, and disconnected analytical parameter tables. |
+| Relational Data Modeling | Hybrid relational model with multiple data grains with a primary loan-level fact table, secondary payment-event fact table, supporting dimensions, and disconnected analytical parameter tables. |
 | SQL Execution & Modification | AI-assisted SQL involving NTILE, RANK, LAG, PERCENT_RANK, CTEs, CASE expressions, and window functions; independently reviewed and modified where needed. |
 | Power BI Dashboard Development | Hands-on visual construction, relationships, formatting, drill-through, and dashboard organization using AI-guided implementation. |
 | DAX Implementation | Claude-generated DAX measures used for time intelligence, risk scoring, What-If functionality, and KPI calculations. |
