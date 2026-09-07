@@ -377,8 +377,8 @@ Medical loans carry the highest charge-off rate at **27.55%** (PERCENT_RANK = 1.
 
 ---
 
-### Finding 4 — DTI Predicts Risk Differently by Loan Purpose
-Educational loans at Very High DTI (>50%) default at **57.14%** — the highest rate in the portfolio. However, debt consolidation borrowers at High DTI (36–50%) default *less* than those at Low DTI (<20%), suggesting intentionality of repayment matters as much as debt capacity. The pattern suggests that the relationship between DTI and default may vary by loan purpose; additional data would be required to determine the underlying drivers.
+### Finding 4 — DTI-Default Patterns Vary by Loan Purpose
+Educational loans at Very High DTI (>50%) default at 57.14%, the highest rate in the portfolio. Debt consolidation borrowers at High DTI (36–50%) default less frequently than those at Low DTI (<20%). This pattern suggests that the relationship between DTI and default may vary by loan purpose; additional production data would be required to investigate the underlying drivers.
 
 **Recommendation:** Evaluate enhanced manual review for educational loans in the highest-DTI segments. Production data and larger sample sizes would be needed to establish an appropriate operational cutoff.
 
