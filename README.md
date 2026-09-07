@@ -177,7 +177,7 @@ Which borrowers are most likely to default — and are the loans being issued to
 Finance — Personal Lending & Credit Risk
 
 ### Tools Used
-Claude-assisted synthetic data generation using Python → project-specific data cleaning using PostgreSQL or Excel/Power Query → AI-assisted PostgreSQL analysis → AI-guided Power BI development
+Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
 - `loans_clean`: 3,500 rows after deduplication
