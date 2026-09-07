@@ -180,8 +180,10 @@ Finance — Personal Lending & Credit Risk
 Claude-assisted synthetic data generation using Python → Excel/Power Query cleaning → AI-assisted PostgreSQL analysis → AI-guided Power BI development
 
 ### Dataset
-- `loans_clean`: 3,500 rows after deduplication
-- `payment_events_clean`: 23,628 rows
+- `loans_raw`: 3,600 rows before deduplication
+- `loans_clean`: 3,500 rows after removing 100 duplicate rows
+- `payment_events_raw`: 23,658 rows before deduplication
+- `payment_events_clean`: 23,628 rows after removing 30 duplicate rows
 - `loan_grades_lookup`: 35 rows
 - `geography_lookup`: 50 rows
 
