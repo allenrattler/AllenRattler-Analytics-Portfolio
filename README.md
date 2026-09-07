@@ -347,7 +347,7 @@ Grade A loans — the portfolio's lowest-risk tier — carry a net yield of **-1
 ### Finding 2 — Grade G Is the Most Profitable Grade
 Counterintuitively, Grade G — the riskiest grade — delivers the highest net yield at **+33.97%** and ranks #1 on portfolio profitability. High rates (33.92% average) more than compensate for charge-off losses ($342,350 across 132 loans). This finding challenges the assumption that riskier grades are less profitable.
 
-**Recommendation:** Evaluate whether Grade G loan volume can be selectively expanded for borrowers with strong employment history and stable income, where the rate premium is justified by genuine risk rather than grade label alone.
+**Recommendation:** Evaluate whether limited expansion of Grade G originations is warranted after validating profitability, borrower-level risk characteristics, concentration effects, and performance stability using production data.
 
 ---
 
@@ -361,7 +361,7 @@ Medical loans carry the highest charge-off rate at **27.55%** (PERCENT_RANK = 1.
 ### Finding 4 — DTI Predicts Risk Differently by Loan Purpose
 Educational loans at Very High DTI (>50%) default at **57.14%** — the highest rate in the portfolio. However, debt consolidation borrowers at High DTI (36–50%) default *less* than those at Low DTI (<20%), suggesting intentionality of repayment matters as much as debt capacity. The pattern suggests that the relationship between DTI and default may vary by loan purpose; additional data would be required to determine the underlying drivers.
 
-**Recommendation:** Implement purpose-specific DTI thresholds rather than a single portfolio-wide cutoff. Educational loan approvals above 40% DTI should trigger manual underwriting review.
+**Recommendation:** Evaluate enhanced manual review for educational loans in the highest-DTI segments. Production data and larger sample sizes would be needed to establish an appropriate operational cutoff.
 
 ---
 
