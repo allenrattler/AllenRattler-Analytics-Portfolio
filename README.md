@@ -388,7 +388,7 @@ For 36-month loans, payment month 6 produced the highest number of first missed 
 
 | Skill | Where Applied |
 |---|---|
-| Star Schema Data Modeling | Power BI Model view — 1 fact table, 4 dimension tables |
+| Data Model — Hybrid Star / Fact Constellation | The model is centered on `loans_clean` as the primary loan-level fact table. `payment_events_clean` functions as a related transaction-level fact table containing multiple payment events per loan. `loan_grades_lookup`, `geography_lookup`, and `Calenda`r provide descriptive dimensions, while `_Measures` and `Risk Threshold` are disconnected supporting tables used for calculations and scenario analysis. |
 | SQL Execution & Modification | AI-assisted SQL involving NTILE, RANK, LAG, PERCENT_RANK, CTEs, CASE expressions, and window functions; independently reviewed and modified where needed. |
 | Power BI Dashboard Development | Hands-on visual construction, relationships, formatting, drill-through, and dashboard organization using AI-guided implementation. |
 | DAX Implementation | Claude-generated DAX measures used for time intelligence, risk scoring, What-If functionality, and KPI calculations. |
