@@ -338,7 +338,7 @@ RETURN IF(ISBLANK(Result), 0, Result)
 ### Finding 1 — Grade A Is Underwater
 Grade A loans — the portfolio's lowest-risk tier — carry a net yield of **-1.58%**, the only grade with a negative return. Interest collected ($1.71M) was outpaced by charge-off losses ($1.81M). With a 6.51% average interest rate, Grade A lacks sufficient margin to absorb a 25% default rate.
 
-**Recommendation:** Review Grade A pricing thresholds. An interest rate increase of 150–200 basis points would restore positive net yield without meaningfully reducing approval volume at this credit tier.
+**Recommendation:** Evaluate whether modest pricing adjustments or revised underwriting thresholds could improve Grade A risk-adjusted returns. Additional analysis would be required to estimate effects on approval volume and borrower demand.
 
 ---
 
@@ -357,7 +357,7 @@ Medical loans carry the highest charge-off rate at **27.55%** (PERCENT_RANK = 1.
 ---
 
 ### Finding 4 — DTI Predicts Risk Differently by Loan Purpose
-Educational loans at Very High DTI (>50%) default at **57.14%** — the highest rate in the portfolio. However, debt consolidation borrowers at High DTI (36–50%) default *less* than those at Low DTI (<20%), suggesting intentionality of repayment matters as much as debt capacity. A borrower consolidating debt at high DTI is demonstrating financial self-awareness; a low-DTI vacation borrower may not be.
+Educational loans at Very High DTI (>50%) default at **57.14%** — the highest rate in the portfolio. However, debt consolidation borrowers at High DTI (36–50%) default *less* than those at Low DTI (<20%), suggesting intentionality of repayment matters as much as debt capacity. The pattern suggests that the relationship between DTI and default may vary by loan purpose; additional data would be required to determine the underlying drivers.
 
 **Recommendation:** Implement purpose-specific DTI thresholds rather than a single portfolio-wide cutoff. Educational loan approvals above 40% DTI should trigger manual underwriting review.
 
